@@ -1,0 +1,39 @@
+2025-04-15 17:34:32.898 [info] Getting Manifest... raunofreiberg.vesper
+2025-04-15 17:34:32.898 [info] Getting Manifest... ms-python.debugpy
+2025-04-15 17:34:32.898 [info] Getting Manifest... ms-python.vscode-pylance
+2025-04-15 17:34:32.898 [info] Getting Manifest... ms-python.python
+2025-04-15 17:34:32.985 [info] Installing extension: ms-python.python {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/imran/.vscode/extensions/extensions.json","path":"/home/imran/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.98.2","date":"2025-03-12T13:32:45.399Z"}}
+2025-04-15 17:34:32.986 [info] Installing extension: ms-python.debugpy {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/imran/.vscode/extensions/extensions.json","path":"/home/imran/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.98.2","date":"2025-03-12T13:32:45.399Z"}}
+2025-04-15 17:34:32.986 [info] Installing extension: raunofreiberg.vesper {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/imran/.vscode/extensions/extensions.json","path":"/home/imran/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.98.2","date":"2025-03-12T13:32:45.399Z"}}
+2025-04-15 17:34:32.986 [info] Installing extension: ms-python.vscode-pylance {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/imran/.vscode/extensions/extensions.json","path":"/home/imran/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.98.2","date":"2025-03-12T13:32:45.399Z"}}
+2025-04-15 17:34:32.986 [info] Installing the extension without checking dependencies and pack ms-python.python
+2025-04-15 17:34:32.986 [info] Installing the extension without checking dependencies and pack ms-python.debugpy
+2025-04-15 17:34:32.986 [info] Installing the extension without checking dependencies and pack raunofreiberg.vesper
+2025-04-15 17:34:32.987 [info] Installing the extension without checking dependencies and pack ms-python.vscode-pylance
+2025-04-15 17:34:33.325 [info] Extension signature verification result for raunofreiberg.vesper: UnknownError. Internal Code: 159. Executed: true. Duration: 51ms.
+2025-04-15 17:34:33.354 [info] Extension signature verification result for ms-python.debugpy: UnknownError. Internal Code: 159. Executed: true. Duration: 7ms.
+2025-04-15 17:34:33.356 [info] Extracted extension to file:///home/imran/.vscode/extensions/raunofreiberg.vesper-0.0.39: raunofreiberg.vesper
+2025-04-15 17:34:33.366 [info] Renamed to /home/imran/.vscode/extensions/raunofreiberg.vesper-0.0.39
+2025-04-15 17:34:33.799 [info] Extension signature verification result for ms-python.python: UnknownError. Internal Code: 159. Executed: true. Duration: 7ms.
+2025-04-15 17:34:34.038 [info] Extracted extension to file:///home/imran/.vscode/extensions/ms-python.debugpy-2025.6.0-linux-x64: ms-python.debugpy
+2025-04-15 17:34:34.061 [info] Renamed to /home/imran/.vscode/extensions/ms-python.debugpy-2025.6.0-linux-x64
+2025-04-15 17:34:34.819 [info] Extension signature verification result for ms-python.vscode-pylance: UnknownError. Internal Code: 159. Executed: true. Duration: 7ms.
+2025-04-15 17:34:35.276 [info] Extracted extension to file:///home/imran/.vscode/extensions/ms-python.python-2025.4.0-linux-x64: ms-python.python
+2025-04-15 17:34:35.352 [info] Renamed to /home/imran/.vscode/extensions/ms-python.python-2025.4.0-linux-x64
+2025-04-15 17:34:39.573 [info] Extracted extension to file:///home/imran/.vscode/extensions/ms-python.vscode-pylance-2025.4.1: ms-python.vscode-pylance
+2025-04-15 17:34:40.040 [info] Renamed to /home/imran/.vscode/extensions/ms-python.vscode-pylance-2025.4.1
+2025-04-15 17:34:40.079 [info] Extension installed successfully: raunofreiberg.vesper vscode-userdata:/home/imran/.vscode/extensions/extensions.json
+2025-04-15 17:34:40.080 [info] Extension installed successfully: ms-python.debugpy vscode-userdata:/home/imran/.vscode/extensions/extensions.json
+2025-04-15 17:34:40.080 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/imran/.vscode/extensions/extensions.json
+2025-04-15 17:34:40.080 [info] Extension installed successfully: ms-python.vscode-pylance vscode-userdata:/home/imran/.vscode/extensions/extensions.json
+2025-04-15 17:35:28.976 [info] Getting Manifest... ms-python.python
+2025-04-15 17:35:28.990 [info] Installing extension: ms-python.python {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/imran/.vscode/extensions/extensions.json","path":"/home/imran/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.98.2","date":"2025-03-12T13:32:45.399Z"}}
+2025-04-15 17:35:29.106 [info] Getting Manifest... ms-python.vscode-pylance
+2025-04-15 17:35:29.119 [info] Getting Manifest... ms-python.debugpy
+2025-04-15 17:35:29.181 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/imran/.vscode/extensions/extensions.json
+2025-04-15 17:35:42.322 [info] Getting Manifest... vscodevim.vim
+2025-04-15 17:35:42.376 [info] Installing extension: vscodevim.vim {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/imran/.vscode/extensions/extensions.json","path":"/home/imran/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.98.2","date":"2025-03-12T13:32:45.399Z"}}
+2025-04-15 17:35:42.590 [info] Extension signature verification result for vscodevim.vim: UnknownError. Internal Code: 159. Executed: true. Duration: 9ms.
+2025-04-15 17:35:42.635 [info] Extracted extension to file:///home/imran/.vscode/extensions/vscodevim.vim-1.29.0: vscodevim.vim
+2025-04-15 17:35:42.646 [info] Renamed to /home/imran/.vscode/extensions/vscodevim.vim-1.29.0
+2025-04-15 17:35:42.668 [info] Extension installed successfully: vscodevim.vim vscode-userdata:/home/imran/.vscode/extensions/extensions.json

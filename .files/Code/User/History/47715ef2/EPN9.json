@@ -1,0 +1,10 @@
+{
+    "security.workspace.trust.untrustedFiles": "newWindow",
+    "editor.fontSize": 14,
+    "window.openFoldersInNewWindow": "on",
+    "window.confirmSaveUntitledWorkspace": false,
+    "explorer.confirmDelete": false,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorBlinking": "expand",
+    "editor.fontFamily": "'Hack Nerd Font', monospace"
+}

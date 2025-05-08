@@ -1,0 +1,9 @@
+2025-04-16 01:05:49.958 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-04-16 01:05:49.958 [info] Experiment 'pythonSurveyNotificationcf' is active
+2025-04-16 01:05:49.958 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-04-16 01:05:49.958 [warning] Dir "/home/imran/Desktop/Code/.pixi/envs" is not watchable (directory does not exist)
+2025-04-16 01:05:49.976 [info] > /run/current-system/sw/bin/python -I ~/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/interpreterInfo.py
+2025-04-16 01:05:49.995 [info] > pyenv which python
+2025-04-16 01:05:49.995 [info] cwd: .
+2025-04-16 01:05:50.582 [info] Python interpreter path: /run/current-system/sw/bin/python
+2025-04-16 01:05:51.884 [info] Starting Pylance language server.

@@ -1,0 +1,375 @@
+00:26:07.853: Platform: Wayland
+00:26:07.853: CPU Name: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz
+00:26:07.853: CPU Speed: 4018.025MHz
+00:26:07.853: Physical Cores: 4, Logical Cores: 8
+00:26:07.853: Physical Memory: 31984MB Total, 26743MB Free
+00:26:07.853: Kernel Version: Linux 6.6.86
+00:26:07.853: Distribution: NixOS "24.11"
+00:26:07.853: Desktop Environment: GNOME (gnome)
+00:26:07.853: Session Type: wayland
+00:26:07.858: Qt Version: 6.8.2 (runtime), 6.8.2 (compiled)
+00:26:07.858: Portable mode: false
+00:26:07.957: OBS 30.2.3 (linux)
+00:26:07.957: ---------------------------------
+00:26:07.959: ---------------------------------
+00:26:07.959: audio settings reset:
+00:26:07.959: 	samples per sec: 48000
+00:26:07.959: 	speakers:        2
+00:26:07.959: 	max buffering:   960 milliseconds
+00:26:07.959: 	buffering type:  dynamically increasing
+00:26:07.984: ---------------------------------
+00:26:07.984: Initializing OpenGL...
+00:26:07.984: Using EGL/Wayland
+00:26:08.053: Initialized EGL 1.5
+00:26:08.070: Loading up OpenGL on adapter Intel Mesa Intel(R) HD Graphics 630 (KBL GT2)
+00:26:08.070: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 24.2.8, shading language 4.60
+00:26:08.269: ---------------------------------
+00:26:08.269: video settings reset:
+00:26:08.269: 	base resolution:   1280x720
+00:26:08.269: 	output resolution: 1280x720
+00:26:08.269: 	downscale filter:  Lanczos
+00:26:08.269: 	fps:               60/1
+00:26:08.269: 	format:            NV12
+00:26:08.269: 	YUV mode:          Rec. 709/Partial
+00:26:08.270: NV12 texture support enabled
+00:26:08.270: P010 texture support not available
+00:26:08.277: Audio monitoring device:
+00:26:08.277: 	name: Default
+00:26:08.277: 	id: default
+00:26:08.277: ---------------------------------
+00:26:08.304: Failed to load 'en-US' text for module: 'decklink-captions.so'
+00:26:08.332: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+00:26:08.358: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+00:26:08.358: Failed to initialize module 'decklink.so'
+00:26:08.957: [pipewire] Available capture sources:
+00:26:08.957: [pipewire]     - Monitor source
+00:26:08.957: [pipewire]     - Window source
+00:26:09.027: v4l2loopback not installed, virtual camera not registered
+00:26:09.079: [obs-browser]: Version 2.23.6
+00:26:09.079: [obs-browser]: CEF Version 121.0.6167.184 (runtime), 121.3.13+g5c4a81b+chromium-121.0.6167.184 (compiled)
+00:26:09.389: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+00:26:09.390: FFmpeg VAAPI H264 encoding not supported
+00:26:09.390: VAAPI: Failed to initialize display in vaapi_device_av1_supported
+00:26:09.390: FFmpeg VAAPI AV1 encoding not supported
+00:26:09.391: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+00:26:09.391: FFmpeg VAAPI HEVC encoding not supported
+00:26:09.736: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.5.2 | RPC Version: 1)
+00:26:09.736: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.8.2 | Qt version (run-time): 6.8.2
+00:26:09.736: [obs-websocket] [obs_module_load] Linked ASIO Version: 102400
+00:26:09.748: [obs-websocket] [obs_module_load] Module loaded.
+00:26:09.869: [vlc-video]: VLC 3.0.21 Vetinari found, VLC video source enabled
+00:26:09.869: ---------------------------------
+00:26:09.869:   Loaded Modules:
+00:26:09.869:     vlc-video.so
+00:26:09.869:     text-freetype2.so
+00:26:09.869:     rtmp-services.so
+00:26:09.869:     obs-x264.so
+00:26:09.869:     obs-websocket.so
+00:26:09.869:     obs-webrtc.so
+00:26:09.869:     obs-vst.so
+00:26:09.869:     obs-transitions.so
+00:26:09.869:     obs-qsv11.so
+00:26:09.869:     obs-outputs.so
+00:26:09.869:     obs-libfdk.so
+00:26:09.869:     obs-filters.so
+00:26:09.869:     obs-ffmpeg.so
+00:26:09.869:     obs-browser.so
+00:26:09.869:     linux-v4l2.so
+00:26:09.869:     linux-pulseaudio.so
+00:26:09.869:     linux-pipewire.so
+00:26:09.869:     linux-jack.so
+00:26:09.869:     linux-capture.so
+00:26:09.869:     linux-alsa.so
+00:26:09.869:     image-source.so
+00:26:09.869:     frontend-tools.so
+00:26:09.869:     decklink-output-ui.so
+00:26:09.870:     decklink-captions.so
+00:26:09.870: ---------------------------------
+00:26:09.870: ---------------------------------
+00:26:09.870: Available Encoders:
+00:26:09.870:   Video Encoders:
+00:26:09.870: 	- ffmpeg_svt_av1 (SVT-AV1)
+00:26:09.870: 	- ffmpeg_aom_av1 (AOM AV1)
+00:26:09.870: 	- obs_x264 (x264)
+00:26:09.870:   Audio Encoders:
+00:26:09.870: 	- ffmpeg_aac (FFmpeg AAC)
+00:26:09.870: 	- ffmpeg_opus (FFmpeg Opus)
+00:26:09.870: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+00:26:09.870: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+00:26:09.870: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+00:26:09.870: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+00:26:09.870: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+00:26:09.870: 	- libfdk_aac (libfdk AAC)
+00:26:09.870: ==== Startup complete ===============================================
+00:26:09.924: All scene data cleared
+00:26:09.924: ------------------------------------------------
+00:26:09.932: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.7) 15.0.0'
+00:26:09.932: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+00:26:09.932: pulse-input: Started recording from 'alsa_output.pci-0000_00_1f.3.hdmi-stereo.monitor' (default)
+00:26:09.932: [Loaded global audio device]: 'Desktop Audio'
+00:26:09.933: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.7) 15.0.0'
+00:26:09.933: pulse-input: Audio format: s16le, 48000 Hz, 2 channels
+00:26:09.933: pulse-input: Started recording from 'alsa_input.usb-MACROSILICON_2109-02.analog-stereo' (default)
+00:26:09.933: [Loaded global audio device]: 'Mic/Aux'
+00:26:09.934: v4l2-input: Start capture from /dev/video6
+00:26:09.934: v4l2-input: Unable to open device
+00:26:09.934: v4l2-input: Initialization failed, errno: No such file or directory
+00:26:09.935: Switched to scene 'Scene'
+00:26:09.935: ------------------------------------------------
+00:26:09.935: Loaded scenes:
+00:26:09.935: - scene 'Scene':
+00:26:09.935:     - source: 'Video Capture Device (V4L2)' (v4l2_input)
+00:26:09.935: ------------------------------------------------
+00:26:10.562: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Desktop Audio)
+00:26:10.562: 
+00:26:40.855: User Removed source 'Video Capture Device (V4L2)' (v4l2_input) from scene 'Scene'
+00:26:40.857: virtual void QtWaylandClient::QWaylandTextInputv3::zwp_text_input_v3_leave(wl_surface*) Got leave event for surface 0x0 focused surface 0x27d33ab0
+00:26:44.118: virtual void QtWaylandClient::QWaylandTextInputv3::zwp_text_input_v3_leave(wl_surface*) Got leave event for surface 0x0 focused surface 0x2739c720
+00:26:46.675: v4l2-input: Start capture from 
+00:26:46.675: v4l2-input: Unable to open device
+00:26:46.675: v4l2-input: Initialization failed, errno: No such file or directory
+00:26:46.678: User added source 'Video Capture Device (V4L2)' (v4l2_input) to scene 'Scene'
+00:26:46.682: virtual void QtWaylandClient::QWaylandTextInputv3::zwp_text_input_v3_leave(wl_surface*) Got leave event for surface 0x0 focused surface 0x2491ac70
+00:26:46.695: v4l2-input: /dev/video1 seems to not support video capture
+00:26:46.696: v4l2-input: Found device 'UVC Camera (534d:2109): USB Vid' at /dev/video0
+00:26:46.698: v4l2-input: Found input 'Camera 1' (Index 0)
+00:26:46.699: v4l2-input: Pixelformat: Motion-JPEG (available)
+00:26:46.699: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+00:26:46.699: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+00:26:46.699: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+00:26:46.699: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+00:26:46.699: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+00:26:46.700: v4l2-input: Stepwise and Continuous framesizes are currently hardcoded
+00:26:46.700: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+00:26:46.703: v4l2-input: Pixelformat: Motion-JPEG (available)
+00:26:46.703: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+00:26:46.703: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+00:26:46.703: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+00:26:46.703: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+00:26:46.703: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+00:26:46.703: v4l2-input: Stepwise and Continuous framesizes are currently hardcoded
+00:26:46.704: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+00:26:46.706: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+00:26:46.709: v4l2-input: Start capture from /dev/video0
+00:26:46.710: v4l2-input: Input: 0
+00:26:46.712: v4l2-input: Resolution: 1920x1080
+00:26:46.712: v4l2-input: Pixelformat: MJPG
+00:26:46.712: v4l2-input: Linesize: 0 Bytes
+00:26:46.712: v4l2-input: Framerate: 30.00 fps
+00:26:46.717: v4l2-input: /dev/video0: select timeout set to 166666 (5x frame periods)
+00:26:49.437: virtual void QtWaylandClient::QWaylandTextInputv3::zwp_text_input_v3_leave(wl_surface*) Got leave event for surface 0x0 focused surface 0x2790ce90
+00:26:52.066: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+00:26:52.089: v4l2-input: /dev/video0: Stopped capture after 159 frames
+00:26:52.091: v4l2-input: Start capture from /dev/video0
+00:26:52.092: v4l2-input: Input: 0
+00:26:52.093: v4l2-input: Resolution: 1920x1080
+00:26:52.093: v4l2-input: Pixelformat: YU12
+00:26:52.093: v4l2-input: Linesize: 1920 Bytes
+00:26:52.093: v4l2-input: Framerate: 30.00 fps
+00:26:52.094: v4l2-input: /dev/video0: select timeout set to 166666 (5x frame periods)
+00:26:52.096: virtual void QtWaylandClient::QWaylandTextInputv3::zwp_text_input_v3_leave(wl_surface*) Got leave event for surface 0x0 focused surface 0x27899da0
+00:26:56.530: virtual void QtWaylandClient::QWaylandTextInputv3::zwp_text_input_v3_leave(wl_surface*) Got leave event for surface 0x0 focused surface 0x2758e8c0
+00:26:56.539: v4l2-input: /dev/video0: Stopped capture after 131 frames
+00:26:56.541: v4l2-input: Start capture from /dev/video0
+00:26:56.542: v4l2-input: Input: 0
+00:26:56.543: v4l2-input: Resolution: 1280x720
+00:26:56.543: v4l2-input: Pixelformat: YU12
+00:26:56.543: v4l2-input: Linesize: 1280 Bytes
+00:26:56.543: v4l2-input: Framerate: 30.00 fps
+00:26:56.544: v4l2-input: /dev/video0: select timeout set to 166666 (5x frame periods)
+00:27:00.463: virtual void QtWaylandClient::QWaylandTextInputv3::zwp_text_input_v3_leave(wl_surface*) Got leave event for surface 0x0 focused surface 0x274b32f0
+00:27:00.501: v4l2-input: /dev/video0: Stopped capture after 116 frames
+00:27:00.503: v4l2-input: Start capture from /dev/video0
+00:27:00.503: v4l2-input: Input: 0
+00:27:00.504: v4l2-input: Resolution: 1280x720
+00:27:00.504: v4l2-input: Pixelformat: YU12
+00:27:00.504: v4l2-input: Linesize: 1280 Bytes
+00:27:00.505: v4l2-input: Framerate: 60.00 fps
+00:27:00.506: v4l2-input: /dev/video0: select timeout set to 83333 (5x frame periods)
+00:27:02.661: virtual void QtWaylandClient::QWaylandTextInputv3::zwp_text_input_v3_leave(wl_surface*) Got leave event for surface 0x0 focused surface 0x275c0260
+00:27:02.667: v4l2-input: /dev/video0: Stopped capture after 122 frames
+00:27:02.669: v4l2-input: Start capture from /dev/video0
+00:27:02.669: v4l2-input: Input: 0
+00:27:02.670: v4l2-input: Resolution: 1280x720
+00:27:02.670: v4l2-input: Pixelformat: YU12
+00:27:02.670: v4l2-input: Linesize: 1280 Bytes
+00:27:02.671: v4l2-input: Framerate: 60.00 fps
+00:27:02.672: v4l2-input: /dev/video0: select timeout set to 83333 (5x frame periods)
+00:27:03.966: virtual void QtWaylandClient::QWaylandTextInputv3::zwp_text_input_v3_leave(wl_surface*) Got leave event for surface 0x0 focused surface 0x276134f0
+00:27:03.989: v4l2-input: /dev/video0: Stopped capture after 74 frames
+00:27:03.991: v4l2-input: Start capture from /dev/video0
+00:27:03.992: v4l2-input: Input: 0
+00:27:03.993: v4l2-input: Resolution: 1280x720
+00:27:03.993: v4l2-input: Pixelformat: YU12
+00:27:03.993: v4l2-input: Linesize: 1280 Bytes
+00:27:03.994: v4l2-input: Framerate: 60.00 fps
+00:27:03.995: v4l2-input: /dev/video0: select timeout set to 83333 (5x frame periods)
+00:27:05.389: virtual void QtWaylandClient::QWaylandTextInputv3::zwp_text_input_v3_leave(wl_surface*) Got leave event for surface 0x0 focused surface 0x275c0260
+00:27:05.401: v4l2-input: /dev/video0: Stopped capture after 79 frames
+00:27:05.402: v4l2-input: Start capture from /dev/video0
+00:27:05.403: v4l2-input: Input: 0
+00:27:05.404: v4l2-input: Resolution: 1280x720
+00:27:05.404: v4l2-input: Pixelformat: YU12
+00:27:05.404: v4l2-input: Linesize: 1280 Bytes
+00:27:05.405: v4l2-input: Framerate: 60.00 fps
+00:27:05.405: v4l2-input: /dev/video0: select timeout set to 83333 (5x frame periods)
+00:27:07.051: virtual void QtWaylandClient::QWaylandTextInputv3::zwp_text_input_v3_leave(wl_surface*) Got leave event for surface 0x0 focused surface 0x24e82d00
+00:27:07.066: v4l2-input: /dev/video0: Stopped capture after 94 frames
+00:27:07.068: v4l2-input: Start capture from /dev/video0
+00:27:07.070: v4l2-input: Input: 0
+00:27:07.071: v4l2-input: Resolution: 1280x720
+00:27:07.071: v4l2-input: Pixelformat: YU12
+00:27:07.071: v4l2-input: Linesize: 1280 Bytes
+00:27:07.072: v4l2-input: Framerate: 60.00 fps
+00:27:07.072: v4l2-input: /dev/video0: select timeout set to 83333 (5x frame periods)
+00:27:10.821: v4l2-input: /dev/video0: Stopped capture after 215 frames
+00:27:10.824: v4l2-input: Start capture from /dev/video0
+00:27:10.826: v4l2-input: Input: 0
+00:27:10.827: v4l2-input: Resolution: 1280x720
+00:27:10.827: v4l2-input: Pixelformat: YU12
+00:27:10.827: v4l2-input: Linesize: 1280 Bytes
+00:27:10.828: v4l2-input: Framerate: 60.00 fps
+00:27:10.829: v4l2-input: /dev/video0: select timeout set to 83333 (5x frame periods)
+00:27:11.441: v4l2-input: /dev/video0: Stopped capture after 33 frames
+00:27:11.443: v4l2-input: Start capture from /dev/video0
+00:27:11.444: v4l2-input: Input: 0
+00:27:11.445: v4l2-input: Resolution: 1280x720
+00:27:11.446: v4l2-input: Pixelformat: YU12
+00:27:11.446: v4l2-input: Linesize: 1280 Bytes
+00:27:11.446: v4l2-input: Framerate: 60.00 fps
+00:27:11.448: v4l2-input: /dev/video0: select timeout set to 83333 (5x frame periods)
+00:27:22.192: virtual void QtWaylandClient::QWaylandTextInputv3::zwp_text_input_v3_leave(wl_surface*) Got leave event for surface 0x0 focused surface 0x27d28b30
+00:29:26.530: virtual void QtWaylandClient::QWaylandTextInputv3::zwp_text_input_v3_leave(wl_surface*) Got leave event for surface 0x0 focused surface 0x27d28590
+00:29:28.742: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.7) 15.0.0'
+00:29:28.742: pulse-input: Audio format: s16le, 48000 Hz, 2 channels
+00:29:28.742: pulse-input: Started recording from 'alsa_input.usb-MACROSILICON_2109-02.analog-stereo' (default)
+00:29:28.745: User added source 'Audio Input Capture (PulseAudio)' (pulse_input_capture) to scene 'Scene'
+00:29:28.753: virtual void QtWaylandClient::QWaylandTextInputv3::zwp_text_input_v3_leave(wl_surface*) Got leave event for surface 0x0 focused surface 0x27d2cb50
+00:29:33.606: virtual void QtWaylandClient::QWaylandTextInputv3::zwp_text_input_v3_leave(wl_surface*) Got leave event for surface 0x0 focused surface 0x27913ef0
+00:29:37.492: virtual void QtWaylandClient::QWaylandTextInputv3::zwp_text_input_v3_leave(wl_surface*) Got leave event for surface 0x0 focused surface 0x253b4520
+00:29:45.332: virtual void QtWaylandClient::QWaylandTextInputv3::zwp_text_input_v3_leave(wl_surface*) Got leave event for surface 0x0 focused surface 0x24918a50
+00:30:38.423: virtual void QtWaylandClient::QWaylandTextInputv3::zwp_text_input_v3_leave(wl_surface*) Got leave event for surface 0x0 focused surface 0x27c9c480
+00:30:40.778: virtual void QtWaylandClient::QWaylandTextInputv3::zwp_text_input_v3_leave(wl_surface*) Got leave event for surface 0x0 focused surface 0x2735bcf0
+00:30:42.724: pulse-input: Stopped recording from 'alsa_input.usb-BLUE_MICROPHONE_Blue_Snowball_797_2021_01_18_97530-00.mono-fallback'
+00:30:42.724: pulse-input: Got 2956 packets with 3547200 frames
+00:30:42.725: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.7) 15.0.0'
+00:30:42.725: pulse-input: Audio format: s16le, 48000 Hz, 1 channels
+00:30:42.725: pulse-input: Started recording from 'alsa_input.usb-BLUE_MICROPHONE_Blue_Snowball_797_2021_01_18_97530-00.mono-fallback'
+00:30:42.727: virtual void QtWaylandClient::QWaylandTextInputv3::zwp_text_input_v3_leave(wl_surface*) Got leave event for surface 0x0 focused surface 0x248dcfe0
+00:30:43.908: virtual void QtWaylandClient::QWaylandTextInputv3::zwp_text_input_v3_leave(wl_surface*) Got leave event for surface 0x0 focused surface 0x278c3d30
+00:36:15.431: ---------------------------------
+00:36:15.431: [x264 encoder: 'simple_video_recording'] preset: veryfast
+00:36:15.431: [x264 encoder: 'simple_video_recording'] profile: high
+00:36:15.432: [x264 encoder: 'simple_video_recording'] settings:
+00:36:15.432: 	rate_control: CRF
+00:36:15.432: 	bitrate:      0
+00:36:15.432: 	buffer size:  0
+00:36:15.432: 	crf:          21
+00:36:15.432: 	fps_num:      60
+00:36:15.432: 	fps_den:      1
+00:36:15.432: 	width:        1280
+00:36:15.432: 	height:       720
+00:36:15.432: 	keyint:       250
+00:36:15.432: 
+00:36:15.441: libfdk_aac encoder created
+00:36:15.441: libfdk_aac bitrate: 192, channels: 2
+00:36:15.444: ==== Recording Start ===============================================
+00:36:15.444: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/imran/2025-04-12 00-36-15.mkv'...
+01:10:31.812: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/imran/2025-04-12 00-36-15.mkv' stopped
+01:10:31.812: Output 'simple_file_output': stopping
+01:10:31.812: Output 'simple_file_output': Total frames output: 123355
+01:10:31.813: Output 'simple_file_output': Total drawn frames: 123382
+01:10:31.814: ==== Recording Stop ================================================
+01:10:31.821: libfdk_aac encoder destroyed
+01:10:37.143: ==== Shutting down ==================================================
+01:10:37.148: pulse-input: Stopped recording from 'alsa_output.pci-0000_00_1f.3.hdmi-stereo.monitor'
+01:10:37.148: pulse-input: Got 106685 packets with 128022000 frames
+01:10:37.148: pulse-input: Stopped recording from 'alsa_input.usb-MACROSILICON_2109-02.analog-stereo'
+01:10:37.148: pulse-input: Got 106680 packets with 128016000 frames
+01:10:37.161: v4l2-input: /dev/video0: Stopped capture after 155226 frames
+01:10:37.164: pulse-input: Stopped recording from 'alsa_input.usb-BLUE_MICROPHONE_Blue_Snowball_797_2021_01_18_97530-00.mono-fallback'
+01:10:37.164: pulse-input: Got 95767 packets with 114920400 frames
+01:10:37.168: All scene data cleared
+01:10:37.168: ------------------------------------------------
+01:10:37.181: virtual void QtWaylandClient::QWaylandTextInputv3::zwp_text_input_v3_leave(wl_surface*) Got leave event for surface 0x0 focused surface 0x24f502e0
+01:10:37.233: [obs-websocket] [obs_module_unload] Shutting down...
+01:10:37.233: Tried to call obs_frontend_remove_event_callback with no callbacks!
+01:10:37.233: [obs-websocket] [obs_module_unload] Finished shutting down.
+01:10:37.247: [Scripting] Total detached callbacks: 0
+01:10:37.247: Freeing OBS context data
+01:10:37.289: == Profiler Results =============================
+01:10:37.289: run_program_init: 2347.24 ms
+01:10:37.289:  ┣OBSApp::AppInit: 22.022 ms
+01:10:37.289:  ┃ ┗OBSApp::InitLocale: 2.61 ms
+01:10:37.289:  ┗OBSApp::OBSInit: 2123.51 ms
+01:10:37.289:    ┣obs_startup: 5.503 ms
+01:10:37.289:    ┗OBSBasic::OBSInit: 2017.57 ms
+01:10:37.289:      ┣OBSBasic::InitBasicConfig: 0.121 ms
+01:10:37.289:      ┣OBSBasic::ResetAudio: 0.334 ms
+01:10:37.289:      ┣OBSBasic::ResetVideo: 317.838 ms
+01:10:37.289:      ┃ ┗obs_init_graphics: 310.198 ms
+01:10:37.289:      ┃   ┗shader compilation: 198.295 ms
+01:10:37.289:      ┣OBSBasic::InitOBSCallbacks: 0.007 ms
+01:10:37.289:      ┣OBSBasic::InitHotkeys: 0.027 ms
+01:10:37.289:      ┣obs_load_all_modules2: 1592.03 ms
+01:10:37.289:      ┃ ┣obs_init_module(decklink-captions.so): 0 ms
+01:10:37.289:      ┃ ┣obs_init_module(decklink-output-ui.so): 0 ms
+01:10:37.289:      ┃ ┣obs_init_module(decklink.so): 0.352 ms
+01:10:37.289:      ┃ ┣obs_init_module(frontend-tools.so): 128.21 ms
+01:10:37.289:      ┃ ┣obs_init_module(image-source.so): 0.01 ms
+01:10:37.289:      ┃ ┣obs_init_module(linux-alsa.so): 0.003 ms
+01:10:37.289:      ┃ ┣obs_init_module(linux-capture.so): 0 ms
+01:10:37.290:      ┃ ┣obs_init_module(linux-jack.so): 0.008 ms
+01:10:37.290:      ┃ ┣obs_init_module(linux-pipewire.so): 17.795 ms
+01:10:37.290:      ┃ ┣obs_init_module(linux-pulseaudio.so): 0.009 ms
+01:10:37.290:      ┃ ┣obs_init_module(linux-v4l2.so): 5.761 ms
+01:10:37.290:      ┃ ┣obs_init_module(obs-browser.so): 0.291 ms
+01:10:37.290:      ┃ ┣obs_init_module(obs-ffmpeg.so): 9.438 ms
+01:10:37.290:      ┃ ┃ ┗nvenc_check: 1.136 ms
+01:10:37.290:      ┃ ┣obs_init_module(obs-filters.so): 0.029 ms
+01:10:37.290:      ┃ ┣obs_init_module(obs-libfdk.so): 0.002 ms
+01:10:37.290:      ┃ ┣obs_init_module(obs-outputs.so): 0.008 ms
+01:10:37.290:      ┃ ┣obs_init_module(obs-qsv11.so): 1.128 ms
+01:10:37.290:      ┃ ┣obs_init_module(obs-transitions.so): 0.011 ms
+01:10:37.290:      ┃ ┣obs_init_module(obs-vst.so): 0.005 ms
+01:10:37.290:      ┃ ┣obs_init_module(obs-webrtc.so): 0.011 ms
+01:10:37.290:      ┃ ┣obs_init_module(obs-websocket.so): 12.39 ms
+01:10:37.290:      ┃ ┣obs_init_module(obs-x264.so): 0.002 ms
+01:10:37.290:      ┃ ┣obs_init_module(rtmp-services.so): 1.876 ms
+01:10:37.290:      ┃ ┣obs_init_module(text-freetype2.so): 0.018 ms
+01:10:37.290:      ┃ ┗obs_init_module(vlc-video.so): 5.904 ms
+01:10:37.290:      ┣OBSBasic::InitService: 5.06 ms
+01:10:37.290:      ┣OBSBasic::ResetOutputs: 0.618 ms
+01:10:37.290:      ┣OBSBasic::CreateHotkeys: 0.046 ms
+01:10:37.290:      ┣OBSBasic::InitPrimitives: 0.133 ms
+01:10:37.290:      ┗OBSBasic::Load: 57.608 ms
+01:10:37.290: obs_hotkey_thread(25 ms): min=0 ms, median=0.001 ms, max=0.19 ms, 99th percentile=0.004 ms, 100% below 25 ms
+01:10:37.290: audio_thread(Audio): min=0.008 ms, median=0.443 ms, max=24.091 ms, 99th percentile=1.718 ms
+01:10:37.290:  ┗receive_audio: min=0.001 ms, median=0.393 ms, max=23.947 ms, 99th percentile=0.736 ms, 0.770392 calls per parent call
+01:10:37.290:    ┣buffer_audio: min=0 ms, median=0.001 ms, max=0.187 ms, 99th percentile=0.004 ms
+01:10:37.290:    ┗do_encode: min=0.067 ms, median=0.389 ms, max=23.944 ms, 99th percentile=0.726 ms
+01:10:37.290:      ┣encode(simple_aac_recording0): min=0.062 ms, median=0.366 ms, max=4.712 ms, 99th percentile=0.664 ms
+01:10:37.290:      ┗send_packet: min=0.001 ms, median=0.015 ms, max=23.86 ms, 99th percentile=0.112 ms
+01:10:37.290: obs_graphics_thread(16.6667 ms): min=0.044 ms, median=0.938 ms, max=50.337 ms, 99th percentile=4.385 ms, 99.9919% below 16.667 ms
+01:10:37.290:  ┣tick_sources: min=0 ms, median=0.011 ms, max=34.468 ms, 99th percentile=0.053 ms
+01:10:37.290:  ┣output_frame: min=0.022 ms, median=0.702 ms, max=26.916 ms, 99th percentile=2.823 ms
+01:10:37.290:  ┃ ┣gs_context(video->graphics): min=0.021 ms, median=0.539 ms, max=26.913 ms, 99th percentile=2.508 ms
+01:10:37.291:  ┃ ┃ ┣render_video: min=0.014 ms, median=0.421 ms, max=26.688 ms, 99th percentile=2.28 ms
+01:10:37.291:  ┃ ┃ ┃ ┣render_main_texture: min=0.011 ms, median=0.386 ms, max=19.238 ms, 99th percentile=2.216 ms
+01:10:37.291:  ┃ ┃ ┃ ┣render_convert_texture: min=0.016 ms, median=0.024 ms, max=23.415 ms, 99th percentile=0.086 ms, 0.770508 calls per parent call
+01:10:37.291:  ┃ ┃ ┃ ┗stage_output_texture: min=0.008 ms, median=0.011 ms, max=2.838 ms, 99th percentile=0.042 ms, 0.770508 calls per parent call
+01:10:37.291:  ┃ ┃ ┣gs_flush: min=0.002 ms, median=0.065 ms, max=2.356 ms, 99th percentile=0.223 ms
+01:10:37.291:  ┃ ┃ ┗download_frame: min=0 ms, median=0.045 ms, max=3.038 ms, 99th percentile=0.165 ms, 0.770508 calls per parent call
+01:10:37.291:  ┃ ┗output_video_data: min=0.098 ms, median=0.174 ms, max=4.201 ms, 99th percentile=0.766 ms, 0.770502 calls per parent call
+01:10:37.291:  ┗render_displays: min=0.003 ms, median=0.19 ms, max=44.912 ms, 99th percentile=2.476 ms
+01:10:37.291: video_thread(video): min=0.429 ms, median=0.819 ms, max=18.844 ms, 99th percentile=1.94 ms
+01:10:37.291:  ┗receive_video: min=0.429 ms, median=0.817 ms, max=18.841 ms, 99th percentile=1.937 ms
+01:10:37.291:    ┗do_encode: min=0.428 ms, median=0.816 ms, max=18.835 ms, 99th percentile=1.935 ms
+01:10:37.291:      ┣encode(simple_video_recording): min=0.419 ms, median=0.798 ms, max=16.756 ms, 99th percentile=1.896 ms
+01:10:37.291:      ┗send_packet: min=0.002 ms, median=0.013 ms, max=17.739 ms, 99th percentile=0.077 ms
+01:10:37.291: =================================================
+01:10:37.291: == Profiler Time Between Calls ==================
+01:10:37.291: obs_hotkey_thread(25 ms): min=25.015 ms, median=25.085 ms, max=31.484 ms, 98.0392% within ±2% of 25 ms (0% lower, 1.9608% higher)
+01:10:37.291: obs_graphics_thread(16.6667 ms): min=5.838 ms, median=16.667 ms, max=50.348 ms, 98.1534% within ±2% of 16.667 ms (0.924243% lower, 0.92237% higher)
+01:10:37.291: =================================================
+01:10:37.361: Number of memory leaks: 0

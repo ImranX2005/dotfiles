@@ -1,0 +1,10 @@
+2025-04-15 17:32:27.451 [info] Started local extension host with pid 38961.
+2025-04-15 17:32:28.146 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-04-15 17:32:36.694 [info] [perf] Render performance baseline is 37ms
+2025-04-15 17:32:58.039 [info] Started local extension host with pid 39381.
+2025-04-15 17:32:58.616 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-04-15 17:33:00.654 [info] [perf] Render performance baseline is 25ms
+2025-04-15 17:34:31.938 [info] Settings Sync: Updated current session 00000000-0000-0000-036d-463bd1739edb.9188040d-6c67-4c5b-b112-36a304b66dad
+2025-04-15 17:34:31.941 [info] Settings Sync: Token updated for the account imran.sx55@gmail.com
+2025-04-15 17:34:31.942 [info] Settings Sync: Account status changed from unavailable to available
+2025-04-15 17:35:43.963 [error] An unknown error occurred. Please consult the log for more details.

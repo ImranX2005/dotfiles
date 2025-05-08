@@ -1,0 +1,113 @@
+# Set mod key (Mod4 is usually the Super/Windows key)
+set $mod Mod4
+
+# Set wallpaper with feh
+exec_always --no-startup-id feh --bg-scale /home/imran/Pictures/Wallpaper/45.jpeg
+exec --no-startup-id picom --experimental-backends
+
+#Display
+exec --no-startup-id xrandr --newmode "2560x1440_165.00" 586.00 2560 2760 3032 3504 1440 1443 1453 1503 -hsync +vsync
+exec --no-startup-id xrandr --addmode DP-2 "2560x1440_165.00"
+exec --no-startup-id xrandr --output DP-2 --mode "2560x1440_165.00"
+
+# Font
+font pango:Source Code Pro Black 10
+
+
+# Use Mouse+$mod to drag floating windows
+floating_modifier $mod
+
+# Workspace switching
+set $ws1 "1"
+set $ws2 "2"
+set $ws3 "3"
+set $ws4 "4"
+set $ws5 "5"
+set $ws6 "6"
+set $ws7 "7"
+set $ws8 "8"
+set $ws9 "9"
+set $ws10 "10"
+
+bindsym $mod+1 workspace $ws1
+bindsym $mod+2 workspace $ws2
+bindsym $mod+3 workspace $ws3
+bindsym $mod+4 workspace $ws4
+bindsym $mod+5 workspace $ws5
+bindsym $mod+6 workspace $ws6
+bindsym $mod+7 workspace $ws7
+bindsym $mod+8 workspace $ws8
+bindsym $mod+9 workspace $ws9
+bindsym $mod+0 workspace $ws10
+
+bindsym $mod+Shift+1 move container to workspace $ws1
+bindsym $mod+Shift+2 move container to workspace $ws2
+bindsym $mod+Shift+3 move container to workspace $ws3
+bindsym $mod+Shift+4 move container to workspace $ws4
+bindsym $mod+Shift+5 move container to workspace $ws5
+bindsym $mod+Shift+6 move container to workspace $ws6
+bindsym $mod+Shift+7 move container to workspace $ws7
+bindsym $mod+Shift+8 move container to workspace $ws8
+bindsym $mod+Shift+9 move container to workspace $ws9
+bindsym $mod+Shift+0 move container to workspace $ws10
+
+# Window focus
+bindsym $mod+Left focus left
+bindsym $mod+Down focus down
+bindsym $mod+Up focus up
+bindsym $mod+Right focus right
+
+# Move windows
+bindsym $mod+Shift+Left move left
+bindsym $mod+Shift+Down move down
+bindsym $mod+Shift+Up move up
+bindsym $mod+Shift+Right move right
+
+# Window layout
+bindsym $mod+h split h
+bindsym $mod+v split v
+bindsym $mod+f fullscreen toggle
+bindsym $mod+s layout stacking
+bindsym $mod+w layout tabbed
+bindsym $mod+e layout toggle split
+
+# Toggle floating
+bindsym $mod+Shift+space floating toggle
+
+# Focus parent/child
+bindsym $mod+a focus parent
+bindsym $mod+l focus child
+
+# Reload/Restart (flipped)
+bindsym $mod+Shift+r restart
+bindsym $mod+Shift+c reload
+
+# Close window
+bindsym $mod+c kill
+
+# Launch apps
+bindsym $mod+q exec alacritty
+bindsym $mod+Return exec thunar
+bindsym $mod+b exec firefox
+bindsym $mod+d exec dmenu_run
+
+bar {
+    status_command i3status
+    position bottom
+
+    font pango:Source Code Pro Black 14
+    height 30
+
+    colors {
+        background #282a36
+        statusline #f8f8f2
+        separator  #44475a
+
+        focused_workspace  #6272a4 #6272a4 #ffffff
+        active_workspace   #44475a #44475a #ffffff
+        inactive_workspace #282a36 #282a36 #6272a4
+        urgent_workspace   #ff5555 #ff5555 #ffffff
+        binding_mode       #ff5555 #ff5555 #ffffff
+    }
+}
+

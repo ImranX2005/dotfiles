@@ -1,0 +1,1670 @@
+21:22:51.328: Platform: Wayland
+21:22:51.329: CPU Name: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz
+21:22:51.329: CPU Speed: 4002.406MHz
+21:22:51.329: Physical Cores: 4, Logical Cores: 8
+21:22:51.329: Physical Memory: 31984MB Total, 24950MB Free
+21:22:51.329: Kernel Version: Linux 6.6.85
+21:22:51.329: Distribution: NixOS "24.11"
+21:22:51.329: Desktop Environment: KDE (KDE)
+21:22:51.329: Session Type: wayland
+21:22:51.332: Qt Version: 6.8.2 (runtime), 6.8.2 (compiled)
+21:22:51.332: Portable mode: false
+21:22:51.482: OBS 30.2.3 (linux)
+21:22:51.482: ---------------------------------
+21:22:51.482: ---------------------------------
+21:22:51.482: audio settings reset:
+21:22:51.482: 	samples per sec: 48000
+21:22:51.482: 	speakers:        2
+21:22:51.482: 	max buffering:   960 milliseconds
+21:22:51.482: 	buffering type:  dynamically increasing
+21:22:51.499: ---------------------------------
+21:22:51.499: Initializing OpenGL...
+21:22:51.499: Using EGL/Wayland
+21:22:51.505: Initialized EGL 1.5
+21:22:51.521: Loading up OpenGL on adapter Intel Mesa Intel(R) HD Graphics 630 (KBL GT2)
+21:22:51.521: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 24.2.8, shading language 4.60
+21:22:51.667: ---------------------------------
+21:22:51.667: video settings reset:
+21:22:51.667: 	base resolution:   1920x1080
+21:22:51.667: 	output resolution: 1280x720
+21:22:51.667: 	downscale filter:  Bicubic
+21:22:51.667: 	fps:               30/1
+21:22:51.667: 	format:            NV12
+21:22:51.667: 	YUV mode:          Rec. 709/Partial
+21:22:51.667: NV12 texture support enabled
+21:22:51.667: P010 texture support not available
+21:22:51.674: Audio monitoring device:
+21:22:51.674: 	name: Default
+21:22:51.674: 	id: default
+21:22:51.674: ---------------------------------
+21:22:51.697: Failed to load 'en-US' text for module: 'decklink-captions.so'
+21:22:51.721: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+21:22:51.743: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+21:22:51.744: Failed to initialize module 'decklink.so'
+21:22:52.230: [pipewire] Available capture sources:
+21:22:52.230: [pipewire]     - Monitor source
+21:22:52.230: [pipewire]     - Window source
+21:22:52.529: v4l2loopback not installed, virtual camera not registered
+21:22:52.580: [obs-browser]: Version 2.23.6
+21:22:52.580: [obs-browser]: CEF Version 121.0.6167.184 (runtime), 121.3.13+g5c4a81b+chromium-121.0.6167.184 (compiled)
+21:22:53.479: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+21:22:53.480: FFmpeg VAAPI H264 encoding not supported
+21:22:53.481: VAAPI: Failed to initialize display in vaapi_device_av1_supported
+21:22:53.481: FFmpeg VAAPI AV1 encoding not supported
+21:22:53.481: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+21:22:53.481: FFmpeg VAAPI HEVC encoding not supported
+21:22:54.171: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.5.2 | RPC Version: 1)
+21:22:54.172: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.8.2 | Qt version (run-time): 6.8.2
+21:22:54.172: [obs-websocket] [obs_module_load] Linked ASIO Version: 102400
+21:22:54.172: [obs-websocket] [Config::Load] Existing configuration not found, using defaults.
+21:22:54.172: [obs-websocket] [Config::Load] (FirstLoad) Generating new server password.
+21:22:54.178: [obs-websocket] [obs_module_load] Module loaded.
+21:22:54.353: [rtmp-services plugin] Successfully updated file 'services.json' (version 268)
+21:22:54.353: [rtmp-services plugin] Successfully updated package (version 268)
+21:22:54.497: [vlc-video]: VLC 3.0.21 Vetinari found, VLC video source enabled
+21:22:54.497: ---------------------------------
+21:22:54.497:   Loaded Modules:
+21:22:54.497:     vlc-video.so
+21:22:54.497:     text-freetype2.so
+21:22:54.497:     rtmp-services.so
+21:22:54.497:     obs-x264.so
+21:22:54.497:     obs-websocket.so
+21:22:54.497:     obs-webrtc.so
+21:22:54.497:     obs-vst.so
+21:22:54.497:     obs-transitions.so
+21:22:54.497:     obs-qsv11.so
+21:22:54.497:     obs-outputs.so
+21:22:54.497:     obs-libfdk.so
+21:22:54.497:     obs-filters.so
+21:22:54.497:     obs-ffmpeg.so
+21:22:54.497:     obs-browser.so
+21:22:54.497:     linux-v4l2.so
+21:22:54.497:     linux-pulseaudio.so
+21:22:54.497:     linux-pipewire.so
+21:22:54.497:     linux-jack.so
+21:22:54.497:     linux-capture.so
+21:22:54.497:     linux-alsa.so
+21:22:54.497:     image-source.so
+21:22:54.497:     frontend-tools.so
+21:22:54.497:     decklink-output-ui.so
+21:22:54.497:     decklink-captions.so
+21:22:54.497: ---------------------------------
+21:22:54.498: ---------------------------------
+21:22:54.498: Available Encoders:
+21:22:54.498:   Video Encoders:
+21:22:54.498: 	- ffmpeg_svt_av1 (SVT-AV1)
+21:22:54.498: 	- ffmpeg_aom_av1 (AOM AV1)
+21:22:54.498: 	- obs_x264 (x264)
+21:22:54.498:   Audio Encoders:
+21:22:54.498: 	- ffmpeg_aac (FFmpeg AAC)
+21:22:54.498: 	- ffmpeg_opus (FFmpeg Opus)
+21:22:54.498: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+21:22:54.498: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+21:22:54.498: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+21:22:54.498: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+21:22:54.498: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+21:22:54.498: 	- libfdk_aac (libfdk AAC)
+21:22:54.498: ==== Startup complete ===============================================
+21:22:54.513: No scene file found, creating default scene
+21:22:54.581: All scene data cleared
+21:22:54.581: ------------------------------------------------
+21:22:54.610: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.7) 15.0.0'
+21:22:54.610: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+21:22:54.611: pulse-input: Started recording from 'alsa_output.pci-0000_00_1f.3.hdmi-stereo.monitor' (default)
+21:22:54.612: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.7) 15.0.0'
+21:22:54.613: pulse-input: Audio format: s16le, 48000 Hz, 2 channels
+21:22:54.613: pulse-input: Started recording from 'alsa_input.usb-MACROSILICON_2109-02.analog-stereo' (default)
+21:22:54.617: Switched to scene 'Scene'
+21:22:54.617: Failed to glob scene collections
+21:22:55.195: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Desktop Audio)
+21:22:55.195: 
+21:23:05.074: 
+21:23:05.074: ==== Auto-config wizard testing commencing ======
+
+21:23:05.108: Number of remaining views: 1
+21:23:05.108: ---------------------------------
+21:23:05.108: video settings reset:
+21:23:05.108: 	base resolution:   1920x1080
+21:23:05.108: 	output resolution: 1920x1080
+21:23:05.108: 	downscale filter:  Bicubic
+21:23:05.108: 	fps:               60/1
+21:23:05.108: 	format:            NV12
+21:23:05.108: 	YUV mode:          Rec. 709/Partial
+21:23:05.108: NV12 texture support enabled
+21:23:05.108: P010 texture support not available
+21:23:05.115: Output 'null': Tried to use obs_output_set_media on an encoded output
+21:23:05.115: ---------------------------------
+21:23:05.116: [x264 encoder: 'test_x264'] preset: veryfast
+21:23:05.116: [x264 encoder: 'test_x264'] profile: high
+21:23:05.134: [x264 encoder: 'test_x264'] settings:
+21:23:05.134: 	rate_control: CRF
+21:23:05.134: 	bitrate:      0
+21:23:05.134: 	buffer size:  0
+21:23:05.134: 	crf:          20
+21:23:05.134: 	fps_num:      60
+21:23:05.134: 	fps_den:      1
+21:23:05.134: 	width:        1920
+21:23:05.134: 	height:       1080
+21:23:05.134: 	keyint:       250
+21:23:05.134: 
+21:23:05.150: ---------------------------------
+21:23:05.150: [FFmpeg aac encoder: 'test_aac'] bitrate: 32, channels: 2, channel_layout: stereo
+21:23:05.150: 
+21:23:10.152: Output 'null': stopping
+21:23:10.155: Output 'null': Total frames output: 253
+21:23:10.155: Output 'null': Total drawn frames: 300
+21:23:10.224: Video stopped, number of skipped frames due to encoding lag: 140/290 (48.3%)
+21:23:10.333: Number of remaining views: 1
+21:23:10.333: ---------------------------------
+21:23:10.333: video settings reset:
+21:23:10.333: 	base resolution:   1920x1080
+21:23:10.333: 	output resolution: 1280x720
+21:23:10.333: 	downscale filter:  Bicubic
+21:23:10.333: 	fps:               60/1
+21:23:10.333: 	format:            NV12
+21:23:10.333: 	YUV mode:          Rec. 709/Partial
+21:23:10.334: NV12 texture support enabled
+21:23:10.334: P010 texture support not available
+21:23:10.338: Output 'null': Tried to use obs_output_set_media on an encoded output
+21:23:10.338: ---------------------------------
+21:23:10.338: [x264 encoder: 'test_x264'] preset: veryfast
+21:23:10.338: [x264 encoder: 'test_x264'] profile: high
+21:23:10.338: [x264 encoder: 'test_x264'] settings:
+21:23:10.338: 	rate_control: CRF
+21:23:10.338: 	bitrate:      0
+21:23:10.338: 	buffer size:  0
+21:23:10.338: 	crf:          20
+21:23:10.338: 	fps_num:      60
+21:23:10.338: 	fps_den:      1
+21:23:10.338: 	width:        1280
+21:23:10.338: 	height:       720
+21:23:10.338: 	keyint:       250
+21:23:10.338: 
+21:23:10.341: ---------------------------------
+21:23:10.342: [FFmpeg aac encoder: 'test_aac'] bitrate: 32, channels: 2, channel_layout: stereo
+21:23:10.342: 
+21:23:15.343: Output 'null': stopping
+21:23:15.343: Output 'null': Total frames output: 273
+21:23:15.343: Output 'null': Total drawn frames: 300
+21:23:15.405: Number of remaining views: 1
+21:23:15.405: ---------------------------------
+21:23:15.405: video settings reset:
+21:23:15.405: 	base resolution:   1920x1080
+21:23:15.405: 	output resolution: 852x480
+21:23:15.405: 	downscale filter:  Bicubic
+21:23:15.405: 	fps:               60/1
+21:23:15.405: 	format:            NV12
+21:23:15.405: 	YUV mode:          Rec. 709/Partial
+21:23:15.405: NV12 texture support enabled
+21:23:15.405: P010 texture support not available
+21:23:15.410: Output 'null': Tried to use obs_output_set_media on an encoded output
+21:23:15.410: ---------------------------------
+21:23:15.410: [x264 encoder: 'test_x264'] preset: veryfast
+21:23:15.410: [x264 encoder: 'test_x264'] profile: high
+21:23:15.410: [x264 encoder: 'test_x264'] settings:
+21:23:15.410: 	rate_control: CRF
+21:23:15.410: 	bitrate:      0
+21:23:15.410: 	buffer size:  0
+21:23:15.410: 	crf:          20
+21:23:15.410: 	fps_num:      60
+21:23:15.410: 	fps_den:      1
+21:23:15.410: 	width:        852
+21:23:15.410: 	height:       480
+21:23:15.410: 	keyint:       250
+21:23:15.410: 
+21:23:15.412: ---------------------------------
+21:23:15.412: [FFmpeg aac encoder: 'test_aac'] bitrate: 32, channels: 2, channel_layout: stereo
+21:23:15.412: 
+21:23:20.413: Output 'null': stopping
+21:23:20.413: Output 'null': Total frames output: 273
+21:23:20.413: Output 'null': Total drawn frames: 300
+21:23:20.426: Number of remaining views: 1
+21:23:20.443: ---------------------------------
+21:23:20.443: video settings reset:
+21:23:20.443: 	base resolution:   1920x1080
+21:23:20.443: 	output resolution: 640x360
+21:23:20.443: 	downscale filter:  Bicubic
+21:23:20.443: 	fps:               60/1
+21:23:20.443: 	format:            NV12
+21:23:20.443: 	YUV mode:          Rec. 709/Partial
+21:23:20.443: NV12 texture support enabled
+21:23:20.443: P010 texture support not available
+21:23:20.447: Output 'null': Tried to use obs_output_set_media on an encoded output
+21:23:20.447: ---------------------------------
+21:23:20.447: [x264 encoder: 'test_x264'] preset: veryfast
+21:23:20.447: [x264 encoder: 'test_x264'] profile: high
+21:23:20.447: [x264 encoder: 'test_x264'] settings:
+21:23:20.447: 	rate_control: CRF
+21:23:20.447: 	bitrate:      0
+21:23:20.447: 	buffer size:  0
+21:23:20.447: 	crf:          20
+21:23:20.447: 	fps_num:      60
+21:23:20.447: 	fps_den:      1
+21:23:20.447: 	width:        640
+21:23:20.447: 	height:       360
+21:23:20.447: 	keyint:       250
+21:23:20.447: 
+21:23:20.449: ---------------------------------
+21:23:20.449: [FFmpeg aac encoder: 'test_aac'] bitrate: 32, channels: 2, channel_layout: stereo
+21:23:20.449: 
+21:23:25.450: Output 'null': stopping
+21:23:25.450: Output 'null': Total frames output: 274
+21:23:25.450: Output 'null': Total drawn frames: 300
+21:23:25.464: Number of remaining views: 1
+21:23:25.464: ---------------------------------
+21:23:25.464: video settings reset:
+21:23:25.464: 	base resolution:   1920x1080
+21:23:25.464: 	output resolution: 1280x720
+21:23:25.464: 	downscale filter:  Bicubic
+21:23:25.464: 	fps:               30/1
+21:23:25.464: 	format:            NV12
+21:23:25.464: 	YUV mode:          Rec. 709/Partial
+21:23:25.464: NV12 texture support enabled
+21:23:25.465: P010 texture support not available
+21:23:29.607: Number of remaining views: 1
+21:23:29.607: ---------------------------------
+21:23:29.608: video settings reset:
+21:23:29.608: 	base resolution:   1920x1080
+21:23:29.608: 	output resolution: 1280x720
+21:23:29.608: 	downscale filter:  Bicubic
+21:23:29.608: 	fps:               60/1
+21:23:29.608: 	format:            NV12
+21:23:29.608: 	YUV mode:          Rec. 709/Partial
+21:23:29.608: NV12 texture support enabled
+21:23:29.608: P010 texture support not available
+21:23:29.628: 
+21:23:29.628: ==== Auto-config wizard testing stopping ========
+
+21:23:32.358: ReadOne on org.freedesktop.portal.Settings returned an invalid reply
+21:23:32.360: ReadOne on org.freedesktop.portal.Settings returned an invalid reply
+21:23:38.657: Number of remaining views: 1
+21:23:38.657: ---------------------------------
+21:23:38.657: video settings reset:
+21:23:38.657: 	base resolution:   1280x720
+21:23:38.657: 	output resolution: 1280x720
+21:23:38.657: 	downscale filter:  Bicubic
+21:23:38.657: 	fps:               60/1
+21:23:38.657: 	format:            NV12
+21:23:38.657: 	YUV mode:          Rec. 709/Partial
+21:23:38.657: NV12 texture support enabled
+21:23:38.657: P010 texture support not available
+21:23:38.666: Settings changed (outputs, video)
+21:23:38.666: ------------------------------------------------
+21:23:50.783: obs-data.c: [obs_data_create_from_json] Failed reading json string (1): '[' or '{' expected near end of file
+21:23:50.783: obs-data.c: [obs_data_create_from_json] Failed reading json string (1): '[' or '{' expected near end of file
+21:23:50.796: User added source 'Video Capture Device (PipeWire) (BETA)' (pipewire-camera-source) to scene 'Scene'
+21:23:50.833: [camera-portal] Selected resolution for ''
+21:23:50.834: [camera-portal] Selected format for ''
+21:23:50.834: [camera-portal] selected camera ''
+21:23:52.972: [camera-portal] Successfully accessed cameras
+21:23:52.990: [pipewire] Server version: 1.2.7
+21:23:52.990: [pipewire] Library version: 1.2.7
+21:23:52.990: [pipewire] Header version: 1.2.7
+21:23:52.991: [pipewire] Created registry 0x3a4091b0
+21:23:52.991: [camera-portal] Found device v4l2_input.pci-0000_00_14.0-usb-0_3_1.0
+21:23:52.991: [camera-portal] Selected resolution for ''
+21:23:52.991: [camera-portal] Selected format for ''
+21:23:52.991: [camera-portal] selected camera ''
+21:23:55.026: [camera-portal] selected camera 'v4l2_input.pci-0000_00_14.0-usb-0_3_1.0'
+21:23:55.026: [camera-portal] streaming camera 'v4l2_input.pci-0000_00_14.0-usb-0_3_1.0'
+21:23:55.026: [pipewire] Created stream 0x38fe3300
+21:23:55.026: [pipewire] Stream 0x38fe3300 state: "connecting" (error: none)
+21:23:55.026: [pipewire] Playing stream 0x38fe3300
+21:23:55.026: [camera-portal] Updating pixel formats
+21:23:55.027: [camera-portal] Selected format for 'v4l2_input.pci-0000_00_14.0-usb-0_3_1.0'
+21:23:55.028: [pipewire] Stream 0x38fe3300 state: "paused" (error: none)
+21:23:55.032: [camera-portal] Updating device v4l2_input.pci-0000_00_14.0-usb-0_3_1.0
+21:23:55.037: [camera-portal] Selected format for 'v4l2_input.pci-0000_00_14.0-usb-0_3_1.0'
+21:23:55.041: [camera-portal] Selected resolution for 'v4l2_input.pci-0000_00_14.0-usb-0_3_1.0'
+21:23:55.041: [pipewire] Renegotiating stream
+21:23:55.046: [pipewire] Renegotiating stream
+21:23:55.049: [camera-portal] Updating device v4l2_input.pci-0000_00_14.0-usb-0_3_1.0
+21:23:55.062: [pipewire] Negotiated format:
+21:23:55.063: [pipewire]     Format: 4 (Spa:Enum:VideoFormat:YUY2)
+21:23:55.063: [pipewire]     Size: 640x480
+21:23:55.063: [pipewire]     Framerate: 5/1
+21:23:55.064: [pipewire] Stream 0x38fe3300 state: "streaming" (error: none)
+21:24:00.202: [camera-portal] Selected resolution for 'v4l2_input.pci-0000_00_14.0-usb-0_3_1.0'
+21:24:00.202: [pipewire] Renegotiating stream
+21:24:00.203: [pipewire] Stream 0x38fe3300 state: "paused" (error: none)
+21:24:00.215: [pipewire] Stream 0x38fe3300 state: "error" (error: no more input formats)
+21:24:00.215: [pipewire] Error id:4 seq:33 res:-32 (Broken pipe): no more input formats
+21:24:00.215: [camera-portal] Updating device v4l2_input.pci-0000_00_14.0-usb-0_3_1.0
+21:24:00.223: [pipewire] Renegotiating stream
+21:24:00.229: [pipewire] Negotiated format:
+21:24:00.229: [pipewire]     Format: 4 (Spa:Enum:VideoFormat:YUY2)
+21:24:00.229: [pipewire]     Size: 1280x720
+21:24:00.229: [pipewire]     Framerate: 10/1
+21:24:00.232: [camera-portal] Updating device v4l2_input.pci-0000_00_14.0-usb-0_3_1.0
+21:24:00.238: [pipewire] Negotiated format:
+21:24:00.238: [pipewire]     Format: 4 (Spa:Enum:VideoFormat:YUY2)
+21:24:00.238: [pipewire]     Size: 1280x720
+21:24:00.238: [pipewire]     Framerate: 10/1
+21:24:00.241: [pipewire] Stream 0x38fe3300 state: "streaming" (error: none)
+21:24:17.868: [camera-portal] Selected resolution for 'v4l2_input.pci-0000_00_14.0-usb-0_3_1.0'
+21:24:17.868: [pipewire] Renegotiating stream
+21:24:17.869: [pipewire] Stream 0x38fe3300 state: "paused" (error: none)
+21:24:17.881: [pipewire] Stream 0x38fe3300 state: "error" (error: no more input formats)
+21:24:17.881: [pipewire] Error id:4 seq:61 res:-32 (Broken pipe): no more input formats
+21:24:17.882: [camera-portal] Updating device v4l2_input.pci-0000_00_14.0-usb-0_3_1.0
+21:24:17.901: [pipewire] Renegotiating stream
+21:24:17.907: [pipewire] Negotiated format:
+21:24:17.907: [pipewire]     Format: 4 (Spa:Enum:VideoFormat:YUY2)
+21:24:17.907: [pipewire]     Size: 1920x1080
+21:24:17.907: [pipewire]     Framerate: 5/1
+21:24:17.915: [camera-portal] Updating device v4l2_input.pci-0000_00_14.0-usb-0_3_1.0
+21:24:17.916: [pipewire] Negotiated format:
+21:24:17.916: [pipewire]     Format: 4 (Spa:Enum:VideoFormat:YUY2)
+21:24:17.916: [pipewire]     Size: 1920x1080
+21:24:17.916: [pipewire]     Framerate: 5/1
+21:24:17.921: [pipewire] Stream 0x38fe3300 state: "streaming" (error: none)
+21:24:30.115: [camera-portal] Updating device 
+21:24:30.116: [pipewire] Stream 0x38fe3300 state: "paused" (error: none)
+21:24:30.118: [pipewire] Stream 0x38fe3300 state: "unconnected" (error: none)
+21:24:34.103: [camera-portal] Selected resolution for ''
+21:24:34.103: [camera-portal] Selected format for ''
+21:24:34.103: [camera-portal] selected camera ''
+21:24:35.992: [camera-portal] selected camera 'v4l2_input.pci-0000_00_14.0-usb-0_3_1.0'
+21:24:35.992: [camera-portal] streaming camera 'v4l2_input.pci-0000_00_14.0-usb-0_3_1.0'
+21:24:35.992: [pipewire] Created stream 0x38fe3300
+21:24:35.992: [pipewire] Stream 0x38fe3300 state: "connecting" (error: none)
+21:24:35.993: [pipewire] Playing stream 0x38fe3300
+21:24:35.993: [camera-portal] Updating pixel formats
+21:24:35.993: [camera-portal] Selected format for 'v4l2_input.pci-0000_00_14.0-usb-0_3_1.0'
+21:24:35.994: [pipewire] Stream 0x38fe3300 state: "paused" (error: none)
+21:24:35.999: [camera-portal] Updating device v4l2_input.pci-0000_00_14.0-usb-0_3_1.0
+21:24:36.002: [camera-portal] Selected format for 'v4l2_input.pci-0000_00_14.0-usb-0_3_1.0'
+21:24:36.007: [camera-portal] Selected resolution for 'v4l2_input.pci-0000_00_14.0-usb-0_3_1.0'
+21:24:36.007: [pipewire] Renegotiating stream
+21:24:36.012: [pipewire] Renegotiating stream
+21:24:36.015: [camera-portal] Updating device v4l2_input.pci-0000_00_14.0-usb-0_3_1.0
+21:24:36.027: [pipewire] Negotiated format:
+21:24:36.027: [pipewire]     Format: 4 (Spa:Enum:VideoFormat:YUY2)
+21:24:36.027: [pipewire]     Size: 640x480
+21:24:36.027: [pipewire]     Framerate: 5/1
+21:24:36.029: [pipewire] Stream 0x38fe3300 state: "streaming" (error: none)
+21:24:41.788: [pipewire] Renegotiating stream
+21:24:41.789: [pipewire] Stream 0x38fe3300 state: "paused" (error: none)
+21:24:41.795: [pipewire] Negotiated format:
+21:24:41.795: [pipewire]     Format: 4 (Spa:Enum:VideoFormat:YUY2)
+21:24:41.795: [pipewire]     Size: 640x480
+21:24:41.795: [pipewire]     Framerate: 30/1
+21:24:41.799: [camera-portal] Updating device v4l2_input.pci-0000_00_14.0-usb-0_3_1.0
+21:24:41.802: [pipewire] Negotiated format:
+21:24:41.802: [pipewire]     Format: 4 (Spa:Enum:VideoFormat:YUY2)
+21:24:41.802: [pipewire]     Size: 640x480
+21:24:41.802: [pipewire]     Framerate: 30/1
+21:24:41.805: [pipewire] Stream 0x38fe3300 state: "streaming" (error: none)
+21:24:47.248: [camera-portal] Selected resolution for 'v4l2_input.pci-0000_00_14.0-usb-0_3_1.0'
+21:24:47.248: [pipewire] Renegotiating stream
+21:24:47.249: [camera-portal] Updating device v4l2_input.pci-0000_00_14.0-usb-0_3_1.0
+21:24:47.249: [pipewire] Stream 0x38fe3300 state: "paused" (error: none)
+21:24:47.257: [pipewire] Stream 0x38fe3300 state: "error" (error: no more input formats)
+21:24:47.257: [pipewire] Error id:4 seq:143 res:-32 (Broken pipe): no more input formats
+21:24:47.260: [pipewire] Renegotiating stream
+21:24:47.265: [camera-portal] Updating device v4l2_input.pci-0000_00_14.0-usb-0_3_1.0
+21:24:47.266: [pipewire] Negotiated format:
+21:24:47.266: [pipewire]     Format: 4 (Spa:Enum:VideoFormat:YUY2)
+21:24:47.266: [pipewire]     Size: 1280x720
+21:24:47.266: [pipewire]     Framerate: 10/1
+21:24:47.272: [pipewire] Negotiated format:
+21:24:47.272: [pipewire]     Format: 4 (Spa:Enum:VideoFormat:YUY2)
+21:24:47.272: [pipewire]     Size: 1280x720
+21:24:47.272: [pipewire]     Framerate: 10/1
+21:24:47.274: [pipewire] Stream 0x38fe3300 state: "streaming" (error: none)
+21:24:50.068: [camera-portal] Selected resolution for 'v4l2_input.pci-0000_00_14.0-usb-0_3_1.0'
+21:24:50.069: [pipewire] Renegotiating stream
+21:24:50.070: [pipewire] Stream 0x38fe3300 state: "paused" (error: none)
+21:24:50.079: [pipewire] Stream 0x38fe3300 state: "error" (error: no more input formats)
+21:24:50.079: [pipewire] Error id:4 seq:171 res:-32 (Broken pipe): no more input formats
+21:24:50.082: [camera-portal] Updating device v4l2_input.pci-0000_00_14.0-usb-0_3_1.0
+21:24:50.092: [pipewire] Renegotiating stream
+21:24:50.098: [pipewire] Negotiated format:
+21:24:50.098: [pipewire]     Format: 4 (Spa:Enum:VideoFormat:YUY2)
+21:24:50.098: [pipewire]     Size: 1600x1200
+21:24:50.098: [pipewire]     Framerate: 5/1
+21:24:50.099: [camera-portal] Updating device v4l2_input.pci-0000_00_14.0-usb-0_3_1.0
+21:24:50.107: [pipewire] Negotiated format:
+21:24:50.107: [pipewire]     Format: 4 (Spa:Enum:VideoFormat:YUY2)
+21:24:50.107: [pipewire]     Size: 1600x1200
+21:24:50.107: [pipewire]     Framerate: 5/1
+21:24:50.111: [pipewire] Stream 0x38fe3300 state: "streaming" (error: none)
+21:24:57.906: [camera-portal] Selected resolution for 'v4l2_input.pci-0000_00_14.0-usb-0_3_1.0'
+21:24:57.907: [pipewire] Renegotiating stream
+21:24:57.907: [pipewire] Stream 0x38fe3300 state: "paused" (error: none)
+21:24:57.914: [pipewire] Stream 0x38fe3300 state: "error" (error: no more input formats)
+21:24:57.915: [camera-portal] Updating device v4l2_input.pci-0000_00_14.0-usb-0_3_1.0
+21:24:57.926: [pipewire] Error id:4 seq:199 res:-32 (Broken pipe): no more input formats
+21:24:57.926: [pipewire] Renegotiating stream
+21:24:57.931: [pipewire] Negotiated format:
+21:24:57.931: [pipewire]     Format: 4 (Spa:Enum:VideoFormat:YUY2)
+21:24:57.931: [pipewire]     Size: 1280x960
+21:24:57.931: [pipewire]     Framerate: 8/1
+21:24:57.932: [camera-portal] Updating device v4l2_input.pci-0000_00_14.0-usb-0_3_1.0
+21:24:57.937: [pipewire] Negotiated format:
+21:24:57.938: [pipewire]     Format: 4 (Spa:Enum:VideoFormat:YUY2)
+21:24:57.938: [pipewire]     Size: 1280x960
+21:24:57.938: [pipewire]     Framerate: 8/1
+21:24:57.940: [pipewire] Stream 0x38fe3300 state: "streaming" (error: none)
+21:25:03.076: [camera-portal] Selected resolution for 'v4l2_input.pci-0000_00_14.0-usb-0_3_1.0'
+21:25:03.076: [pipewire] Renegotiating stream
+21:25:03.082: [camera-portal] Updating device v4l2_input.pci-0000_00_14.0-usb-0_3_1.0
+21:25:03.103: [pipewire] Renegotiating stream
+21:25:03.104: [pipewire] Stream 0x38fe3300 state: "paused" (error: none)
+21:25:03.104: [camera-portal] Updating device v4l2_input.pci-0000_00_14.0-usb-0_3_1.0
+21:25:03.109: [pipewire] Negotiated format:
+21:25:03.109: [pipewire]     Format: 4 (Spa:Enum:VideoFormat:YUY2)
+21:25:03.109: [pipewire]     Size: 800x600
+21:25:03.109: [pipewire]     Framerate: 5/1
+21:25:03.115: [pipewire] Negotiated format:
+21:25:03.115: [pipewire]     Format: 4 (Spa:Enum:VideoFormat:YUY2)
+21:25:03.115: [pipewire]     Size: 800x600
+21:25:03.115: [pipewire]     Framerate: 5/1
+21:25:03.117: [pipewire] Stream 0x38fe3300 state: "streaming" (error: none)
+21:25:09.148: [camera-portal] Selected resolution for 'v4l2_input.pci-0000_00_14.0-usb-0_3_1.0'
+21:25:09.148: [pipewire] Renegotiating stream
+21:25:09.149: [camera-portal] Updating device v4l2_input.pci-0000_00_14.0-usb-0_3_1.0
+21:25:09.149: [pipewire] Stream 0x38fe3300 state: "paused" (error: none)
+21:25:09.155: [pipewire] Negotiated format:
+21:25:09.155: [pipewire]     Format: 4 (Spa:Enum:VideoFormat:YUY2)
+21:25:09.155: [pipewire]     Size: 1920x1080
+21:25:09.155: [pipewire]     Framerate: 5/1
+21:25:09.170: [pipewire] Negotiated format:
+21:25:09.170: [pipewire]     Format: 4 (Spa:Enum:VideoFormat:YUY2)
+21:25:09.170: [pipewire]     Size: 1920x1080
+21:25:09.171: [pipewire]     Framerate: 5/1
+21:25:09.178: [pipewire] Stream 0x38fe3300 state: "streaming" (error: none)
+21:25:20.406: Creating a popup with a parent, QWidgetWindow(0x362b3a30, name="OBSBasicWindow") which does not match the current topmost grabbing popup, QWidgetWindow(0x39043d40, name="QMenuClassWindow") With some shell surface protocols, this is not allowed. The wayland QPA plugin is currently handling it by setting the parent to the topmost grabbing popup. Note, however, that this may cause positioning errors and popups closing unxpectedly. Please fix the transient parent of the popup.
+21:25:29.730: [camera-portal] Selected resolution for 'v4l2_input.pci-0000_00_14.0-usb-0_3_1.0'
+21:25:29.731: [camera-portal] Selected format for 'v4l2_input.pci-0000_00_14.0-usb-0_3_1.0'
+21:25:29.731: [camera-portal] selected camera 'v4l2_input.pci-0000_00_14.0-usb-0_3_1.0'
+21:25:29.731: [camera-portal] Updating pixel formats
+21:25:29.731: [camera-portal] Selected format for 'v4l2_input.pci-0000_00_14.0-usb-0_3_1.0'
+21:25:32.742: [camera-portal] Selected resolution for 'v4l2_input.pci-0000_00_14.0-usb-0_3_1.0'
+21:25:32.743: [pipewire] Renegotiating stream
+21:25:32.743: [pipewire] Stream 0x38fe3300 state: "paused" (error: none)
+21:25:32.749: [camera-portal] Updating device v4l2_input.pci-0000_00_14.0-usb-0_3_1.0
+21:25:32.751: [pipewire] Stream 0x38fe3300 state: "error" (error: no more input formats)
+21:25:32.751: [pipewire] Error id:4 seq:292 res:-32 (Broken pipe): no more input formats
+21:25:32.754: [pipewire] Renegotiating stream
+21:25:32.759: [pipewire] Negotiated format:
+21:25:32.759: [pipewire]     Format: 4 (Spa:Enum:VideoFormat:YUY2)
+21:25:32.759: [pipewire]     Size: 1280x720
+21:25:32.759: [pipewire]     Framerate: 10/1
+21:25:32.764: [pipewire] Negotiated format:
+21:25:32.765: [pipewire]     Format: 4 (Spa:Enum:VideoFormat:YUY2)
+21:25:32.765: [pipewire]     Size: 1280x720
+21:25:32.765: [pipewire]     Framerate: 10/1
+21:25:32.765: [camera-portal] Updating device v4l2_input.pci-0000_00_14.0-usb-0_3_1.0
+21:25:32.766: [pipewire] Stream 0x38fe3300 state: "streaming" (error: none)
+21:25:59.735: [pipewire] Stream 0x38fe3300 state: "paused" (error: none)
+21:25:59.736: [pipewire-camera] Removed device v4l2_input.pci-0000_00_14.0-usb-0_3_1.0
+21:26:00.389: adding 64 milliseconds of audio buffering, total audio buffering is now 85 milliseconds (source: Mic/Aux)
+21:26:00.389: 
+21:26:01.834: [camera-portal] Found device v4l2_input.pci-0000_00_14.0-usb-0_3_1.0
+21:26:01.834: [pipewire] Stream 0x38fe3300 state: "unconnected" (error: none)
+21:26:01.838: [camera-portal] streaming camera 'v4l2_input.pci-0000_00_14.0-usb-0_3_1.0'
+21:26:01.838: [pipewire] Created stream 0x7fcb4c212ff0
+21:26:01.838: [pipewire] Stream 0x7fcb4c212ff0 state: "connecting" (error: none)
+21:26:01.839: [pipewire] Playing stream 0x7fcb4c212ff0
+21:26:01.841: [pipewire] Stream 0x7fcb4c212ff0 state: "paused" (error: none)
+21:26:01.908: [pipewire] Negotiated format:
+21:26:01.908: [pipewire]     Format: 4 (Spa:Enum:VideoFormat:YUY2)
+21:26:01.908: [pipewire]     Size: 1920x1080
+21:26:01.908: [pipewire]     Framerate: 5/1
+21:26:01.908: [pipewire-camera] Removed device v4l2_input.pci-0000_00_14.0-usb-0_3_1.0
+21:26:01.908: [pipewire] Error id:0 seq:340 res:-2 (No such file or directory): unknown resource 3 op:2
+21:26:03.357: [camera-portal] Found device v4l2_input.pci-0000_00_14.0-usb-0_3_1.0
+21:26:03.357: [pipewire] Stream 0x7fcb4c212ff0 state: "unconnected" (error: none)
+21:26:03.359: [camera-portal] streaming camera 'v4l2_input.pci-0000_00_14.0-usb-0_3_1.0'
+21:26:03.359: [pipewire] Created stream 0x7fcb4c212ff0
+21:26:03.359: [pipewire] Stream 0x7fcb4c212ff0 state: "connecting" (error: none)
+21:26:03.359: [pipewire] Playing stream 0x7fcb4c212ff0
+21:26:03.361: [pipewire] Stream 0x7fcb4c212ff0 state: "paused" (error: none)
+21:26:03.434: [pipewire] Negotiated format:
+21:26:03.434: [pipewire]     Format: 4 (Spa:Enum:VideoFormat:YUY2)
+21:26:03.434: [pipewire]     Size: 1920x1080
+21:26:03.434: [pipewire]     Framerate: 5/1
+21:26:03.437: [pipewire] Stream 0x7fcb4c212ff0 state: "streaming" (error: none)
+21:26:03.644: [pipewire] Stream 0x7fcb4c212ff0 state: "paused" (error: none)
+21:26:03.648: [pipewire-camera] Removed device v4l2_input.pci-0000_00_14.0-usb-0_3_1.0
+21:26:05.077: [camera-portal] Found device v4l2_input.pci-0000_00_14.0-usb-0_3_1.0
+21:26:05.077: [pipewire] Stream 0x7fcb4c212ff0 state: "unconnected" (error: none)
+21:26:05.079: [camera-portal] streaming camera 'v4l2_input.pci-0000_00_14.0-usb-0_3_1.0'
+21:26:05.080: [pipewire] Created stream 0x7fcb4c212ff0
+21:26:05.080: [pipewire] Stream 0x7fcb4c212ff0 state: "connecting" (error: none)
+21:26:05.080: [pipewire] Playing stream 0x7fcb4c212ff0
+21:26:05.081: [pipewire] Stream 0x7fcb4c212ff0 state: "paused" (error: none)
+21:26:05.155: [pipewire] Negotiated format:
+21:26:05.155: [pipewire]     Format: 4 (Spa:Enum:VideoFormat:YUY2)
+21:26:05.155: [pipewire]     Size: 1920x1080
+21:26:05.155: [pipewire]     Framerate: 5/1
+21:26:05.158: [pipewire] Stream 0x7fcb4c212ff0 state: "streaming" (error: none)
+21:26:10.261: [pipewire] Stream 0x7fcb4c212ff0 state: "paused" (error: none)
+21:26:10.262: [pipewire-camera] Removed device v4l2_input.pci-0000_00_14.0-usb-0_3_1.0
+21:26:23.214: [camera-portal] Found device v4l2_input.pci-0000_00_14.0-usb-0_8_1.0
+21:26:23.260: [pipewire] Negotiated format:
+21:26:23.260: [pipewire]     Format: 4 (Spa:Enum:VideoFormat:YUY2)
+21:26:23.260: [pipewire]     Size: 1920x1080
+21:26:23.260: [pipewire]     Framerate: 5/1
+21:26:23.263: [pipewire] Stream 0x7fcb4c212ff0 state: "streaming" (error: none)
+21:26:29.659: [camera-portal] Selected resolution for 'v4l2_input.pci-0000_00_14.0-usb-0_3_1.0'
+21:26:29.660: [camera-portal] Selected format for 'v4l2_input.pci-0000_00_14.0-usb-0_3_1.0'
+21:26:29.660: [camera-portal] selected camera 'v4l2_input.pci-0000_00_14.0-usb-0_3_1.0'
+21:26:32.301: [camera-portal] selected camera 'v4l2_input.pci-0000_00_14.0-usb-0_8_1.0'
+21:26:32.301: [pipewire] Stream 0x7fcb4c212ff0 state: "paused" (error: none)
+21:26:32.303: [pipewire] Stream 0x7fcb4c212ff0 state: "unconnected" (error: none)
+21:26:32.307: [camera-portal] streaming camera 'v4l2_input.pci-0000_00_14.0-usb-0_8_1.0'
+21:26:32.307: [pipewire] Created stream 0x38fe3300
+21:26:32.307: [pipewire] Stream 0x38fe3300 state: "connecting" (error: none)
+21:26:32.308: [pipewire] Playing stream 0x38fe3300
+21:26:32.308: [camera-portal] Updating pixel formats
+21:26:32.308: [camera-portal] Selected format for 'v4l2_input.pci-0000_00_14.0-usb-0_8_1.0'
+21:26:32.311: [pipewire] Stream 0x38fe3300 state: "paused" (error: none)
+21:26:32.315: [camera-portal] Updating device v4l2_input.pci-0000_00_14.0-usb-0_8_1.0
+21:26:32.342: [pipewire] Negotiated format:
+21:26:32.342: [pipewire]     Format: 4 (Spa:Enum:VideoFormat:YUY2)
+21:26:32.342: [pipewire]     Size: 1920x1080
+21:26:32.342: [pipewire]     Framerate: 5/1
+21:26:32.352: [pipewire] Stream 0x38fe3300 state: "streaming" (error: none)
+21:26:43.482: [camera-portal] Updating device v4l2_input.pci-0000_00_14.0-usb-0_3_1.0
+21:26:43.483: [pipewire] Stream 0x38fe3300 state: "paused" (error: none)
+21:26:43.485: [pipewire] Stream 0x38fe3300 state: "unconnected" (error: none)
+21:26:45.991: User Removed source 'Video Capture Device (PipeWire) (BETA)' (pipewire-camera-source) from scene 'Scene'
+21:26:55.137: v4l2-input: Start capture from 
+21:26:55.138: v4l2-input: Unable to open device
+21:26:55.138: v4l2-input: Initialization failed, errno: No such file or directory
+21:26:55.145: User added source 'Video Capture Device (V4L2)' (v4l2_input) to scene 'Scene'
+21:26:55.212: v4l2-input: /dev/video5 seems to not support video capture
+21:26:55.212: v4l2-input: Found device 'UVC Camera (534d:2109): USB Vid' at /dev/video4
+21:26:55.214: v4l2-input: Found input 'Camera 1' (Index 0)
+21:26:55.215: v4l2-input: Pixelformat: Motion-JPEG (available)
+21:26:55.215: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+21:26:55.215: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+21:26:55.215: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+21:26:55.215: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+21:26:55.215: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+21:26:55.215: v4l2-input: Stepwise and Continuous framesizes are currently hardcoded
+21:26:55.215: v4l2-input: Start capture from /dev/video4
+21:26:55.216: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+21:26:55.216: v4l2-input: Input: 0
+21:26:55.216: v4l2-input: Resolution: 1920x1080
+21:26:55.216: v4l2-input: Pixelformat: YUYV
+21:26:55.216: v4l2-input: Linesize: 3840 Bytes
+21:26:55.216: v4l2-input: Framerate: 5.00 fps
+21:26:55.218: v4l2-input: /dev/video4: select timeout set to 1000000 (5x frame periods)
+21:26:55.218: v4l2-input: Pixelformat: Motion-JPEG (available)
+21:26:55.219: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+21:26:55.219: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+21:26:55.219: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+21:26:55.219: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+21:26:55.219: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+21:26:55.219: v4l2-input: Stepwise and Continuous framesizes are currently hardcoded
+21:26:55.220: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+21:26:55.223: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+21:26:55.825: v4l2-input: /dev/video4: Stopped capture after 1 frames
+21:26:55.829: v4l2-input: Start capture from /dev/video4
+21:26:55.830: v4l2-input: Input: 0
+21:26:55.833: v4l2-input: Resolution: 1920x1080
+21:26:55.833: v4l2-input: Pixelformat: MJPG
+21:26:55.833: v4l2-input: Linesize: 0 Bytes
+21:26:55.833: v4l2-input: Framerate: 30.00 fps
+21:26:55.837: v4l2-input: /dev/video4: select timeout set to 166666 (5x frame periods)
+21:27:01.704: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+21:27:01.743: v4l2-input: /dev/video4: Stopped capture after 170 frames
+21:27:01.745: v4l2-input: Start capture from /dev/video4
+21:27:01.746: v4l2-input: Input: 0
+21:27:01.749: v4l2-input: Resolution: 1920x1080
+21:27:01.749: v4l2-input: Pixelformat: YUYV
+21:27:01.749: v4l2-input: Linesize: 3840 Bytes
+21:27:01.749: v4l2-input: Framerate: 5.00 fps
+21:27:01.751: v4l2-input: /dev/video4: select timeout set to 1000000 (5x frame periods)
+21:27:07.996: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+21:27:08.165: v4l2-input: /dev/video4: Stopped capture after 30 frames
+21:27:08.168: v4l2-input: Start capture from /dev/video4
+21:27:08.169: v4l2-input: Input: 0
+21:27:08.170: v4l2-input: Resolution: 1920x1080
+21:27:08.171: v4l2-input: Pixelformat: YU12
+21:27:08.171: v4l2-input: Linesize: 1920 Bytes
+21:27:08.171: v4l2-input: Framerate: 30.00 fps
+21:27:08.173: v4l2-input: /dev/video4: select timeout set to 166666 (5x frame periods)
+21:27:10.148: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+21:27:10.167: v4l2-input: /dev/video4: Stopped capture after 56 frames
+21:27:10.170: v4l2-input: Start capture from /dev/video4
+21:27:10.171: v4l2-input: Input: 0
+21:27:10.173: v4l2-input: Resolution: 1920x1080
+21:27:10.173: v4l2-input: Pixelformat: YUYV
+21:27:10.173: v4l2-input: Linesize: 3840 Bytes
+21:27:10.173: v4l2-input: Framerate: 5.00 fps
+21:27:10.175: v4l2-input: /dev/video4: select timeout set to 1000000 (5x frame periods)
+21:27:13.989: v4l2-input: /dev/video4: Stopped capture after 17 frames
+21:27:13.993: v4l2-input: Start capture from /dev/video4
+21:27:13.994: v4l2-input: Input: 0
+21:27:13.996: v4l2-input: Resolution: 1920x1080
+21:27:13.996: v4l2-input: Pixelformat: YUYV
+21:27:13.996: v4l2-input: Linesize: 3840 Bytes
+21:27:13.998: v4l2-input: Framerate: 5.00 fps
+21:27:14.002: v4l2-input: /dev/video4: select timeout set to 1000000 (5x frame periods)
+21:27:17.004: v4l2-input: /dev/video4: Stopped capture after 14 frames
+21:27:17.007: v4l2-input: Start capture from /dev/video4
+21:27:17.009: v4l2-input: Input: 0
+21:27:17.011: v4l2-input: Resolution: 1280x720
+21:27:17.011: v4l2-input: Pixelformat: YUYV
+21:27:17.011: v4l2-input: Linesize: 2560 Bytes
+21:27:17.011: v4l2-input: Framerate: 10.00 fps
+21:27:17.013: v4l2-input: /dev/video4: select timeout set to 500000 (5x frame periods)
+21:27:17.331: v4l2-input: /dev/video4: Stopped capture after 1 frames
+21:27:17.334: v4l2-input: Start capture from /dev/video4
+21:27:17.336: v4l2-input: Input: 0
+21:27:17.338: v4l2-input: Resolution: 1280x720
+21:27:17.338: v4l2-input: Pixelformat: YUYV
+21:27:17.338: v4l2-input: Linesize: 2560 Bytes
+21:27:17.338: v4l2-input: Framerate: 10.00 fps
+21:27:17.340: v4l2-input: /dev/video4: select timeout set to 500000 (5x frame periods)
+21:27:30.934: v4l2-input: /dev/video4: Stopped capture after 134 frames
+21:27:30.936: v4l2-input: Start capture from 
+21:27:30.936: v4l2-input: Unable to open device
+21:27:30.936: v4l2-input: Initialization failed, errno: No such file or directory
+21:27:33.531: User Removed source 'Video Capture Device (V4L2)' (v4l2_input) from scene 'Scene'
+21:27:44.262: obs-data.c: [obs_data_create_from_json] Failed reading json string (1): '[' or '{' expected near end of file
+21:27:44.262: obs-data.c: [obs_data_create_from_json] Failed reading json string (1): '[' or '{' expected near end of file
+21:27:44.268: User added source 'Video Capture Device (PipeWire) (BETA)' (pipewire-camera-source) to scene 'Scene'
+21:27:44.302: [camera-portal] Selected resolution for ''
+21:27:44.302: [camera-portal] Selected format for ''
+21:27:44.302: [camera-portal] selected camera ''
+21:27:46.451: [camera-portal] selected camera 'v4l2_input.pci-0000_00_14.0-usb-0_8_1.0'
+21:27:46.451: [camera-portal] streaming camera 'v4l2_input.pci-0000_00_14.0-usb-0_8_1.0'
+21:27:46.452: [pipewire] Created stream 0x3a87b960
+21:27:46.452: [pipewire] Stream 0x3a87b960 state: "connecting" (error: none)
+21:27:46.452: [pipewire] Playing stream 0x3a87b960
+21:27:46.452: [camera-portal] Updating pixel formats
+21:27:46.452: [camera-portal] Selected format for 'v4l2_input.pci-0000_00_14.0-usb-0_8_1.0'
+21:27:46.453: [pipewire] Stream 0x3a87b960 state: "paused" (error: none)
+21:27:46.461: [camera-portal] Selected format for 'v4l2_input.pci-0000_00_14.0-usb-0_8_1.0'
+21:27:46.465: [camera-portal] Updating device v4l2_input.pci-0000_00_14.0-usb-0_8_1.0
+21:27:46.466: [camera-portal] Selected resolution for 'v4l2_input.pci-0000_00_14.0-usb-0_8_1.0'
+21:27:46.466: [pipewire] Renegotiating stream
+21:27:46.472: [pipewire] Renegotiating stream
+21:27:46.482: [camera-portal] Updating device v4l2_input.pci-0000_00_14.0-usb-0_8_1.0
+21:27:46.483: [pipewire] Negotiated format:
+21:27:46.483: [pipewire]     Format: 4 (Spa:Enum:VideoFormat:YUY2)
+21:27:46.483: [pipewire]     Size: 640x480
+21:27:46.483: [pipewire]     Framerate: 5/1
+21:27:46.485: [pipewire] Stream 0x3a87b960 state: "streaming" (error: none)
+21:27:52.315: [camera-portal] Selected resolution for 'v4l2_input.pci-0000_00_14.0-usb-0_8_1.0'
+21:27:52.315: [camera-portal] Updating device v4l2_input.pci-0000_00_14.0-usb-0_8_1.0
+21:27:52.315: [pipewire] Renegotiating stream
+21:27:52.316: [pipewire] Stream 0x3a87b960 state: "paused" (error: none)
+21:27:52.328: [pipewire] Stream 0x3a87b960 state: "error" (error: no more input formats)
+21:27:52.328: [pipewire] Error id:4 seq:479 res:-32 (Broken pipe): no more input formats
+21:27:52.337: [pipewire] Renegotiating stream
+21:27:52.342: [pipewire] Negotiated format:
+21:27:52.342: [pipewire]     Format: 4 (Spa:Enum:VideoFormat:YUY2)
+21:27:52.342: [pipewire]     Size: 1280x720
+21:27:52.342: [pipewire]     Framerate: 10/1
+21:27:52.349: [camera-portal] Updating device v4l2_input.pci-0000_00_14.0-usb-0_8_1.0
+21:27:52.350: [pipewire] Negotiated format:
+21:27:52.350: [pipewire]     Format: 4 (Spa:Enum:VideoFormat:YUY2)
+21:27:52.350: [pipewire]     Size: 1280x720
+21:27:52.350: [pipewire]     Framerate: 10/1
+21:27:52.353: [pipewire] Stream 0x3a87b960 state: "streaming" (error: none)
+21:27:59.479: Creating a popup with a parent, QWidgetWindow(0x362b3a30, name="OBSBasicWindow") which does not match the current topmost grabbing popup, QWidgetWindow(0x3897ae30, name="QMenuClassWindow") With some shell surface protocols, this is not allowed. The wayland QPA plugin is currently handling it by setting the parent to the topmost grabbing popup. Note, however, that this may cause positioning errors and popups closing unxpectedly. Please fix the transient parent of the popup.
+21:28:03.004: Creating a popup with a parent, QWidgetWindow(0x362b3a30, name="OBSBasicWindow") which does not match the current topmost grabbing popup, QWidgetWindow(0x39f3df30, name="QMenuClassWindow") With some shell surface protocols, this is not allowed. The wayland QPA plugin is currently handling it by setting the parent to the topmost grabbing popup. Note, however, that this may cause positioning errors and popups closing unxpectedly. Please fix the transient parent of the popup.
+21:28:05.904: Creating a popup with a parent, QWidgetWindow(0x362b3a30, name="OBSBasicWindow") which does not match the current topmost grabbing popup, QWidgetWindow(0x38f27b80, name="QMenuClassWindow") With some shell surface protocols, this is not allowed. The wayland QPA plugin is currently handling it by setting the parent to the topmost grabbing popup. Note, however, that this may cause positioning errors and popups closing unxpectedly. Please fix the transient parent of the popup.
+21:28:37.815: [camera-portal] Selected resolution for 'v4l2_input.pci-0000_00_14.0-usb-0_8_1.0'
+21:28:37.815: [camera-portal] Selected format for 'v4l2_input.pci-0000_00_14.0-usb-0_8_1.0'
+21:28:37.815: [camera-portal] selected camera 'v4l2_input.pci-0000_00_14.0-usb-0_8_1.0'
+21:28:37.815: [camera-portal] Updating pixel formats
+21:28:37.815: [camera-portal] Selected format for 'v4l2_input.pci-0000_00_14.0-usb-0_8_1.0'
+21:28:40.218: [camera-portal] Selected resolution for 'v4l2_input.pci-0000_00_14.0-usb-0_8_1.0'
+21:28:40.218: [pipewire] Renegotiating stream
+21:28:40.219: [pipewire] Stream 0x3a87b960 state: "paused" (error: none)
+21:28:40.225: [pipewire] Negotiated format:
+21:28:40.225: [pipewire]     Format: 4 (Spa:Enum:VideoFormat:YUY2)
+21:28:40.225: [pipewire]     Size: 640x480
+21:28:40.225: [pipewire]     Framerate: 10/1
+21:28:40.232: [camera-portal] Updating device v4l2_input.pci-0000_00_14.0-usb-0_8_1.0
+21:28:40.233: [pipewire] Negotiated format:
+21:28:40.233: [pipewire]     Format: 4 (Spa:Enum:VideoFormat:YUY2)
+21:28:40.233: [pipewire]     Size: 640x480
+21:28:40.233: [pipewire]     Framerate: 10/1
+21:28:40.236: [pipewire] Stream 0x3a87b960 state: "streaming" (error: none)
+21:28:44.230: [pipewire] Renegotiating stream
+21:28:44.230: [pipewire] Stream 0x3a87b960 state: "paused" (error: none)
+21:28:44.232: [camera-portal] Updating device v4l2_input.pci-0000_00_14.0-usb-0_8_1.0
+21:28:44.236: [pipewire] Negotiated format:
+21:28:44.236: [pipewire]     Format: 4 (Spa:Enum:VideoFormat:YUY2)
+21:28:44.236: [pipewire]     Size: 640x480
+21:28:44.236: [pipewire]     Framerate: 30/1
+21:28:44.244: [pipewire] Negotiated format:
+21:28:44.244: [pipewire]     Format: 4 (Spa:Enum:VideoFormat:YUY2)
+21:28:44.244: [pipewire]     Size: 640x480
+21:28:44.244: [pipewire]     Framerate: 30/1
+21:28:44.246: [pipewire] Stream 0x3a87b960 state: "streaming" (error: none)
+21:28:57.305: Creating a popup with a parent, QWidgetWindow(0x362b3a30, name="OBSBasicWindow") which does not match the current topmost grabbing popup, QWidgetWindow(0x3918a4c0, name="QMenuClassWindow") With some shell surface protocols, this is not allowed. The wayland QPA plugin is currently handling it by setting the parent to the topmost grabbing popup. Note, however, that this may cause positioning errors and popups closing unxpectedly. Please fix the transient parent of the popup.
+21:29:43.522: ReadOne on org.freedesktop.portal.Settings returned an invalid reply
+21:29:43.523: ReadOne on org.freedesktop.portal.Settings returned an invalid reply
+21:29:58.417: [camera-portal] Selected resolution for 'v4l2_input.pci-0000_00_14.0-usb-0_8_1.0'
+21:29:58.417: [camera-portal] Selected format for 'v4l2_input.pci-0000_00_14.0-usb-0_8_1.0'
+21:29:58.417: [camera-portal] selected camera 'v4l2_input.pci-0000_00_14.0-usb-0_8_1.0'
+21:29:58.417: [camera-portal] Updating pixel formats
+21:29:58.417: [camera-portal] Selected format for 'v4l2_input.pci-0000_00_14.0-usb-0_8_1.0'
+21:30:03.249: [camera-portal] Updating device v4l2_input.pci-0000_00_14.0-usb-0_8_1.0
+21:30:04.565: ReadOne on org.freedesktop.portal.Settings returned an invalid reply
+21:30:04.566: ReadOne on org.freedesktop.portal.Settings returned an invalid reply
+21:30:24.361: [camera-portal] Selected resolution for 'v4l2_input.pci-0000_00_14.0-usb-0_8_1.0'
+21:30:24.362: [camera-portal] Selected format for 'v4l2_input.pci-0000_00_14.0-usb-0_8_1.0'
+21:30:24.362: [camera-portal] selected camera 'v4l2_input.pci-0000_00_14.0-usb-0_8_1.0'
+21:30:24.362: [camera-portal] Updating pixel formats
+21:30:24.362: [camera-portal] Selected format for 'v4l2_input.pci-0000_00_14.0-usb-0_8_1.0'
+21:30:26.782: [camera-portal] Updating device v4l2_input.pci-0000_00_14.0-usb-0_8_1.0
+21:30:55.805: [pipewire] Stream 0x3a87b960 state: "paused" (error: none)
+21:30:55.806: [pipewire-camera] Removed device v4l2_input.pci-0000_00_14.0-usb-0_8_1.0
+21:41:32.862: [camera-portal] Found device v4l2_input.pci-0000_00_14.0-usb-0_8_1.0
+21:41:32.892: [pipewire] Negotiated format:
+21:41:32.892: [pipewire]     Format: 4 (Spa:Enum:VideoFormat:YUY2)
+21:41:32.892: [pipewire]     Size: 640x480
+21:41:32.892: [pipewire]     Framerate: 30/1
+21:41:32.893: [pipewire] Stream 0x3a87b960 state: "streaming" (error: none)
+21:41:33.628: [pipewire] Stream 0x3a87b960 state: "paused" (error: none)
+21:41:33.629: [pipewire-camera] Removed device v4l2_input.pci-0000_00_14.0-usb-0_8_1.0
+21:41:39.101: [camera-portal] Found device v4l2_input.pci-0000_00_14.0-usb-0_8_1.0
+21:41:39.135: [pipewire] Negotiated format:
+21:41:39.135: [pipewire]     Format: 4 (Spa:Enum:VideoFormat:YUY2)
+21:41:39.135: [pipewire]     Size: 640x480
+21:41:39.135: [pipewire]     Framerate: 30/1
+21:41:39.147: [pipewire] Stream 0x3a87b960 state: "streaming" (error: none)
+21:42:02.740: [camera-portal] Selected resolution for 'v4l2_input.pci-0000_00_14.0-usb-0_8_1.0'
+21:42:02.740: [camera-portal] Selected format for 'v4l2_input.pci-0000_00_14.0-usb-0_8_1.0'
+21:42:02.741: [camera-portal] selected camera 'v4l2_input.pci-0000_00_14.0-usb-0_8_1.0'
+21:42:02.741: [camera-portal] Updating pixel formats
+21:42:02.741: [camera-portal] Selected format for 'v4l2_input.pci-0000_00_14.0-usb-0_8_1.0'
+21:42:05.282: [camera-portal] Updating device v4l2_input.pci-0000_00_14.0-usb-0_8_1.0
+21:42:07.881: User Removed source 'Video Capture Device (PipeWire) (BETA)' (pipewire-camera-source) from scene 'Scene'
+21:42:07.882: [pipewire] Stream 0x3a87b960 state: "paused" (error: none)
+21:42:07.912: [pipewire] Stream 0x3a87b960 state: "unconnected" (error: none)
+21:42:11.427: obs-data.c: [obs_data_create_from_json] Failed reading json string (1): '[' or '{' expected near end of file
+21:42:11.427: obs-data.c: [obs_data_create_from_json] Failed reading json string (1): '[' or '{' expected near end of file
+21:42:11.435: User added source 'Video Capture Device (PipeWire) (BETA)' (pipewire-camera-source) to scene 'Scene'
+21:42:11.467: [camera-portal] Selected resolution for ''
+21:42:11.467: [camera-portal] Selected format for ''
+21:42:11.467: [camera-portal] selected camera ''
+21:42:13.475: [camera-portal] selected camera 'v4l2_input.pci-0000_00_14.0-usb-0_8_1.0'
+21:42:13.475: [camera-portal] streaming camera 'v4l2_input.pci-0000_00_14.0-usb-0_8_1.0'
+21:42:13.475: [pipewire] Created stream 0x3a87b960
+21:42:13.475: [pipewire] Stream 0x3a87b960 state: "connecting" (error: none)
+21:42:13.475: [pipewire] Playing stream 0x3a87b960
+21:42:13.475: [camera-portal] Updating pixel formats
+21:42:13.475: [camera-portal] Selected format for 'v4l2_input.pci-0000_00_14.0-usb-0_8_1.0'
+21:42:13.477: [pipewire] Stream 0x3a87b960 state: "paused" (error: none)
+21:42:13.482: [camera-portal] Updating device v4l2_input.pci-0000_00_14.0-usb-0_8_1.0
+21:42:13.485: [camera-portal] Selected format for 'v4l2_input.pci-0000_00_14.0-usb-0_8_1.0'
+21:42:13.490: [camera-portal] Selected resolution for 'v4l2_input.pci-0000_00_14.0-usb-0_8_1.0'
+21:42:13.491: [pipewire] Renegotiating stream
+21:42:13.495: [pipewire] Renegotiating stream
+21:42:13.499: [camera-portal] Updating device v4l2_input.pci-0000_00_14.0-usb-0_8_1.0
+21:42:13.509: [pipewire] Negotiated format:
+21:42:13.509: [pipewire]     Format: 4 (Spa:Enum:VideoFormat:YUY2)
+21:42:13.509: [pipewire]     Size: 640x480
+21:42:13.509: [pipewire]     Framerate: 5/1
+21:42:13.510: [pipewire] Stream 0x3a87b960 state: "streaming" (error: none)
+21:42:19.332: [camera-portal] Selected resolution for 'v4l2_input.pci-0000_00_14.0-usb-0_8_1.0'
+21:42:19.332: [pipewire] Renegotiating stream
+21:42:19.332: [camera-portal] Updating device v4l2_input.pci-0000_00_14.0-usb-0_8_1.0
+21:42:19.333: [pipewire] Stream 0x3a87b960 state: "paused" (error: none)
+21:42:19.343: [pipewire] Stream 0x3a87b960 state: "error" (error: no more input formats)
+21:42:19.343: [pipewire] Error id:4 seq:630 res:-32 (Broken pipe): no more input formats
+21:42:19.354: [pipewire] Renegotiating stream
+21:42:19.359: [pipewire] Negotiated format:
+21:42:19.359: [pipewire]     Format: 4 (Spa:Enum:VideoFormat:YUY2)
+21:42:19.359: [pipewire]     Size: 1280x720
+21:42:19.359: [pipewire]     Framerate: 10/1
+21:42:19.365: [camera-portal] Updating device v4l2_input.pci-0000_00_14.0-usb-0_8_1.0
+21:42:19.366: [pipewire] Negotiated format:
+21:42:19.366: [pipewire]     Format: 4 (Spa:Enum:VideoFormat:YUY2)
+21:42:19.367: [pipewire]     Size: 1280x720
+21:42:19.367: [pipewire]     Framerate: 10/1
+21:42:19.370: [pipewire] Stream 0x3a87b960 state: "streaming" (error: none)
+21:42:26.451: [camera-portal] Selected resolution for 'v4l2_input.pci-0000_00_14.0-usb-0_8_1.0'
+21:42:26.451: [pipewire] Renegotiating stream
+21:42:26.452: [pipewire] Stream 0x3a87b960 state: "paused" (error: none)
+21:42:26.463: [pipewire] Stream 0x3a87b960 state: "error" (error: no more input formats)
+21:42:26.463: [pipewire] Error id:4 seq:658 res:-32 (Broken pipe): no more input formats
+21:42:26.465: [camera-portal] Updating device v4l2_input.pci-0000_00_14.0-usb-0_8_1.0
+21:42:26.472: [pipewire] Renegotiating stream
+21:42:26.479: [pipewire] Negotiated format:
+21:42:26.479: [pipewire]     Format: 4 (Spa:Enum:VideoFormat:YUY2)
+21:42:26.479: [pipewire]     Size: 1920x1080
+21:42:26.479: [pipewire]     Framerate: 5/1
+21:42:26.482: [camera-portal] Updating device v4l2_input.pci-0000_00_14.0-usb-0_8_1.0
+21:42:26.490: [pipewire] Negotiated format:
+21:42:26.490: [pipewire]     Format: 4 (Spa:Enum:VideoFormat:YUY2)
+21:42:26.490: [pipewire]     Size: 1920x1080
+21:42:26.490: [pipewire]     Framerate: 5/1
+21:42:26.495: [pipewire] Stream 0x3a87b960 state: "streaming" (error: none)
+21:42:30.049: [camera-portal] Updating device 
+21:42:30.049: [pipewire] Stream 0x3a87b960 state: "paused" (error: none)
+21:42:30.053: [pipewire] Stream 0x3a87b960 state: "unconnected" (error: none)
+21:42:32.567: User Removed source 'Video Capture Device (PipeWire) (BETA)' (pipewire-camera-source) from scene 'Scene'
+21:42:36.852: v4l2-input: Start capture from 
+21:42:36.852: v4l2-input: Unable to open device
+21:42:36.852: v4l2-input: Initialization failed, errno: No such file or directory
+21:42:36.861: User added source 'Video Capture Device (V4L2)' (v4l2_input) to scene 'Scene'
+21:42:36.895: v4l2-input: /dev/video7 seems to not support video capture
+21:42:36.896: v4l2-input: Found device 'UVC Camera (534d:2109): USB Vid' at /dev/video6
+21:42:36.898: v4l2-input: Found input 'Camera 1' (Index 0)
+21:42:36.899: v4l2-input: Pixelformat: Motion-JPEG (available)
+21:42:36.899: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+21:42:36.899: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+21:42:36.899: v4l2-input: Start capture from /dev/video6
+21:42:36.899: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+21:42:36.899: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+21:42:36.899: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+21:42:36.899: v4l2-input: Input: 0
+21:42:36.899: v4l2-input: Resolution: 1920x1080
+21:42:36.899: v4l2-input: Pixelformat: YUYV
+21:42:36.899: v4l2-input: Linesize: 3840 Bytes
+21:42:36.899: v4l2-input: Framerate: 5.00 fps
+21:42:36.901: v4l2-input: Stepwise and Continuous framesizes are currently hardcoded
+21:42:36.902: v4l2-input: /dev/video6: select timeout set to 1000000 (5x frame periods)
+21:42:36.902: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+21:42:36.905: v4l2-input: Pixelformat: Motion-JPEG (available)
+21:42:36.905: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+21:42:36.905: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+21:42:36.905: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+21:42:36.905: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+21:42:36.905: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+21:42:36.906: v4l2-input: Stepwise and Continuous framesizes are currently hardcoded
+21:42:36.906: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+21:42:36.909: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+21:42:37.508: v4l2-input: /dev/video6: Stopped capture after 1 frames
+21:42:37.510: v4l2-input: Start capture from /dev/video6
+21:42:37.511: v4l2-input: Input: 0
+21:42:37.513: v4l2-input: Resolution: 1920x1080
+21:42:37.513: v4l2-input: Pixelformat: MJPG
+21:42:37.513: v4l2-input: Linesize: 0 Bytes
+21:42:37.513: v4l2-input: Framerate: 30.00 fps
+21:42:37.515: v4l2-input: /dev/video6: select timeout set to 166666 (5x frame periods)
+21:42:45.443: v4l2-input: /dev/video6: Stopped capture after 236 frames
+21:42:45.445: v4l2-input: Start capture from /dev/video6
+21:42:45.446: v4l2-input: Input: 0
+21:42:45.448: v4l2-input: Resolution: 1280x720
+21:42:45.448: v4l2-input: Pixelformat: MJPG
+21:42:45.448: v4l2-input: Linesize: 0 Bytes
+21:42:45.448: v4l2-input: Framerate: 30.00 fps
+21:42:45.450: v4l2-input: /dev/video6: select timeout set to 166666 (5x frame periods)
+21:42:48.108: v4l2-input: /dev/video6: Stopped capture after 76 frames
+21:42:48.110: v4l2-input: Start capture from /dev/video6
+21:42:48.112: v4l2-input: Input: 0
+21:42:48.114: v4l2-input: Resolution: 1280x720
+21:42:48.114: v4l2-input: Pixelformat: MJPG
+21:42:48.114: v4l2-input: Linesize: 0 Bytes
+21:42:48.115: v4l2-input: Framerate: 60.00 fps
+21:42:48.118: v4l2-input: /dev/video6: select timeout set to 83333 (5x frame periods)
+21:42:54.988: v4l2-input: /dev/video6: Stopped capture after 410 frames
+21:42:54.989: v4l2-input: Start capture from /dev/video6
+21:42:54.990: v4l2-input: Input: 0
+21:42:54.992: v4l2-input: Resolution: 1920x1080
+21:42:54.993: v4l2-input: Pixelformat: MJPG
+21:42:54.993: v4l2-input: Linesize: 0 Bytes
+21:42:54.994: v4l2-input: Framerate: 30.00 fps
+21:42:54.996: v4l2-input: /dev/video6: select timeout set to 166666 (5x frame periods)
+21:42:55.088: v4l2-input: /dev/video6: Stopped capture after 1 frames
+21:42:55.091: v4l2-input: Start capture from /dev/video6
+21:42:55.092: v4l2-input: Input: 0
+21:42:55.095: v4l2-input: Resolution: 1920x1080
+21:42:55.095: v4l2-input: Pixelformat: MJPG
+21:42:55.095: v4l2-input: Linesize: 0 Bytes
+21:42:55.095: v4l2-input: Framerate: 30.00 fps
+21:42:55.099: v4l2-input: /dev/video6: select timeout set to 166666 (5x frame periods)
+21:42:56.974: v4l2-input: /dev/video6: Stopped capture after 55 frames
+21:42:56.976: v4l2-input: Start capture from /dev/video6
+21:42:56.977: v4l2-input: Input: 0
+21:42:56.980: v4l2-input: Resolution: 1920x1080
+21:42:56.980: v4l2-input: Pixelformat: MJPG
+21:42:56.980: v4l2-input: Linesize: 0 Bytes
+21:42:56.981: v4l2-input: Framerate: 30.00 fps
+21:42:56.983: v4l2-input: /dev/video6: select timeout set to 166666 (5x frame periods)
+21:46:57.828: v4l2-input: /dev/video6: Stopped capture after 7225 frames
+21:46:57.832: v4l2-input: Start capture from /dev/video6
+21:46:57.833: v4l2-input: Input: 0
+21:46:57.835: v4l2-input: Resolution: 1280x720
+21:46:57.835: v4l2-input: Pixelformat: MJPG
+21:46:57.835: v4l2-input: Linesize: 0 Bytes
+21:46:57.835: v4l2-input: Framerate: 60.00 fps
+21:46:57.837: v4l2-input: /dev/video6: select timeout set to 83333 (5x frame periods)
+21:46:57.842: v4l2-input: decoder: failed to send frame to codec
+21:46:57.842: v4l2-input: failed to unpack jpeg or h264
+21:46:57.842: v4l2-input: /dev/video6: Stopped capture after 0 frames
+21:47:03.282: ReadOne on org.freedesktop.portal.Settings returned an invalid reply
+21:47:03.283: ReadOne on org.freedesktop.portal.Settings returned an invalid reply
+21:47:10.654: Creating a popup with a parent, QWidgetWindow(0x362b3a30, name="OBSBasicWindow") which does not match the current topmost grabbing popup, QWidgetWindow(0x3a3836d0, name="QMenuClassWindow") With some shell surface protocols, this is not allowed. The wayland QPA plugin is currently handling it by setting the parent to the topmost grabbing popup. Note, however, that this may cause positioning errors and popups closing unxpectedly. Please fix the transient parent of the popup.
+21:48:43.385: ReadOne on org.freedesktop.portal.Settings returned an invalid reply
+21:48:43.386: ReadOne on org.freedesktop.portal.Settings returned an invalid reply
+21:52:54.016: Number of remaining views: 1
+21:52:54.016: ---------------------------------
+21:52:54.016: video settings reset:
+21:52:54.016: 	base resolution:   1280x720
+21:52:54.016: 	output resolution: 1280x720
+21:52:54.016: 	downscale filter:  Lanczos
+21:52:54.016: 	fps:               60/1
+21:52:54.016: 	format:            NV12
+21:52:54.016: 	YUV mode:          Rec. 709/Partial
+21:52:54.016: NV12 texture support enabled
+21:52:54.016: P010 texture support not available
+21:52:54.024: Settings changed (outputs, video)
+21:52:54.024: ------------------------------------------------
+21:53:21.029: v4l2-input: /dev/video7 seems to not support video capture
+21:53:21.030: v4l2-input: Found device 'UVC Camera (534d:2109): USB Vid' at /dev/video6
+21:53:21.033: v4l2-input: Pixelformat: Motion-JPEG (available)
+21:53:21.033: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+21:53:21.033: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+21:53:21.033: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+21:53:21.033: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+21:53:21.033: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+21:53:21.036: v4l2-input: Found input 'Camera 1' (Index 0)
+21:53:21.036: v4l2-input: Pixelformat: Motion-JPEG (available)
+21:53:21.036: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+21:53:21.036: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+21:53:21.037: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+21:53:21.037: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+21:53:21.037: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+21:53:26.625: v4l2-input: Start capture from /dev/video6
+21:53:26.626: v4l2-input: Input: 0
+21:53:26.629: v4l2-input: Resolution: 1280x720
+21:53:26.629: v4l2-input: Pixelformat: YUYV
+21:53:26.629: v4l2-input: Linesize: 2560 Bytes
+21:53:26.630: v4l2-input: Framerate: 10.00 fps
+21:53:26.632: v4l2-input: /dev/video6: select timeout set to 500000 (5x frame periods)
+21:53:26.850: v4l2-input: /dev/video6: Stopped capture after 1 frames
+21:53:26.852: v4l2-input: Start capture from /dev/video6
+21:53:26.854: v4l2-input: Input: 0
+21:53:26.856: v4l2-input: Resolution: 1280x720
+21:53:26.856: v4l2-input: Pixelformat: YUYV
+21:53:26.856: v4l2-input: Linesize: 2560 Bytes
+21:53:26.857: v4l2-input: Framerate: 10.00 fps
+21:53:26.859: v4l2-input: /dev/video6: select timeout set to 500000 (5x frame periods)
+21:53:36.325: v4l2-input: /dev/video7 seems to not support video capture
+21:53:36.327: v4l2-input: Found device 'UVC Camera (534d:2109): USB Vid' at /dev/video6
+21:53:36.331: v4l2-input: Pixelformat: Motion-JPEG (available)
+21:53:36.331: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+21:53:36.331: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+21:53:36.331: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+21:53:36.331: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+21:53:36.331: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+21:53:36.334: v4l2-input: Found input 'Camera 1' (Index 0)
+21:53:36.335: v4l2-input: Pixelformat: Motion-JPEG (available)
+21:53:36.335: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+21:53:36.335: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+21:53:36.335: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+21:53:36.335: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+21:53:36.335: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+21:53:38.653: v4l2-input: /dev/video6: Stopped capture after 116 frames
+21:53:38.655: v4l2-input: Start capture from /dev/video6
+21:53:38.657: v4l2-input: Input: 0
+21:53:38.659: v4l2-input: Resolution: 1280x720
+21:53:38.659: v4l2-input: Pixelformat: YUYV
+21:53:38.659: v4l2-input: Linesize: 2560 Bytes
+21:53:38.660: v4l2-input: Framerate: 10.00 fps
+21:53:38.662: v4l2-input: /dev/video6: select timeout set to 500000 (5x frame periods)
+21:53:42.064: v4l2-input: /dev/video6: Stopped capture after 33 frames
+21:53:42.066: v4l2-input: Start capture from /dev/video6
+21:53:42.067: v4l2-input: Input: 0
+21:53:42.069: v4l2-input: Resolution: 1280x720
+21:53:42.069: v4l2-input: Pixelformat: YU12
+21:53:42.069: v4l2-input: Linesize: 1280 Bytes
+21:53:42.070: v4l2-input: Framerate: 60.00 fps
+21:53:42.071: v4l2-input: /dev/video6: select timeout set to 83333 (5x frame periods)
+21:53:45.531: v4l2-input: /dev/video6: Stopped capture after 197 frames
+21:53:45.534: v4l2-input: Start capture from /dev/video6
+21:53:45.536: v4l2-input: Input: 0
+21:53:45.537: v4l2-input: Resolution: 1280x720
+21:53:45.537: v4l2-input: Pixelformat: YU12
+21:53:45.537: v4l2-input: Linesize: 1280 Bytes
+21:53:45.539: v4l2-input: Framerate: 60.00 fps
+21:53:45.540: v4l2-input: /dev/video6: select timeout set to 83333 (5x frame periods)
+21:53:56.982: ---------------------------------
+21:53:56.982: [x264 encoder: 'advanced_video_recording'] preset: faster
+21:53:56.982: [x264 encoder: 'advanced_video_recording'] profile: high
+21:53:56.982: [x264 encoder: 'advanced_video_recording'] settings:
+21:53:56.982: 	rate_control: CBR
+21:53:56.982: 	bitrate:      5000
+21:53:56.982: 	buffer size:  5000
+21:53:56.982: 	crf:          23
+21:53:56.982: 	fps_num:      60
+21:53:56.982: 	fps_den:      1
+21:53:56.982: 	width:        1280
+21:53:56.982: 	height:       720
+21:53:56.982: 	keyint:       250
+21:53:56.982: 
+21:53:57.000: libfdk_aac encoder created
+21:53:57.000: libfdk_aac bitrate: 160, channels: 2
+21:53:57.120: ==== Recording Start ===============================================
+21:53:57.120: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/imran/2025-04-07 21-53-56.mkv'...
+21:53:59.729: Creating a popup with a parent, QWidgetWindow(0x362b3a30, name="OBSBasicWindow") which does not match the current topmost grabbing popup, QWidgetWindow(0x395e8a20, name="QMenuClassWindow") With some shell surface protocols, this is not allowed. The wayland QPA plugin is currently handling it by setting the parent to the topmost grabbing popup. Note, however, that this may cause positioning errors and popups closing unxpectedly. Please fix the transient parent of the popup.
+21:54:03.403: Creating a popup with a parent, QWidgetWindow(0x362b3a30, name="OBSBasicWindow") which does not match the current topmost grabbing popup, QWidgetWindow(0x395e8a20, name="QMenuClassWindow") With some shell surface protocols, this is not allowed. The wayland QPA plugin is currently handling it by setting the parent to the topmost grabbing popup. Note, however, that this may cause positioning errors and popups closing unxpectedly. Please fix the transient parent of the popup.
+21:54:48.680: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/imran/2025-04-07 21-53-56.mkv' stopped
+21:54:48.680: Output 'adv_file_output': stopping
+21:54:48.680: Output 'adv_file_output': Total frames output: 3062
+21:54:48.681: Output 'adv_file_output': Total drawn frames: 3094
+21:54:48.681: ==== Recording Stop ================================================
+21:54:48.701: libfdk_aac encoder destroyed
+22:00:40.147: v4l2-input: /dev/video7 seems to not support video capture
+22:00:40.148: v4l2-input: Found device 'UVC Camera (534d:2109): USB Vid' at /dev/video6
+22:00:40.153: v4l2-input: Pixelformat: Motion-JPEG (available)
+22:00:40.153: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+22:00:40.153: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+22:00:40.153: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+22:00:40.153: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+22:00:40.153: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+22:00:40.155: v4l2-input: Found input 'Camera 1' (Index 0)
+22:00:40.156: v4l2-input: Pixelformat: Motion-JPEG (available)
+22:00:40.156: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+22:00:40.156: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+22:00:40.156: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+22:00:40.156: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+22:00:40.156: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+22:00:43.100: v4l2-input: /dev/video6: Stopped capture after 24281 frames
+22:00:43.102: v4l2-input: Start capture from /dev/video6
+22:00:43.103: v4l2-input: Input: 0
+22:00:43.104: v4l2-input: Resolution: 1920x1080
+22:00:43.104: v4l2-input: Pixelformat: YU12
+22:00:43.104: v4l2-input: Linesize: 1920 Bytes
+22:00:43.104: v4l2-input: Framerate: 30.00 fps
+22:00:43.106: v4l2-input: /dev/video6: select timeout set to 166666 (5x frame periods)
+22:00:43.107: v4l2-input: /dev/video6: Stopped capture after 0 frames
+22:00:43.109: v4l2-input: Start capture from /dev/video6
+22:00:43.110: v4l2-input: Input: 0
+22:00:43.111: v4l2-input: Resolution: 1920x1080
+22:00:43.111: v4l2-input: Pixelformat: YU12
+22:00:43.111: v4l2-input: Linesize: 1920 Bytes
+22:00:43.111: v4l2-input: Framerate: 30.00 fps
+22:00:43.112: v4l2-input: /dev/video6: select timeout set to 166666 (5x frame periods)
+22:00:45.271: v4l2-input: /dev/video6: Stopped capture after 62 frames
+22:00:45.276: v4l2-input: Start capture from /dev/video6
+22:00:45.278: v4l2-input: Input: 0
+22:00:45.279: v4l2-input: Resolution: 1920x1080
+22:00:45.279: v4l2-input: Pixelformat: YU12
+22:00:45.279: v4l2-input: Linesize: 1920 Bytes
+22:00:45.280: v4l2-input: Framerate: 30.00 fps
+22:00:45.283: v4l2-input: /dev/video6: select timeout set to 166666 (5x frame periods)
+22:00:47.830: ReadOne on org.freedesktop.portal.Settings returned an invalid reply
+22:00:47.833: ReadOne on org.freedesktop.portal.Settings returned an invalid reply
+22:00:57.574: Number of remaining views: 1
+22:00:57.574: ---------------------------------
+22:00:57.574: video settings reset:
+22:00:57.574: 	base resolution:   1920x1080
+22:00:57.574: 	output resolution: 1920x1080
+22:00:57.574: 	downscale filter:  Lanczos
+22:00:57.574: 	fps:               60/1
+22:00:57.574: 	format:            NV12
+22:00:57.574: 	YUV mode:          Rec. 709/Partial
+22:00:57.574: NV12 texture support enabled
+22:00:57.574: P010 texture support not available
+22:00:57.587: Settings changed (outputs, video)
+22:00:57.587: ------------------------------------------------
+22:01:04.773: User Removed source 'Video Capture Device (V4L2)' (v4l2_input) from scene 'Scene'
+22:01:04.799: v4l2-input: /dev/video6: Stopped capture after 583 frames
+22:01:09.306: v4l2-input: Start capture from 
+22:01:09.307: v4l2-input: Unable to open device
+22:01:09.307: v4l2-input: Initialization failed, errno: No such file or directory
+22:01:09.316: User added source 'Video Capture Device (V4L2)' (v4l2_input) to scene 'Scene'
+22:01:09.351: v4l2-input: /dev/video7 seems to not support video capture
+22:01:09.352: v4l2-input: Found device 'UVC Camera (534d:2109): USB Vid' at /dev/video6
+22:01:09.354: v4l2-input: Found input 'Camera 1' (Index 0)
+22:01:09.356: v4l2-input: Pixelformat: Motion-JPEG (available)
+22:01:09.356: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+22:01:09.356: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+22:01:09.356: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+22:01:09.356: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+22:01:09.356: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+22:01:09.357: v4l2-input: Stepwise and Continuous framesizes are currently hardcoded
+22:01:09.358: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+22:01:09.362: v4l2-input: Pixelformat: Motion-JPEG (available)
+22:01:09.362: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+22:01:09.362: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+22:01:09.362: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+22:01:09.362: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+22:01:09.362: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+22:01:09.363: v4l2-input: Stepwise and Continuous framesizes are currently hardcoded
+22:01:09.363: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+22:01:09.366: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+22:01:09.370: v4l2-input: Start capture from /dev/video6
+22:01:09.371: v4l2-input: Input: 0
+22:01:09.372: v4l2-input: Resolution: 1920x1080
+22:01:09.373: v4l2-input: Pixelformat: MJPG
+22:01:09.373: v4l2-input: Linesize: 0 Bytes
+22:01:09.373: v4l2-input: Framerate: 30.00 fps
+22:01:09.376: v4l2-input: /dev/video6: select timeout set to 166666 (5x frame periods)
+22:01:16.553: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+22:01:16.559: v4l2-input: /dev/video6: Stopped capture after 214 frames
+22:01:16.562: v4l2-input: Start capture from /dev/video6
+22:01:16.563: v4l2-input: Input: 0
+22:01:16.564: v4l2-input: Resolution: 1920x1080
+22:01:16.564: v4l2-input: Pixelformat: YV12
+22:01:16.564: v4l2-input: Linesize: 1920 Bytes
+22:01:16.564: v4l2-input: Framerate: 30.00 fps
+22:01:16.566: v4l2-input: /dev/video6: select timeout set to 166666 (5x frame periods)
+22:01:19.779: v4l2-input: /dev/video6: Stopped capture after 94 frames
+22:01:19.783: v4l2-input: Start capture from /dev/video6
+22:01:19.784: v4l2-input: Input: 0
+22:01:19.786: v4l2-input: Resolution: 1920x1080
+22:01:19.786: v4l2-input: Pixelformat: YV12
+22:01:19.786: v4l2-input: Linesize: 1920 Bytes
+22:01:19.787: v4l2-input: Framerate: 30.00 fps
+22:01:19.789: v4l2-input: /dev/video6: select timeout set to 166666 (5x frame periods)
+22:01:24.245: v4l2-input: /dev/video6: Stopped capture after 131 frames
+22:01:24.250: v4l2-input: Start capture from /dev/video6
+22:01:24.251: v4l2-input: Input: 0
+22:01:24.252: v4l2-input: Resolution: 1920x1080
+22:01:24.252: v4l2-input: Pixelformat: YU12
+22:01:24.252: v4l2-input: Linesize: 1920 Bytes
+22:01:24.253: v4l2-input: Framerate: 30.00 fps
+22:01:24.256: v4l2-input: /dev/video6: select timeout set to 166666 (5x frame periods)
+22:01:28.430: ReadOne on org.freedesktop.portal.Settings returned an invalid reply
+22:01:28.431: ReadOne on org.freedesktop.portal.Settings returned an invalid reply
+22:01:43.482: Settings changed (outputs)
+22:01:43.482: ------------------------------------------------
+22:01:48.823: ReadOne on org.freedesktop.portal.Settings returned an invalid reply
+22:01:48.825: ReadOne on org.freedesktop.portal.Settings returned an invalid reply
+22:01:59.729: Creating a popup with a parent, QWidgetWindow(0x362b3a30, name="OBSBasicWindow") which does not match the current topmost grabbing popup, QWidgetWindow(0x3a0afda0, name="QMenuClassWindow") With some shell surface protocols, this is not allowed. The wayland QPA plugin is currently handling it by setting the parent to the topmost grabbing popup. Note, however, that this may cause positioning errors and popups closing unxpectedly. Please fix the transient parent of the popup.
+22:02:01.742: ---------------------------------
+22:02:01.742: [x264 encoder: 'simple_video_recording'] preset: veryfast
+22:02:01.742: [x264 encoder: 'simple_video_recording'] profile: high
+22:02:01.742: [x264 encoder: 'simple_video_recording'] settings:
+22:02:01.742: 	rate_control: CRF
+22:02:01.742: 	bitrate:      0
+22:02:01.742: 	buffer size:  0
+22:02:01.742: 	crf:          23
+22:02:01.742: 	fps_num:      60
+22:02:01.742: 	fps_den:      1
+22:02:01.742: 	width:        1920
+22:02:01.742: 	height:       1080
+22:02:01.742: 	keyint:       250
+22:02:01.742: 
+22:02:01.746: libfdk_aac encoder created
+22:02:01.746: libfdk_aac bitrate: 192, channels: 2
+22:02:01.760: ==== Recording Start ===============================================
+22:02:01.761: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/imran/2025-04-07 22-02-01.mkv'...
+22:02:02.655: Creating a popup with a parent, QWidgetWindow(0x362b3a30, name="OBSBasicWindow") which does not match the current topmost grabbing popup, QWidgetWindow(0x3a7b82f0, name="QMenuClassWindow") With some shell surface protocols, this is not allowed. The wayland QPA plugin is currently handling it by setting the parent to the topmost grabbing popup. Note, however, that this may cause positioning errors and popups closing unxpectedly. Please fix the transient parent of the popup.
+22:02:08.932: Creating a popup with a parent, QWidgetWindow(0x362b3a30, name="OBSBasicWindow") which does not match the current topmost grabbing popup, QWidgetWindow(0x39735590, name="QMenuClassWindow") With some shell surface protocols, this is not allowed. The wayland QPA plugin is currently handling it by setting the parent to the topmost grabbing popup. Note, however, that this may cause positioning errors and popups closing unxpectedly. Please fix the transient parent of the popup.
+22:02:41.981: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/imran/2025-04-07 22-02-01.mkv' stopped
+22:02:41.981: Output 'simple_file_output': stopping
+22:02:41.981: Output 'simple_file_output': Total frames output: 2387
+22:02:41.981: Output 'simple_file_output': Total drawn frames: 2411 (2413 attempted)
+22:02:41.981: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 2 (0.1%)
+22:02:41.982: ==== Recording Stop ================================================
+22:02:41.992: libfdk_aac encoder destroyed
+22:03:36.343: v4l2-input: /dev/video7 seems to not support video capture
+22:03:36.344: v4l2-input: Found device 'UVC Camera (534d:2109): USB Vid' at /dev/video6
+22:03:36.347: v4l2-input: Pixelformat: Motion-JPEG (available)
+22:03:36.347: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+22:03:36.347: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+22:03:36.347: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+22:03:36.347: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+22:03:36.347: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+22:03:36.349: v4l2-input: Found input 'Camera 1' (Index 0)
+22:03:36.350: v4l2-input: Pixelformat: Motion-JPEG (available)
+22:03:36.350: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+22:03:36.350: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+22:03:36.350: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+22:03:36.350: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+22:03:36.350: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+22:03:40.981: v4l2-input: /dev/video6: Stopped capture after 4100 frames
+22:03:41.198: v4l2-input: Start capture from /dev/video6
+22:03:41.199: v4l2-input: Input: 0
+22:03:41.200: v4l2-input: Resolution: 1280x720
+22:03:41.200: v4l2-input: Pixelformat: YU12
+22:03:41.200: v4l2-input: Linesize: 1280 Bytes
+22:03:41.202: v4l2-input: Framerate: 60.00 fps
+22:03:41.203: v4l2-input: /dev/video6: select timeout set to 83333 (5x frame periods)
+22:03:41.288: v4l2-input: /dev/video6: select timed out
+22:03:41.288: v4l2-input: /dev/video6: failed to log status
+22:03:42.855: v4l2-input: /dev/video6: Stopped capture after 95 frames
+22:03:42.857: v4l2-input: Start capture from /dev/video6
+22:03:42.858: v4l2-input: Input: 0
+22:03:42.859: v4l2-input: Resolution: 1280x720
+22:03:42.859: v4l2-input: Pixelformat: YU12
+22:03:42.859: v4l2-input: Linesize: 1280 Bytes
+22:03:42.861: v4l2-input: Framerate: 60.00 fps
+22:03:42.861: v4l2-input: /dev/video6: select timeout set to 83333 (5x frame periods)
+22:03:46.202: ReadOne on org.freedesktop.portal.Settings returned an invalid reply
+22:03:46.204: ReadOne on org.freedesktop.portal.Settings returned an invalid reply
+22:04:07.787: Number of remaining views: 1
+22:04:07.787: ---------------------------------
+22:04:07.787: video settings reset:
+22:04:07.787: 	base resolution:   1280x720
+22:04:07.787: 	output resolution: 1280x720
+22:04:07.787: 	downscale filter:  Lanczos
+22:04:07.787: 	fps:               60/1
+22:04:07.787: 	format:            NV12
+22:04:07.787: 	YUV mode:          Rec. 709/Partial
+22:04:07.787: NV12 texture support enabled
+22:04:07.787: P010 texture support not available
+22:04:07.798: Settings changed (outputs, video)
+22:04:07.798: ------------------------------------------------
+22:04:10.779: Creating a popup with a parent, QWidgetWindow(0x362b3a30, name="OBSBasicWindow") which does not match the current topmost grabbing popup, QWidgetWindow(0x395c7db0, name="QMenuClassWindow") With some shell surface protocols, this is not allowed. The wayland QPA plugin is currently handling it by setting the parent to the topmost grabbing popup. Note, however, that this may cause positioning errors and popups closing unxpectedly. Please fix the transient parent of the popup.
+22:04:11.155: Creating a popup with a parent, QWidgetWindow(0x362b3a30, name="OBSBasicWindow") which does not match the current topmost grabbing popup, QWidgetWindow(0x395c7db0, name="QMenuClassWindow") With some shell surface protocols, this is not allowed. The wayland QPA plugin is currently handling it by setting the parent to the topmost grabbing popup. Note, however, that this may cause positioning errors and popups closing unxpectedly. Please fix the transient parent of the popup.
+22:04:19.448: ---------------------------------
+22:04:19.448: [x264 encoder: 'simple_video_recording'] preset: veryfast
+22:04:19.448: [x264 encoder: 'simple_video_recording'] profile: high
+22:04:19.448: [x264 encoder: 'simple_video_recording'] settings:
+22:04:19.448: 	rate_control: CRF
+22:04:19.448: 	bitrate:      0
+22:04:19.448: 	buffer size:  0
+22:04:19.448: 	crf:          21
+22:04:19.448: 	fps_num:      60
+22:04:19.448: 	fps_den:      1
+22:04:19.448: 	width:        1280
+22:04:19.448: 	height:       720
+22:04:19.448: 	keyint:       250
+22:04:19.448: 
+22:04:19.455: libfdk_aac encoder created
+22:04:19.455: libfdk_aac bitrate: 192, channels: 2
+22:04:19.471: ==== Recording Start ===============================================
+22:04:19.471: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/imran/2025-04-07 22-04-19.mkv'...
+22:04:22.410: v4l2-input: /dev/video7 seems to not support video capture
+22:04:22.411: v4l2-input: Found device 'UVC Camera (534d:2109): USB Vid' at /dev/video6
+22:04:22.414: v4l2-input: Pixelformat: Motion-JPEG (available)
+22:04:22.414: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+22:04:22.414: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+22:04:22.414: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+22:04:22.414: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+22:04:22.414: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+22:04:22.416: v4l2-input: Found input 'Camera 1' (Index 0)
+22:04:22.416: v4l2-input: Pixelformat: Motion-JPEG (available)
+22:04:22.416: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+22:04:22.417: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+22:04:22.417: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+22:04:22.417: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+22:04:22.417: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+22:04:25.355: v4l2-input: /dev/video6: Stopped capture after 2546 frames
+22:04:25.358: v4l2-input: Start capture from /dev/video6
+22:04:25.360: v4l2-input: Unable to set input 0
+22:04:25.360: v4l2-input: Initialization failed, errno: Device or resource busy
+22:04:42.011: v4l2-input: /dev/video7 seems to not support video capture
+22:04:42.012: v4l2-input: Found device 'UVC Camera (534d:2109): USB Vid' at /dev/video6
+22:04:42.015: v4l2-input: Pixelformat: Motion-JPEG (available)
+22:04:42.015: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+22:04:42.015: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+22:04:42.015: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+22:04:42.015: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+22:04:42.015: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+22:04:42.018: v4l2-input: Found input 'Camera 1' (Index 0)
+22:04:42.019: v4l2-input: Pixelformat: Motion-JPEG (available)
+22:04:42.019: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+22:04:42.019: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+22:04:42.019: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+22:04:42.019: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+22:04:42.019: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+22:04:46.797: v4l2-input: Start capture from /dev/video6
+22:04:46.799: v4l2-input: Unable to set input 0
+22:04:46.800: v4l2-input: Initialization failed, errno: Device or resource busy
+22:04:49.147: v4l2-input: Start capture from /dev/video6
+22:04:49.149: v4l2-input: Unable to set input 0
+22:04:49.149: v4l2-input: Initialization failed, errno: Device or resource busy
+22:04:51.031: v4l2-input: Start capture from /dev/video6
+22:04:51.033: v4l2-input: Unable to set input 0
+22:04:51.033: v4l2-input: Initialization failed, errno: Device or resource busy
+22:04:58.675: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/imran/2025-04-07 22-04-19.mkv' stopped
+22:04:58.676: Output 'simple_file_output': stopping
+22:04:58.676: Output 'simple_file_output': Total frames output: 2323
+22:04:58.676: Output 'simple_file_output': Total drawn frames: 2288 (2352 attempted)
+22:04:58.676: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 64 (2.7%)
+22:04:58.676: ==== Recording Stop ================================================
+22:04:58.685: libfdk_aac encoder destroyed
+22:05:01.831: User Removed source 'Video Capture Device (V4L2)' (v4l2_input) from scene 'Scene'
+22:05:06.954: obs-data.c: [obs_data_create_from_json] Failed reading json string (1): '[' or '{' expected near end of file
+22:05:06.955: obs-data.c: [obs_data_create_from_json] Failed reading json string (1): '[' or '{' expected near end of file
+22:05:06.962: User added source 'Video Capture Device (PipeWire) (BETA)' (pipewire-camera-source) to scene 'Scene'
+22:05:06.990: [camera-portal] Selected resolution for ''
+22:05:06.990: [camera-portal] Selected format for ''
+22:05:06.990: [camera-portal] selected camera ''
+22:05:09.173: [camera-portal] selected camera 'v4l2_input.pci-0000_00_14.0-usb-0_8_1.0'
+22:05:09.173: [camera-portal] streaming camera 'v4l2_input.pci-0000_00_14.0-usb-0_8_1.0'
+22:05:09.174: [pipewire] Created stream 0x3964de10
+22:05:09.174: [pipewire] Stream 0x3964de10 state: "connecting" (error: none)
+22:05:09.174: [pipewire] Playing stream 0x3964de10
+22:05:09.174: [camera-portal] Updating pixel formats
+22:05:09.174: [camera-portal] Selected format for 'v4l2_input.pci-0000_00_14.0-usb-0_8_1.0'
+22:05:09.176: [pipewire] Stream 0x3964de10 state: "paused" (error: none)
+22:05:09.181: [camera-portal] Updating device v4l2_input.pci-0000_00_14.0-usb-0_8_1.0
+22:05:09.185: [camera-portal] Selected format for 'v4l2_input.pci-0000_00_14.0-usb-0_8_1.0'
+22:05:09.191: [camera-portal] Selected resolution for 'v4l2_input.pci-0000_00_14.0-usb-0_8_1.0'
+22:05:09.191: [pipewire] Renegotiating stream
+22:05:09.196: [pipewire] Renegotiating stream
+22:05:09.197: [camera-portal] Updating device v4l2_input.pci-0000_00_14.0-usb-0_8_1.0
+22:05:09.209: [pipewire] Negotiated format:
+22:05:09.209: [pipewire]     Format: 4 (Spa:Enum:VideoFormat:YUY2)
+22:05:09.209: [pipewire]     Size: 640x480
+22:05:09.209: [pipewire]     Framerate: 5/1
+22:05:09.210: [pipewire] Stream 0x3964de10 state: "streaming" (error: none)
+22:05:14.031: [camera-portal] Updating device 
+22:05:14.031: [pipewire] Stream 0x3964de10 state: "paused" (error: none)
+22:05:14.032: [pipewire] Stream 0x3964de10 state: "unconnected" (error: none)
+22:05:16.750: [camera-portal] Selected resolution for ''
+22:05:16.750: [camera-portal] Selected format for ''
+22:05:16.750: [camera-portal] selected camera ''
+22:05:18.381: [camera-portal] Updating device 
+22:05:24.676: v4l2-input: Start capture from 
+22:05:24.676: v4l2-input: Unable to open device
+22:05:24.676: v4l2-input: Initialization failed, errno: No such file or directory
+22:05:24.685: User added source 'Video Capture Device (V4L2)' (v4l2_input) to scene 'Scene'
+22:05:24.717: v4l2-input: /dev/video7 seems to not support video capture
+22:05:24.717: v4l2-input: Found device 'UVC Camera (534d:2109): USB Vid' at /dev/video6
+22:05:24.719: v4l2-input: Found input 'Camera 1' (Index 0)
+22:05:24.721: v4l2-input: Pixelformat: Motion-JPEG (available)
+22:05:24.721: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+22:05:24.721: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+22:05:24.721: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+22:05:24.721: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+22:05:24.721: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+22:05:24.722: v4l2-input: Stepwise and Continuous framesizes are currently hardcoded
+22:05:24.722: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+22:05:24.725: v4l2-input: Pixelformat: Motion-JPEG (available)
+22:05:24.725: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+22:05:24.725: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+22:05:24.725: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+22:05:24.725: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+22:05:24.725: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+22:05:24.726: v4l2-input: Stepwise and Continuous framesizes are currently hardcoded
+22:05:24.726: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+22:05:24.730: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+22:05:24.731: v4l2-input: Start capture from /dev/video6
+22:05:24.731: v4l2-input: Input: 0
+22:05:24.733: v4l2-input: Resolution: 640x480
+22:05:24.733: v4l2-input: Pixelformat: MJPG
+22:05:24.733: v4l2-input: Linesize: 0 Bytes
+22:05:24.733: v4l2-input: Framerate: 30.00 fps
+22:05:24.734: v4l2-input: /dev/video6: select timeout set to 166666 (5x frame periods)
+22:05:29.916: v4l2-input: /dev/video6: Stopped capture after 153 frames
+22:05:29.918: v4l2-input: Start capture from /dev/video6
+22:05:29.919: v4l2-input: Input: 0
+22:05:29.921: v4l2-input: Resolution: 1280x720
+22:05:29.921: v4l2-input: Pixelformat: MJPG
+22:05:29.921: v4l2-input: Linesize: 0 Bytes
+22:05:29.921: v4l2-input: Framerate: 30.00 fps
+22:05:29.922: v4l2-input: /dev/video6: select timeout set to 166666 (5x frame periods)
+22:05:32.485: v4l2-input: /dev/video6: Stopped capture after 75 frames
+22:05:32.487: v4l2-input: Start capture from /dev/video6
+22:05:32.488: v4l2-input: Input: 0
+22:05:32.489: v4l2-input: Resolution: 1280x720
+22:05:32.489: v4l2-input: Pixelformat: YU12
+22:05:32.489: v4l2-input: Linesize: 1280 Bytes
+22:05:32.489: v4l2-input: Framerate: 30.00 fps
+22:05:32.490: v4l2-input: /dev/video6: select timeout set to 166666 (5x frame periods)
+22:05:35.468: v4l2-input: /dev/video6: Stopped capture after 87 frames
+22:05:35.471: v4l2-input: Start capture from /dev/video6
+22:05:35.473: v4l2-input: Input: 0
+22:05:35.474: v4l2-input: Resolution: 1280x720
+22:05:35.474: v4l2-input: Pixelformat: YU12
+22:05:35.474: v4l2-input: Linesize: 1280 Bytes
+22:05:35.475: v4l2-input: Framerate: 60.00 fps
+22:05:35.477: v4l2-input: /dev/video6: select timeout set to 83333 (5x frame periods)
+22:05:40.814: User Removed source 'Video Capture Device (PipeWire) (BETA)' (pipewire-camera-source) from scene 'Scene'
+22:05:44.266: ---------------------------------
+22:05:44.266: [x264 encoder: 'simple_video_recording'] preset: veryfast
+22:05:44.266: [x264 encoder: 'simple_video_recording'] profile: high
+22:05:44.266: [x264 encoder: 'simple_video_recording'] settings:
+22:05:44.266: 	rate_control: CRF
+22:05:44.266: 	bitrate:      0
+22:05:44.266: 	buffer size:  0
+22:05:44.266: 	crf:          21
+22:05:44.266: 	fps_num:      60
+22:05:44.266: 	fps_den:      1
+22:05:44.266: 	width:        1280
+22:05:44.266: 	height:       720
+22:05:44.266: 	keyint:       250
+22:05:44.266: 
+22:05:44.277: libfdk_aac encoder created
+22:05:44.277: libfdk_aac bitrate: 192, channels: 2
+22:05:44.289: ==== Recording Start ===============================================
+22:05:44.289: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/imran/2025-04-07 22-05-44.mkv'...
+22:06:24.193: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/imran/2025-04-07 22-05-44.mkv' stopped
+22:06:24.193: Output 'simple_file_output': stopping
+22:06:24.193: Output 'simple_file_output': Total frames output: 2368
+22:06:24.193: Output 'simple_file_output': Total drawn frames: 2394
+22:06:24.194: ==== Recording Stop ================================================
+22:06:24.203: libfdk_aac encoder destroyed
+22:06:25.572: ==== Shutting down ==================================================
+22:06:25.583: pulse-input: Stopped recording from 'alsa_output.pci-0000_00_1f.3.hdmi-stereo.monitor'
+22:06:25.583: pulse-input: Got 104436 packets with 125323200 frames
+22:06:25.583: pulse-input: Stopped recording from 'alsa_input.usb-MACROSILICON_2109-02.analog-stereo'
+22:06:25.583: pulse-input: Got 104407 packets with 125288400 frames
+22:06:25.587: v4l2-input: /dev/video6: Stopped capture after 3004 frames
+22:06:25.666: All scene data cleared
+22:06:25.666: ------------------------------------------------
+22:06:25.740: [obs-websocket] [obs_module_unload] Shutting down...
+22:06:25.740: Tried to call obs_frontend_remove_event_callback with no callbacks!
+22:06:25.740: [obs-websocket] [obs_module_unload] Finished shutting down.
+22:06:25.771: [Scripting] Total detached callbacks: 0
+22:06:25.771: Freeing OBS context data
+22:06:25.814: == Profiler Results =============================
+22:06:25.814: run_program_init: 3798.39 ms
+22:06:25.814:  ┣OBSApp::AppInit: 15.382 ms
+22:06:25.814:  ┃ ┗OBSApp::InitLocale: 1.017 ms
+22:06:25.814:  ┗OBSApp::OBSInit: 3494.37 ms
+22:06:25.814:    ┣obs_startup: 3.067 ms
+22:06:25.814:    ┗OBSBasic::OBSInit: 3341.03 ms
+22:06:25.814:      ┣OBSBasic::InitBasicConfig: 0.23 ms
+22:06:25.814:      ┣OBSBasic::ResetAudio: 0.399 ms
+22:06:25.814:      ┣OBSBasic::ResetVideo: 191.529 ms
+22:06:25.814:      ┃ ┗obs_init_graphics: 184.287 ms
+22:06:25.814:      ┃   ┗shader compilation: 145.322 ms
+22:06:25.814:      ┣OBSBasic::InitOBSCallbacks: 0.008 ms
+22:06:25.814:      ┣OBSBasic::InitHotkeys: 0.029 ms
+22:06:25.814:      ┣obs_load_all_modules2: 2822.75 ms
+22:06:25.814:      ┃ ┣obs_init_module(decklink-captions.so): 0 ms
+22:06:25.814:      ┃ ┣obs_init_module(decklink-output-ui.so): 0 ms
+22:06:25.814:      ┃ ┣obs_init_module(decklink.so): 0.254 ms
+22:06:25.814:      ┃ ┣obs_init_module(frontend-tools.so): 95.897 ms
+22:06:25.814:      ┃ ┣obs_init_module(image-source.so): 0.01 ms
+22:06:25.814:      ┃ ┣obs_init_module(linux-alsa.so): 0.004 ms
+22:06:25.814:      ┃ ┣obs_init_module(linux-capture.so): 0 ms
+22:06:25.814:      ┃ ┣obs_init_module(linux-jack.so): 0.014 ms
+22:06:25.814:      ┃ ┣obs_init_module(linux-pipewire.so): 14.938 ms
+22:06:25.814:      ┃ ┣obs_init_module(linux-pulseaudio.so): 0.01 ms
+22:06:25.814:      ┃ ┣obs_init_module(linux-v4l2.so): 10.684 ms
+22:06:25.814:      ┃ ┣obs_init_module(obs-browser.so): 0.088 ms
+22:06:25.814:      ┃ ┣obs_init_module(obs-ffmpeg.so): 286.244 ms
+22:06:25.814:      ┃ ┃ ┗nvenc_check: 1.165 ms
+22:06:25.814:      ┃ ┣obs_init_module(obs-filters.so): 0.05 ms
+22:06:25.814:      ┃ ┣obs_init_module(obs-libfdk.so): 0.002 ms
+22:06:25.814:      ┃ ┣obs_init_module(obs-outputs.so): 0.006 ms
+22:06:25.814:      ┃ ┣obs_init_module(obs-qsv11.so): 1.357 ms
+22:06:25.814:      ┃ ┣obs_init_module(obs-transitions.so): 0.011 ms
+22:06:25.814:      ┃ ┣obs_init_module(obs-vst.so): 0.006 ms
+22:06:25.814:      ┃ ┣obs_init_module(obs-webrtc.so): 0.011 ms
+22:06:25.814:      ┃ ┣obs_init_module(obs-websocket.so): 6.867 ms
+22:06:25.814:      ┃ ┣obs_init_module(obs-x264.so): 0.003 ms
+22:06:25.814:      ┃ ┣obs_init_module(rtmp-services.so): 0.182 ms
+22:06:25.815:      ┃ ┣obs_init_module(text-freetype2.so): 0.06 ms
+22:06:25.815:      ┃ ┗obs_init_module(vlc-video.so): 222.656 ms
+22:06:25.815:      ┣OBSBasic::InitService: 7.665 ms
+22:06:25.815:      ┣OBSBasic::ResetOutputs: 0.522 ms
+22:06:25.815:      ┣OBSBasic::CreateHotkeys: 0.052 ms
+22:06:25.815:      ┣OBSBasic::InitPrimitives: 0.221 ms
+22:06:25.815:      ┗OBSBasic::Load: 103.325 ms
+22:06:25.815: obs_hotkey_thread(25 ms): min=0 ms, median=0.001 ms, max=0.675 ms, 99th percentile=0.003 ms, 100% below 25 ms
+22:06:25.815: audio_thread(Audio): min=0.008 ms, median=0.064 ms, max=82.613 ms, 99th percentile=0.929 ms
+22:06:25.815:  ┗receive_audio: min=0.001 ms, median=0.333 ms, max=35.437 ms, 99th percentile=1.298 ms, 0.0731988 calls per parent call
+22:06:25.815:    ┣buffer_audio: min=0 ms, median=0.001 ms, max=0.065 ms, 99th percentile=0.005 ms
+22:06:25.815:    ┗do_encode: min=0.023 ms, median=0.33 ms, max=35.435 ms, 99th percentile=1.289 ms
+22:06:25.815:      ┣encode(test_aac): min=0.022 ms, median=0.114 ms, max=1.027 ms, 99th percentile=0.277 ms, 0.104945 calls per parent call
+22:06:25.815:      ┣send_packet: min=0.001 ms, median=0.008 ms, max=35.334 ms, 99th percentile=0.12 ms
+22:06:25.815:      ┣encode(Track1): min=0.092 ms, median=0.271 ms, max=1.547 ms, 99th percentile=0.66 ms, 0.27053 calls per parent call
+22:06:25.815:      ┣encode(simple_aac_recording0): min=0.09 ms, median=0.348 ms, max=3.158 ms, 99th percentile=1.073 ms, 0.210562 calls per parent call
+22:06:25.815:      ┗encode(simple_aac_recording0): min=0.088 ms, median=0.414 ms, max=1.918 ms, 99th percentile=1.393 ms, 0.413963 calls per parent call
+22:06:25.815: obs_graphics_thread(33.3333 ms): min=0.037 ms, median=0.545 ms, max=64.01 ms, 99th percentile=2.786 ms, 99.7519% below 33.333 ms
+22:06:25.815:  ┣tick_sources: min=0 ms, median=0.012 ms, max=0.035 ms, 99th percentile=0.018 ms
+22:06:25.815:  ┣output_frame: min=0.018 ms, median=0.168 ms, max=9.41 ms, 99th percentile=0.274 ms
+22:06:25.815:  ┃ ┗gs_context(video->graphics): min=0.018 ms, median=0.167 ms, max=9.407 ms, 99th percentile=0.274 ms
+22:06:25.815:  ┃   ┣render_video: min=0.011 ms, median=0.042 ms, max=9.299 ms, 99th percentile=0.075 ms
+22:06:25.815:  ┃   ┃ ┗render_main_texture: min=0.009 ms, median=0.036 ms, max=9.289 ms, 99th percentile=0.065 ms
+22:06:25.815:  ┃   ┗gs_flush: min=0.002 ms, median=0.108 ms, max=5.114 ms, 99th percentile=0.191 ms
+22:06:25.815:  ┗render_displays: min=0.003 ms, median=0.317 ms, max=63.855 ms, 99th percentile=0.658 ms
+22:06:25.815: obs_graphics_thread(16.6667 ms): min=0.319 ms, median=0.81 ms, max=25.733 ms, 99th percentile=4.339 ms, 99.6805% below 16.667 ms
+22:06:25.815:  ┣tick_sources: min=0.005 ms, median=0.008 ms, max=0.115 ms, 99th percentile=0.031 ms
+22:06:25.815:  ┣output_frame: min=0.134 ms, median=0.519 ms, max=25.492 ms, 99th percentile=4.025 ms
+22:06:25.815:  ┃ ┣gs_context(video->graphics): min=0.133 ms, median=0.275 ms, max=25.489 ms, 99th percentile=1.216 ms
+22:06:25.815:  ┃ ┃ ┣render_video: min=0.053 ms, median=0.125 ms, max=25.187 ms, 99th percentile=0.289 ms
+22:06:25.815:  ┃ ┃ ┃ ┣render_main_texture: min=0.035 ms, median=0.063 ms, max=0.555 ms, 99th percentile=0.185 ms
+22:06:25.815:  ┃ ┃ ┃ ┣render_convert_texture: min=0.027 ms, median=0.039 ms, max=23.678 ms, 99th percentile=0.127 ms
+22:06:25.815:  ┃ ┃ ┃ ┗stage_output_texture: min=0.012 ms, median=0.017 ms, max=1.438 ms, 99th percentile=0.058 ms
+22:06:25.815:  ┃ ┃ ┣gs_flush: min=0.041 ms, median=0.066 ms, max=1.137 ms, 99th percentile=0.266 ms
+22:06:25.815:  ┃ ┃ ┗download_frame: min=0 ms, median=0.07 ms, max=5.856 ms, 99th percentile=0.372 ms
+22:06:25.815:  ┃ ┗output_video_data: min=0 ms, median=0.319 ms, max=3.778 ms, 99th percentile=3.333 ms
+22:06:25.815:  ┗render_displays: min=0.097 ms, median=0.191 ms, max=2.863 ms, 99th percentile=2.071 ms
+22:06:25.815: video_thread(video): min=0 ms, median=16.891 ms, max=379.192 ms, 99th percentile=274.712 ms
+22:06:25.815:  ┗receive_video: min=1.348 ms, median=9.782 ms, max=274.71 ms, 99th percentile=80.363 ms, 1.87742 calls per parent call
+22:06:25.815:    ┗do_encode: min=1.348 ms, median=9.781 ms, max=274.708 ms, 99th percentile=80.362 ms
+22:06:25.815:      ┣encode(test_x264): min=1.343 ms, median=9.735 ms, max=274.706 ms, 99th percentile=80.29 ms
+22:06:25.815:      ┗send_packet: min=0.001 ms, median=0.036 ms, max=1.238 ms, 99th percentile=0.754 ms, 0.900344 calls per parent call
+22:06:25.815: obs_graphics_thread(16.6667 ms): min=0.291 ms, median=0.604 ms, max=16.634 ms, 99th percentile=2.463 ms, 100% below 16.667 ms
+22:06:25.815:  ┣tick_sources: min=0.005 ms, median=0.006 ms, max=0.024 ms, 99th percentile=0.013 ms
+22:06:25.815:  ┣output_frame: min=0.114 ms, median=0.402 ms, max=16.498 ms, 99th percentile=2.001 ms
+22:06:25.815:  ┃ ┣gs_context(video->graphics): min=0.114 ms, median=0.26 ms, max=16.496 ms, 99th percentile=0.731 ms
+22:06:25.815:  ┃ ┃ ┣render_video: min=0.048 ms, median=0.131 ms, max=16.331 ms, 99th percentile=0.367 ms
+22:06:25.815:  ┃ ┃ ┃ ┣render_main_texture: min=0.017 ms, median=0.05 ms, max=0.216 ms, 99th percentile=0.121 ms
+22:06:25.815:  ┃ ┃ ┃ ┣render_output_texture: min=0.012 ms, median=0.027 ms, max=16.228 ms, 99th percentile=0.169 ms
+22:06:25.815:  ┃ ┃ ┃ ┣render_convert_texture: min=0.013 ms, median=0.021 ms, max=0.132 ms, 99th percentile=0.115 ms
+22:06:25.815:  ┃ ┃ ┃ ┗stage_output_texture: min=0.006 ms, median=0.013 ms, max=0.101 ms, 99th percentile=0.091 ms
+22:06:25.815:  ┃ ┃ ┣gs_flush: min=0.042 ms, median=0.055 ms, max=0.216 ms, 99th percentile=0.159 ms
+22:06:25.815:  ┃ ┃ ┗download_frame: min=0 ms, median=0.063 ms, max=5.91 ms, 99th percentile=0.181 ms
+22:06:25.815:  ┃ ┗output_video_data: min=0.118 ms, median=0.138 ms, max=2.025 ms, 99th percentile=1.114 ms
+22:06:25.815:  ┗render_displays: min=0.112 ms, median=0.16 ms, max=1.716 ms, 99th percentile=1.424 ms
+22:06:25.815: video_thread(video): min=0.696 ms, median=0.892 ms, max=40.845 ms, 99th percentile=18.975 ms
+22:06:25.815:  ┗receive_video: min=0.695 ms, median=0.891 ms, max=40.843 ms, 99th percentile=18.972 ms
+22:06:25.815:    ┗do_encode: min=0.695 ms, median=0.89 ms, max=40.841 ms, 99th percentile=18.97 ms
+22:06:25.815:      ┣encode(test_x264): min=0.667 ms, median=0.848 ms, max=40.839 ms, 99th percentile=18.967 ms
+22:06:25.815:      ┗send_packet: min=0.019 ms, median=0.028 ms, max=0.287 ms, 99th percentile=0.184 ms, 0.916388 calls per parent call
+22:06:25.815: obs_graphics_thread(16.6667 ms): min=0.376 ms, median=0.432 ms, max=9.89 ms, 99th percentile=1.128 ms, 100% below 16.667 ms
+22:06:25.815:  ┣tick_sources: min=0.005 ms, median=0.006 ms, max=0.02 ms, 99th percentile=0.012 ms
+22:06:25.815:  ┣output_frame: min=0.241 ms, median=0.289 ms, max=9.63 ms, 99th percentile=0.718 ms
+22:06:25.815:  ┃ ┣gs_context(video->graphics): min=0.184 ms, median=0.232 ms, max=9.63 ms, 99th percentile=0.567 ms
+22:06:25.815:  ┃ ┃ ┣render_video: min=0.093 ms, median=0.108 ms, max=9.437 ms, 99th percentile=0.3 ms
+22:06:25.815:  ┃ ┃ ┃ ┣render_main_texture: min=0.041 ms, median=0.05 ms, max=0.231 ms, 99th percentile=0.106 ms
+22:06:25.815:  ┃ ┃ ┃ ┣render_output_texture: min=0.017 ms, median=0.021 ms, max=9.335 ms, 99th percentile=0.142 ms
+22:06:25.815:  ┃ ┃ ┃ ┣render_convert_texture: min=0.018 ms, median=0.02 ms, max=0.074 ms, 99th percentile=0.052 ms
+22:06:25.815:  ┃ ┃ ┃ ┗stage_output_texture: min=0.011 ms, median=0.013 ms, max=0.052 ms, 99th percentile=0.032 ms
+22:06:25.815:  ┃ ┃ ┣gs_flush: min=0.038 ms, median=0.055 ms, max=0.192 ms, 99th percentile=0.13 ms
+22:06:25.815:  ┃ ┃ ┗download_frame: min=0 ms, median=0.052 ms, max=0.161 ms, 99th percentile=0.145 ms
+22:06:25.815:  ┃ ┗output_video_data: min=0.047 ms, median=0.059 ms, max=0.228 ms, 99th percentile=0.161 ms
+22:06:25.815:  ┗render_displays: min=0.099 ms, median=0.115 ms, max=1.543 ms, 99th percentile=0.314 ms
+22:06:25.815: video_thread(video): min=0.24 ms, median=0.34 ms, max=3.095 ms, 99th percentile=2.747 ms
+22:06:25.815:  ┗receive_video: min=0.239 ms, median=0.339 ms, max=3.092 ms, 99th percentile=2.745 ms
+22:06:25.815:    ┗do_encode: min=0.238 ms, median=0.338 ms, max=3.09 ms, 99th percentile=2.743 ms
+22:06:25.815:      ┣encode(test_x264): min=0.229 ms, median=0.327 ms, max=3.088 ms, 99th percentile=2.741 ms
+22:06:25.815:      ┗send_packet: min=0.005 ms, median=0.008 ms, max=0.046 ms, 99th percentile=0.032 ms, 0.916388 calls per parent call
+22:06:25.815: obs_graphics_thread(16.6667 ms): min=0.387 ms, median=0.543 ms, max=1.237 ms, 99th percentile=1.046 ms, 100% below 16.667 ms
+22:06:25.815:  ┣tick_sources: min=0.005 ms, median=0.008 ms, max=0.022 ms, 99th percentile=0.015 ms
+22:06:25.815:  ┣output_frame: min=0.224 ms, median=0.355 ms, max=0.855 ms, 99th percentile=0.659 ms
+22:06:25.815:  ┃ ┣gs_context(video->graphics): min=0.216 ms, median=0.311 ms, max=0.777 ms, 99th percentile=0.58 ms
+22:06:25.815:  ┃ ┃ ┣render_video: min=0.08 ms, median=0.151 ms, max=0.482 ms, 99th percentile=0.289 ms
+22:06:25.815:  ┃ ┃ ┃ ┣render_main_texture: min=0.044 ms, median=0.062 ms, max=0.318 ms, 99th percentile=0.109 ms
+22:06:25.815:  ┃ ┃ ┃ ┣render_output_texture: min=0.021 ms, median=0.029 ms, max=0.175 ms, 99th percentile=0.121 ms
+22:06:25.815:  ┃ ┃ ┃ ┣render_convert_texture: min=0.019 ms, median=0.027 ms, max=0.054 ms, 99th percentile=0.054 ms
+22:06:25.815:  ┃ ┃ ┃ ┗stage_output_texture: min=0.012 ms, median=0.018 ms, max=0.038 ms, 99th percentile=0.034 ms
+22:06:25.815:  ┃ ┃ ┣gs_flush: min=0.046 ms, median=0.071 ms, max=0.256 ms, 99th percentile=0.13 ms
+22:06:25.815:  ┃ ┃ ┗download_frame: min=0 ms, median=0.074 ms, max=0.162 ms, 99th percentile=0.148 ms
+22:06:25.816:  ┃ ┗output_video_data: min=0.029 ms, median=0.041 ms, max=0.101 ms, 99th percentile=0.083 ms
+22:06:25.816:  ┗render_displays: min=0.106 ms, median=0.151 ms, max=0.354 ms, 99th percentile=0.318 ms
+22:06:25.816: video_thread(video): min=0.161 ms, median=0.218 ms, max=1.475 ms, 99th percentile=1.043 ms
+22:06:25.816:  ┗receive_video: min=0.16 ms, median=0.217 ms, max=1.472 ms, 99th percentile=1.041 ms
+22:06:25.816:    ┗do_encode: min=0.159 ms, median=0.216 ms, max=1.47 ms, 99th percentile=1.039 ms
+22:06:25.816:      ┣encode(test_x264): min=0.146 ms, median=0.207 ms, max=1.468 ms, 99th percentile=1.038 ms
+22:06:25.816:      ┗send_packet: min=0.003 ms, median=0.006 ms, max=0.075 ms, 99th percentile=0.038 ms, 0.919732 calls per parent call
+22:06:25.816: obs_graphics_thread(33.3333 ms): min=0.364 ms, median=0.587 ms, max=2.15 ms, 99th percentile=1.497 ms, 100% below 33.333 ms
+22:06:25.816:  ┣tick_sources: min=0.007 ms, median=0.012 ms, max=0.032 ms, 99th percentile=0.017 ms
+22:06:25.816:  ┣output_frame: min=0.093 ms, median=0.189 ms, max=0.559 ms, 99th percentile=0.331 ms
+22:06:25.816:  ┃ ┗gs_context(video->graphics): min=0.093 ms, median=0.188 ms, max=0.559 ms, 99th percentile=0.33 ms
+22:06:25.816:  ┃   ┣render_video: min=0.026 ms, median=0.043 ms, max=0.064 ms, 99th percentile=0.057 ms
+22:06:25.816:  ┃   ┃ ┗render_main_texture: min=0.023 ms, median=0.037 ms, max=0.057 ms, 99th percentile=0.049 ms
+22:06:25.816:  ┃   ┗gs_flush: min=0.058 ms, median=0.13 ms, max=0.494 ms, 99th percentile=0.26 ms
+22:06:25.816:  ┗render_displays: min=0.239 ms, median=0.326 ms, max=1.875 ms, 99th percentile=0.576 ms
+22:06:25.816: OBSBasic::ResetVideo: min=10.917 ms, median=18.418 ms, max=40.306 ms, 99th percentile=40.306 ms
+22:06:25.816: obs_graphics_thread(16.6667 ms): min=0.2 ms, median=0.511 ms, max=60.546 ms, 99th percentile=0.822 ms, 99.8148% below 16.667 ms
+22:06:25.816:  ┣tick_sources: min=0.004 ms, median=0.011 ms, max=0.027 ms, 99th percentile=0.017 ms
+22:06:25.816:  ┣output_frame: min=0.065 ms, median=0.16 ms, max=0.455 ms, 99th percentile=0.289 ms
+22:06:25.816:  ┃ ┗gs_context(video->graphics): min=0.065 ms, median=0.16 ms, max=0.454 ms, 99th percentile=0.288 ms
+22:06:25.816:  ┃   ┣render_video: min=0.018 ms, median=0.04 ms, max=0.06 ms, 99th percentile=0.057 ms
+22:06:25.816:  ┃   ┃ ┗render_main_texture: min=0.016 ms, median=0.034 ms, max=0.054 ms, 99th percentile=0.049 ms
+22:06:25.816:  ┃   ┗gs_flush: min=0.041 ms, median=0.104 ms, max=0.393 ms, 99th percentile=0.228 ms
+22:06:25.816:  ┗render_displays: min=0.109 ms, median=0.295 ms, max=60.336 ms, 99th percentile=0.557 ms
+22:06:25.816: OBSBasic::ResetOutputs: min=0.197 ms, median=0.267 ms, max=0.327 ms, 99th percentile=0.327 ms
+22:06:25.816: OBSBasicSettings::LoadThemeList: min=0.032 ms, median=0.043 ms, max=0.067 ms, 99th percentile=0.067 ms
+22:06:25.816: obs_graphics_thread(16.6667 ms): min=0.199 ms, median=0.929 ms, max=606.68 ms, 99th percentile=3.449 ms, 99.8744% below 16.667 ms
+22:06:25.816:  ┣tick_sources: min=0.005 ms, median=0.015 ms, max=605.057 ms, 99th percentile=0.042 ms
+22:06:25.816:  ┣output_frame: min=0.045 ms, median=0.319 ms, max=39.741 ms, 99th percentile=1.635 ms
+22:06:25.816:  ┃ ┗gs_context(video->graphics): min=0.045 ms, median=0.318 ms, max=39.736 ms, 99th percentile=1.634 ms
+22:06:25.816:  ┃   ┣render_video: min=0.017 ms, median=0.132 ms, max=39.446 ms, 99th percentile=1.424 ms
+22:06:25.816:  ┃   ┃ ┗render_main_texture: min=0.015 ms, median=0.126 ms, max=39.44 ms, 99th percentile=1.417 ms
+22:06:25.816:  ┃   ┗gs_flush: min=0.023 ms, median=0.155 ms, max=2.38 ms, 99th percentile=0.303 ms
+22:06:25.816:  ┗render_displays: min=0.085 ms, median=0.51 ms, max=133.016 ms, 99th percentile=2.312 ms
+22:06:25.816: obs_graphics_thread(16.6667 ms): min=0.222 ms, median=1.136 ms, max=202.939 ms, 99th percentile=3.206 ms, 99.4593% below 16.667 ms
+22:06:25.816:  ┣tick_sources: min=0.005 ms, median=0.014 ms, max=201.767 ms, 99th percentile=0.03 ms
+22:06:25.816:  ┣output_frame: min=0.058 ms, median=0.698 ms, max=84.01 ms, 99th percentile=1.463 ms
+22:06:25.816:  ┃ ┣gs_context(video->graphics): min=0.058 ms, median=0.69 ms, max=84.004 ms, 99th percentile=1.442 ms
+22:06:25.816:  ┃ ┃ ┣render_video: min=0.024 ms, median=0.539 ms, max=83.866 ms, 99th percentile=1.2 ms
+22:06:25.816:  ┃ ┃ ┃ ┣render_main_texture: min=0.023 ms, median=0.533 ms, max=83.855 ms, 99th percentile=1.193 ms
+22:06:25.816:  ┃ ┃ ┃ ┣render_convert_texture: min=0.017 ms, median=0.019 ms, max=0.089 ms, 99th percentile=0.047 ms, 0.107483 calls per parent call
+22:06:25.816:  ┃ ┃ ┃ ┗stage_output_texture: min=0.008 ms, median=0.01 ms, max=0.04 ms, 99th percentile=0.023 ms, 0.107483 calls per parent call
+22:06:25.816:  ┃ ┃ ┣gs_flush: min=0.029 ms, median=0.136 ms, max=0.601 ms, 99th percentile=0.262 ms
+22:06:25.816:  ┃ ┃ ┗download_frame: min=0 ms, median=0.039 ms, max=0.45 ms, 99th percentile=0.096 ms, 0.107483 calls per parent call
+22:06:25.816:  ┃ ┗output_video_data: min=0.104 ms, median=0.158 ms, max=1.003 ms, 99th percentile=0.283 ms, 0.107449 calls per parent call
+22:06:25.816:  ┗render_displays: min=0.089 ms, median=0.376 ms, max=116.595 ms, 99th percentile=1.057 ms
+22:06:25.816: video_thread(video): min=0.018 ms, median=0.76 ms, max=40.001 ms, 99th percentile=1.608 ms
+22:06:25.816:  ┗receive_video: min=0.475 ms, median=0.758 ms, max=39.999 ms, 99th percentile=1.606 ms
+22:06:25.816:    ┗do_encode: min=0.474 ms, median=0.757 ms, max=39.998 ms, 99th percentile=1.605 ms
+22:06:25.816:      ┣encode(advanced_video_recording): min=0.456 ms, median=0.734 ms, max=19.14 ms, 99th percentile=1.553 ms
+22:06:25.816:      ┗send_packet: min=0.002 ms, median=0.021 ms, max=39.399 ms, 99th percentile=0.053 ms
+22:06:25.816: obs_graphics_thread(16.6667 ms): min=0.244 ms, median=1.598 ms, max=252.184 ms, 99th percentile=22.413 ms, 98.4312% below 16.667 ms
+22:06:25.816:  ┣tick_sources: min=0.005 ms, median=0.014 ms, max=249.546 ms, 99th percentile=0.058 ms
+22:06:25.816:  ┣output_frame: min=0.059 ms, median=0.848 ms, max=80.238 ms, 99th percentile=4.335 ms
+22:06:25.816:  ┃ ┣gs_context(video->graphics): min=0.059 ms, median=0.668 ms, max=80.235 ms, 99th percentile=3.825 ms
+22:06:25.816:  ┃ ┃ ┣render_video: min=0.02 ms, median=0.514 ms, max=80.077 ms, 99th percentile=3.575 ms
+22:06:25.816:  ┃ ┃ ┃ ┣render_main_texture: min=0.018 ms, median=0.489 ms, max=80.074 ms, 99th percentile=3.561 ms
+22:06:25.816:  ┃ ┃ ┃ ┣render_convert_texture: min=0.017 ms, median=0.024 ms, max=0.338 ms, 99th percentile=0.101 ms, 0.214992 calls per parent call
+22:06:25.816:  ┃ ┃ ┃ ┗stage_output_texture: min=0.008 ms, median=0.014 ms, max=0.168 ms, 99th percentile=0.057 ms, 0.214992 calls per parent call
+22:06:25.816:  ┃ ┃ ┣gs_flush: min=0.033 ms, median=0.134 ms, max=0.785 ms, 99th percentile=0.37 ms
+22:06:25.816:  ┃ ┃ ┗download_frame: min=0 ms, median=0.053 ms, max=13.962 ms, 99th percentile=1.106 ms, 0.214992 calls per parent call
+22:06:25.816:  ┃ ┗output_video_data: min=0.24 ms, median=0.505 ms, max=2.916 ms, 99th percentile=1.85 ms, 0.214903 calls per parent call
+22:06:25.816:  ┗render_displays: min=0.097 ms, median=0.664 ms, max=129.298 ms, 99th percentile=16.108 ms
+22:06:25.816: video_thread(video): min=1.108 ms, median=2.196 ms, max=31.614 ms, 99th percentile=6.598 ms
+22:06:25.816:  ┗receive_video: min=1.108 ms, median=2.186 ms, max=31.612 ms, 99th percentile=6.483 ms
+22:06:25.816:    ┗do_encode: min=1.107 ms, median=2.182 ms, max=31.611 ms, 99th percentile=6.48 ms
+22:06:25.816:      ┣encode(simple_video_recording): min=1.078 ms, median=2.159 ms, max=31.598 ms, 99th percentile=6.206 ms
+22:06:25.816:      ┗send_packet: min=0.002 ms, median=0.011 ms, max=8.248 ms, 99th percentile=0.299 ms
+22:06:25.816: obs_graphics_thread(16.6667 ms): min=0.049 ms, median=1.222 ms, max=102.006 ms, 99th percentile=6.338 ms, 99.4763% below 16.667 ms
+22:06:25.816:  ┣tick_sources: min=0.003 ms, median=0.014 ms, max=31.06 ms, 99th percentile=0.043 ms
+22:06:25.816:  ┣output_frame: min=0.023 ms, median=0.652 ms, max=100.595 ms, 99th percentile=1.649 ms
+22:06:25.816:  ┃ ┣gs_context(video->graphics): min=0.023 ms, median=0.457 ms, max=99.957 ms, 99th percentile=1.419 ms
+22:06:25.816:  ┃ ┃ ┣render_video: min=0.016 ms, median=0.313 ms, max=5.956 ms, 99th percentile=1.17 ms
+22:06:25.816:  ┃ ┃ ┃ ┣render_main_texture: min=0.012 ms, median=0.28 ms, max=5.95 ms, 99th percentile=1.143 ms
+22:06:25.816:  ┃ ┃ ┃ ┣render_convert_texture: min=0.017 ms, median=0.029 ms, max=0.243 ms, 99th percentile=0.086 ms, 0.570454 calls per parent call
+22:06:25.816:  ┃ ┃ ┃ ┗stage_output_texture: min=0.008 ms, median=0.014 ms, max=0.11 ms, 99th percentile=0.045 ms, 0.570454 calls per parent call
+22:06:25.816:  ┃ ┃ ┣gs_flush: min=0.003 ms, median=0.111 ms, max=0.674 ms, 99th percentile=0.27 ms
+22:06:25.816:  ┃ ┃ ┗download_frame: min=0 ms, median=0.059 ms, max=99.36 ms, 99th percentile=0.311 ms, 0.570454 calls per parent call
+22:06:25.816:  ┃ ┗output_video_data: min=0.102 ms, median=0.18 ms, max=1.354 ms, 99th percentile=0.672 ms, 0.570211 calls per parent call
+22:06:25.817:  ┗render_displays: min=0.003 ms, median=0.431 ms, max=83.457 ms, 99th percentile=3.277 ms
+22:06:25.817: video_thread(video): min=0.434 ms, median=0.823 ms, max=18.448 ms, 99th percentile=2.084 ms
+22:06:25.817:  ┗receive_video: min=0.433 ms, median=0.828 ms, max=12.178 ms, 99th percentile=2.193 ms
+22:06:25.817:    ┗do_encode: min=0.432 ms, median=0.827 ms, max=12.177 ms, 99th percentile=2.191 ms
+22:06:25.817:      ┣encode(simple_video_recording): min=0.424 ms, median=0.81 ms, max=9.303 ms, 99th percentile=2.154 ms
+22:06:25.817:      ┗send_packet: min=0.002 ms, median=0.011 ms, max=11.627 ms, 99th percentile=0.054 ms
+22:06:25.817: =================================================
+22:06:25.817: == Profiler Time Between Calls ==================
+22:06:25.817: obs_hotkey_thread(25 ms): min=25.015 ms, median=25.118 ms, max=54.804 ms, 99.8405% within ±2% of 25 ms (0% lower, 0.159494% higher)
+22:06:25.817: obs_graphics_thread(33.3333 ms): min=2.793 ms, median=33.335 ms, max=64.017 ms, 99.5025% within ±2% of 33.333 ms (0.248756% lower, 0.248756% higher)
+22:06:25.817: obs_graphics_thread(16.6667 ms): min=7.811 ms, median=16.667 ms, max=25.739 ms, 69.2308% within ±2% of 16.667 ms (15.0641% lower, 15.7051% higher)
+22:06:25.817: obs_graphics_thread(16.6667 ms): min=16.068 ms, median=16.666 ms, max=17.264 ms, 99.3399% within ±2% of 16.667 ms (0.330033% lower, 0.330033% higher)
+22:06:25.817: obs_graphics_thread(16.6667 ms): min=16.486 ms, median=16.664 ms, max=16.877 ms, 100% within ±2% of 16.667 ms (0% lower, 0% higher)
+22:06:25.817: obs_graphics_thread(16.6667 ms): min=16.473 ms, median=16.646 ms, max=16.867 ms, 100% within ±2% of 16.667 ms (0% lower, 0% higher)
+22:06:25.817: obs_graphics_thread(33.3333 ms): min=33.166 ms, median=33.338 ms, max=33.508 ms, 100% within ±2% of 33.333 ms (0% lower, 0% higher)
+22:06:25.817: obs_graphics_thread(16.6667 ms): min=6.165 ms, median=16.664 ms, max=60.554 ms, 99.6289% within ±2% of 16.667 ms (0.185529% lower, 0.185529% higher)
+22:06:25.817: obs_graphics_thread(16.6667 ms): min=0.551 ms, median=16.666 ms, max=606.778 ms, 99.6414% within ±2% of 16.667 ms (0.172184% lower, 0.186454% higher)
+22:06:25.817: obs_graphics_thread(16.6667 ms): min=3.655 ms, median=16.667 ms, max=202.973 ms, 99.3102% within ±2% of 16.667 ms (0.135182% lower, 0.554593% higher)
+22:06:25.817: obs_graphics_thread(16.6667 ms): min=3.151 ms, median=16.667 ms, max=252.199 ms, 97.4862% within ±2% of 16.667 ms (0.88251% lower, 1.63131% higher)
+22:06:25.817: obs_graphics_thread(16.6667 ms): min=3.13 ms, median=16.667 ms, max=102.027 ms, 99.1717% within ±2% of 16.667 ms (0.292326% lower, 0.535932% higher)
+22:06:25.817: =================================================
+22:06:25.910: Number of memory leaks: 0

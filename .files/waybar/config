@@ -1,0 +1,29 @@
+{
+  "layer": "top",
+  "position": "top",
+  "modules-left": ["hyprland/workspaces"],
+  "modules-center": [],
+  "modules-right": ["custom/time", "pulseaudio"],
+
+  "hyprland/workspaces": {
+    "format": "{name}",
+    "on-click": "activate"
+  },
+
+  "custom/time": {
+    "exec": "sh -c 'date +\"%Y-%m-%d | %I:%M:%S %p\"'",
+    "interval": 1,
+    "return-type": "text"
+  },
+
+  "pulseaudio": {
+    "format": "{icon} {volume}%",
+    "format-muted": " muted",
+    "on-click": "pavucontrol",
+    "scroll-step": 5,
+    "format-icons": {
+      "default": ["", "", ""]
+    }
+  }
+}
+

@@ -1,0 +1,58 @@
+2025-04-16 00:52:07.948 [info] [AutoSync] Using settings sync service https://vscode-sync.trafficmanager.net/
+2025-04-16 00:52:07.948 [info] [AutoSync] Enabled.
+2025-04-16 00:52:07.948 [info] [AutoSync] Suspended until auth token is available.
+2025-04-16 00:52:14.016 [info] [AutoSync] Triggered by Interval
+2025-04-16 00:52:14.016 [info] Sync started.
+2025-04-16 00:52:14.262 [info] Settings: Updated local settings
+2025-04-16 00:52:14.271 [info] Settings: Updated last synchronized settings
+2025-04-16 00:52:14.277 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-04-16 00:52:14.280 [info] Snippets: No changes found during synchronizing snippets.
+2025-04-16 00:52:14.283 [info] Tasks: No changes found during synchronizing tasks.
+2025-04-16 00:52:14.340 [info] GlobalState: Updated global state ["encryption.migratedToGnomeLibsecret","extensions.trustedPublishers","colorThemeData"]
+2025-04-16 00:52:14.341 [info] GlobalState: Updated local ui state
+2025-04-16 00:52:14.349 [info] GlobalState: Updated last synchronized ui state
+2025-04-16 00:52:14.950 [info] Extensions: Installed extension. dracula-theme.theme-dracula 2.25.1
+2025-04-16 00:52:14.960 [info] Extensions: Updated last synchronized extensions.
+2025-04-16 00:52:14.962 [info] Profiles: No changes found during synchronizing profiles.
+2025-04-16 00:52:14.965 [info] Sync done. Took 950ms
+2025-04-16 00:52:27.604 [info] [AutoSync] Triggered by Activity
+2025-04-16 00:52:27.604 [info] Sync started.
+2025-04-16 00:52:27.634 [info] Settings: No changes found during synchronizing settings.
+2025-04-16 00:52:27.636 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-04-16 00:52:27.638 [info] Snippets: No changes found during synchronizing snippets.
+2025-04-16 00:52:27.640 [info] Tasks: No changes found during synchronizing tasks.
+2025-04-16 00:52:27.642 [info] GlobalState: No changes found during synchronizing ui state.
+2025-04-16 00:52:27.666 [info] Extensions: No changes found during synchronizing extensions.
+2025-04-16 00:52:27.668 [info] Profiles: No changes found during synchronizing profiles.
+2025-04-16 00:52:27.670 [info] Sync done. Took 66ms
+2025-04-16 00:52:46.086 [info] [AutoSync] Triggered by Activity
+2025-04-16 00:52:46.086 [info] Sync started.
+2025-04-16 00:52:46.131 [info] Settings: No changes found during synchronizing settings.
+2025-04-16 00:52:46.134 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-04-16 00:52:46.137 [info] Snippets: No changes found during synchronizing snippets.
+2025-04-16 00:52:46.140 [info] Tasks: No changes found during synchronizing tasks.
+2025-04-16 00:52:46.142 [info] GlobalState: No changes found during synchronizing ui state.
+2025-04-16 00:52:46.175 [info] Extensions: No changes found during synchronizing extensions.
+2025-04-16 00:52:46.176 [info] Profiles: No changes found during synchronizing profiles.
+2025-04-16 00:52:46.178 [info] Sync done. Took 94ms
+2025-04-16 00:57:46.210 [info] [AutoSync] Triggered by Interval
+2025-04-16 00:57:46.210 [info] Sync started.
+2025-04-16 00:57:46.305 [info] Settings: No changes found during synchronizing settings.
+2025-04-16 00:57:46.307 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-04-16 00:57:46.309 [info] Snippets: No changes found during synchronizing snippets.
+2025-04-16 00:57:46.311 [info] Tasks: No changes found during synchronizing tasks.
+2025-04-16 00:57:46.314 [info] GlobalState: No changes found during synchronizing ui state.
+2025-04-16 00:57:46.342 [info] Extensions: No changes found during synchronizing extensions.
+2025-04-16 00:57:46.344 [info] Profiles: No changes found during synchronizing profiles.
+2025-04-16 00:57:46.345 [info] Sync done. Took 136ms
+2025-04-16 01:02:46.384 [info] [AutoSync] Triggered by Interval
+2025-04-16 01:02:46.384 [info] Sync started.
+2025-04-16 01:02:46.467 [info] Settings: No changes found during synchronizing settings.
+2025-04-16 01:02:46.469 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-04-16 01:02:46.471 [info] Snippets: No changes found during synchronizing snippets.
+2025-04-16 01:02:46.472 [info] Tasks: No changes found during synchronizing tasks.
+2025-04-16 01:02:46.475 [info] GlobalState: No changes found during synchronizing ui state.
+2025-04-16 01:02:46.713 [info] Extensions: Uninstalled local extension. vscodevim.vim
+2025-04-16 01:02:46.745 [info] Extensions: Updated last synchronized extensions.
+2025-04-16 01:02:46.747 [info] Profiles: No changes found during synchronizing profiles.
+2025-04-16 01:02:46.749 [info] Sync done. Took 365ms

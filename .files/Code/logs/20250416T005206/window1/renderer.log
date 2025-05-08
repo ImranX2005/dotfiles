@@ -1,0 +1,5 @@
+2025-04-16 00:52:07.337 [info] Started local extension host with pid 117648.
+2025-04-16 00:52:13.891 [info] [perf] Render performance baseline is 35ms
+2025-04-16 00:52:14.013 [info] Settings Sync: Token updated for the account imran.sx55@gmail.com
+2025-04-16 00:52:14.015 [info] Settings Sync: Account status changed from uninitialized to available
+2025-04-16 00:52:26.621 [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: Unable to write file '/etc/nixos/configuration.nix' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/etc/nixos/configuration.nix') file:///etc/nixos/configuration.nix

@@ -1,0 +1,7 @@
+2025-04-16 00:52:06.462 [info] update#setState idle
+2025-04-16 00:52:36.403 [info] update#setState checking for updates
+2025-04-16 00:52:36.407 [info] update#setState available for download
+2025-04-16 00:52:46.731 [info] Extension host with pid 117648 exited with code: 0, signal: unknown.
+2025-04-16 01:05:43.057 [info] Extension host with pid 118098 exited with code: 0, signal: unknown.
+2025-04-16 01:05:43.109 [error] Blocked vscode-file request vscode-file://vscode-app/nix/store/z904hd6vfcbrnj5m9d9alwrspghffwg5-vscode-1.98.2/lib/vscode/resources/app/out/vs/editor/common/services/editorSimpleWorkerMain.js#TextEditorWorker
+2025-04-16 01:05:43.115 [error] [UtilityProcess id: 2, type: fileWatcher, pid: 118096]: crashed with code 15 and reason 'killed'

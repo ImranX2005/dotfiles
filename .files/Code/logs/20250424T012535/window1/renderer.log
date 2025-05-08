@@ -1,0 +1,5 @@
+2025-04-24 01:25:36.261 [info] Started local extension host with pid 5748.
+2025-04-24 01:25:36.349 [info] Started initializing default profile extensions in extensions installation folder. file:///home/imran/.vscode/extensions
+2025-04-24 01:25:36.602 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/imran/.vscode/extensions
+2025-04-24 01:25:39.089 [info] [perf] Render performance baseline is 25ms
+2025-04-24 01:25:44.443 [info] Settings Sync: Account status changed from uninitialized to unavailable

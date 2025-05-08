@@ -1,0 +1,4 @@
+2025-04-29 12:13:30.764 [info] update#setState idle
+2025-04-29 12:13:31.871 [error] vscode-file: Refused to load resource /nix/store/z904hd6vfcbrnj5m9d9alwrspghffwg5-vscode-1.98.2/lib/vscode/resources/app/extensions/theme-seti/icons/seti.woff from vscode-file: protocol (original URL: vscode-file://vscode-app/nix/store/z904hd6vfcbrnj5m9d9alwrspghffwg5-vscode-1.98.2/lib/vscode/resources/app/extensions/theme-seti/icons/seti.woff)
+2025-04-29 12:13:58.900 [info] Extension host with pid 31985 exited with code: 0, signal: unknown.
+2025-04-29 12:13:58.909 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 31984]: crashed with code 15 and reason 'killed'

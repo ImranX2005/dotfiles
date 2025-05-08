@@ -1,0 +1,28 @@
+2025-04-15 17:46:38.693 [info] [AutoSync] Using settings sync service https://vscode-sync.trafficmanager.net/
+2025-04-15 17:46:38.693 [info] [AutoSync] Enabled.
+2025-04-15 17:46:38.693 [info] [AutoSync] Suspended until auth token is available.
+2025-04-15 17:46:41.499 [info] [AutoSync] Triggered by Interval
+2025-04-15 17:46:41.499 [info] Sync started.
+2025-04-15 17:46:41.731 [info] Settings: No changes found during synchronizing settings.
+2025-04-15 17:46:41.771 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-04-15 17:46:41.804 [info] Snippets: No changes found during synchronizing snippets.
+2025-04-15 17:46:41.809 [info] Tasks: No changes found during synchronizing tasks.
+2025-04-15 17:46:41.837 [info] GlobalState: No changes found during synchronizing ui state.
+2025-04-15 17:46:41.900 [info] Extensions: No changes found during synchronizing extensions.
+2025-04-15 17:46:41.901 [info] Profiles: No changes found during synchronizing profiles.
+2025-04-15 17:46:41.909 [info] Sync done. Took 406ms
+2025-04-15 17:46:45.165 [info] [AutoSync] Triggered by Activity
+2025-04-15 17:46:45.165 [info] Sync started.
+2025-04-15 17:46:45.185 [info] Settings: No changes found during synchronizing settings.
+2025-04-15 17:46:45.186 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-04-15 17:46:45.189 [info] Snippets: No changes found during synchronizing snippets.
+2025-04-15 17:46:45.191 [info] Tasks: No changes found during synchronizing tasks.
+2025-04-15 17:46:45.255 [info] Request failed {"url":"https://vscode-sync.trafficmanager.net/v1/resource/globalState","status":412,"execution-id":"081acbfc-b9ab-4e92-a395-a48710783ae5","operation-id":"bff6c5cc70524fdda8dec1bd786a5f34"} Precondition failed
+2025-04-15 17:46:45.256 [info] GlobalState: Failed to synchronize as there is a new remote version available. Synchronizing again...
+2025-04-15 17:46:45.305 [info] GlobalState: Updated global state ["extensions.trustedPublishers"]
+2025-04-15 17:46:45.305 [info] GlobalState: Updated local ui state
+2025-04-15 17:46:45.365 [info] GlobalState: Updated remote ui state. Updated: cpp.1.lastSessionDate,cpp.1.sessionCount,java.2.lastSessionDate,java.2.sessionCount,javascript.1.lastSessionDate,javascript.1.sessionCount,typescript.1.lastSessionDate,typescript.1.sessionCount,csharp.1.lastSessionDate,csharp.1.sessionCount.
+2025-04-15 17:46:45.378 [info] GlobalState: Updated last synchronized ui state
+2025-04-15 17:46:45.399 [info] Extensions: No changes found during synchronizing extensions.
+2025-04-15 17:46:45.402 [info] Profiles: No changes found during synchronizing profiles.
+2025-04-15 17:46:45.403 [info] Sync done. Took 238ms

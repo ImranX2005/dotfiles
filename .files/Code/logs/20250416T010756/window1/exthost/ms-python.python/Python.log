@@ -1,0 +1,9 @@
+2025-04-16 01:07:59.602 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-04-16 01:07:59.602 [info] Experiment 'pythonSurveyNotificationcf' is active
+2025-04-16 01:07:59.602 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-04-16 01:07:59.602 [warning] Dir "/home/imran/Desktop/Code/.pixi/envs" is not watchable (directory does not exist)
+2025-04-16 01:07:59.603 [info] Python interpreter path: /run/current-system/sw/bin/python
+2025-04-16 01:07:59.636 [info] > pyenv which python
+2025-04-16 01:07:59.636 [info] cwd: .
+2025-04-16 01:08:01.486 [info] Starting Pylance language server.
+2025-04-16 01:09:44.385 [info] CreateEnv Trigger - Skipping for /home/imran/Desktop/Code/demo(4-16-2025).py

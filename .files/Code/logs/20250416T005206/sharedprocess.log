@@ -1,0 +1,12 @@
+2025-04-16 00:52:14.567 [info] Getting Manifest... dracula-theme.theme-dracula
+2025-04-16 00:52:14.633 [info] Installing extension: dracula-theme.theme-dracula {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/imran/.vscode/extensions/extensions.json","path":"/home/imran/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.98.2","date":"2025-03-12T13:32:45.399Z"}}
+2025-04-16 00:52:14.633 [info] Installing the extension without checking dependencies and pack dracula-theme.theme-dracula
+2025-04-16 00:52:14.876 [info] Extension signature verification result for dracula-theme.theme-dracula: UnknownError. Internal Code: 159. Executed: true. Duration: 30ms.
+2025-04-16 00:52:14.911 [info] Extracted extension to file:///home/imran/.vscode/extensions/dracula-theme.theme-dracula-2.25.1: dracula-theme.theme-dracula
+2025-04-16 00:52:14.921 [info] Renamed to /home/imran/.vscode/extensions/dracula-theme.theme-dracula-2.25.1
+2025-04-16 00:52:14.950 [info] Extension installed successfully: dracula-theme.theme-dracula vscode-userdata:/home/imran/.vscode/extensions/extensions.json
+2025-04-16 01:02:46.575 [info] Uninstalling extension from the profile: vscodevim.vim@1.29.0 vscode-userdata:/home/imran/.vscode/extensions/extensions.json
+2025-04-16 01:02:46.583 [info] Uninstalling the extension without including packed extension vscodevim.vim@1.29.0
+2025-04-16 01:02:46.583 [info] Uninstalling the extension without checking dependents vscodevim.vim@1.29.0
+2025-04-16 01:02:46.597 [info] Marked extension as removed vscodevim.vim-1.29.0
+2025-04-16 01:02:46.713 [info] Successfully uninstalled extension from the profile vscodevim.vim@1.29.0 vscode-userdata:/home/imran/.vscode/extensions/extensions.json

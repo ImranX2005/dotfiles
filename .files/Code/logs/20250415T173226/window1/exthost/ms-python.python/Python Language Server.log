@@ -1,0 +1,55 @@
+2025-04-15 17:34:42.199 [info] (Client) Pylance async client (2025.4.1) started with python extension (2025.4.0)
+2025-04-15 17:34:42.451 [info] [Info  - 5:34:42 PM] (40850) Server root directory: file:///home/imran/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist
+2025-04-15 17:34:42.452 [info] [Info  - 5:34:42 PM] (40850) Pylance language server 2025.4.1 (pyright version 1.1.398, commit 4f24eccc) starting
+2025-04-15 17:34:42.452 [info] [Info  - 5:34:42 PM] (40850) Starting service instance "Code" for workspace "/home/imran/Desktop/Code"
+2025-04-15 17:34:42.548 [info] [Info  - 5:34:42 PM] (40850) Setting environmentName for service "Code": "3.12.8 (global)"
+2025-04-15 17:34:42.548 [info] [Info  - 5:34:42 PM] (40850) Setting pythonPath for service "Code": "/run/current-system/sw/bin/python"
+2025-04-15 17:34:42.548 [info] [Info  - 5:34:42 PM] (40850) No include entries specified; assuming /home/imran/Desktop/Code
+2025-04-15 17:34:42.549 [info] [Info  - 5:34:42 PM] (40850) Auto-excluding **/node_modules
+2025-04-15 17:34:42.549 [info] [Info  - 5:34:42 PM] (40850) Auto-excluding **/__pycache__
+2025-04-15 17:34:42.551 [info] [Info  - 5:34:42 PM] (40850) Auto-excluding **/.*
+2025-04-15 17:34:42.596 [info] [Info  - 5:34:42 PM] (40850) Assuming Python version 3.12.8.final.0
+2025-04-15 17:34:42.709 [info] [Info  - 5:34:42 PM] (40850) Found 16 source files
+2025-04-15 17:34:42.757 [info] [Info  - 5:34:42 PM] (40850) Setting environmentName for service "Code": "3.12.8 (global)"
+2025-04-15 17:34:42.757 [info] [Info  - 5:34:42 PM] (40850) Setting pythonPath for service "Code": "/run/current-system/sw/bin/python"
+2025-04-15 17:34:42.758 [info] [Info  - 5:34:42 PM] (40850) No include entries specified; assuming /home/imran/Desktop/Code
+2025-04-15 17:34:42.758 [info] [Info  - 5:34:42 PM] (40850) Auto-excluding **/node_modules
+2025-04-15 17:34:42.758 [info] [Info  - 5:34:42 PM] (40850) Auto-excluding **/__pycache__
+2025-04-15 17:34:42.758 [info] [Info  - 5:34:42 PM] (40850) Auto-excluding **/.*
+2025-04-15 17:34:42.765 [info] [Info  - 5:34:42 PM] (40850) Assuming Python version 3.12.8.final.0
+2025-04-15 17:34:42.828 [info] [Info  - 5:34:42 PM] (40850) Found 16 source files
+2025-04-15 17:34:43.360 [info] [Info  - 5:34:43 PM] (40850) BG: Priority queue background worker(2) root directory: file:///home/imran/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist
+2025-04-15 17:34:43.361 [info] [Info  - 5:34:43 PM] (40850) BG: Priority queue background worker(2) started
+2025-04-15 17:34:43.643 [info] [Info  - 5:34:43 PM] (40850) BG: Indexer background runner(3) root directory: file:///home/imran/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist (index)
+2025-04-15 17:34:43.643 [info] [Info  - 5:34:43 PM] (40850) BG: Indexing(3) started
+2025-04-15 17:34:44.171 [info] [Info  - 5:34:44 PM] (40850) BG: scanned(3) 11 files over 1 exec env
+2025-04-15 17:34:44.620 [info] [Info  - 5:34:44 PM] (40850) BG: indexed(3) 11 files over 1 exec env
+2025-04-15 17:34:44.628 [info] [Info  - 5:34:44 PM] (40850) BG: Indexing finished(3).
+2025-04-15 17:35:42.809 [info] [Info  - 5:35:42 PM] Server process exited successfully
+2025-04-15 17:35:43.336 [info] (Client) Pylance async client (2025.4.1) started with python extension (2025.4.0)
+2025-04-15 17:35:43.979 [info] [Info  - 5:35:43 PM] (41829) Server root directory: file:///home/imran/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist
+2025-04-15 17:35:43.981 [info] [Info  - 5:35:43 PM] (41829) Pylance language server 2025.4.1 (pyright version 1.1.398, commit 4f24eccc) starting
+2025-04-15 17:35:43.987 [info] [Info  - 5:35:43 PM] (41829) Starting service instance "Code" for workspace "/home/imran/Desktop/Code"
+2025-04-15 17:35:44.027 [info] [Info  - 5:35:44 PM] (41829) Setting environmentName for service "Code": "3.12.8 (global)"
+2025-04-15 17:35:44.027 [info] [Info  - 5:35:44 PM] (41829) Setting pythonPath for service "Code": "/run/current-system/sw/bin/python"
+2025-04-15 17:35:44.028 [info] [Info  - 5:35:44 PM] (41829) No include entries specified; assuming /home/imran/Desktop/Code
+2025-04-15 17:35:44.028 [info] [Info  - 5:35:44 PM] (41829) Auto-excluding **/node_modules
+2025-04-15 17:35:44.028 [info] [Info  - 5:35:44 PM] (41829) Auto-excluding **/__pycache__
+2025-04-15 17:35:44.028 [info] [Info  - 5:35:44 PM] (41829) Auto-excluding **/.*
+2025-04-15 17:35:44.055 [info] [Info  - 5:35:44 PM] (41829) Assuming Python version 3.12.8.final.0
+2025-04-15 17:35:44.147 [info] [Info  - 5:35:44 PM] (41829) Found 16 source files
+2025-04-15 17:35:44.172 [info] [Info  - 5:35:44 PM] (41829) Setting environmentName for service "Code": "3.12.8 (global)"
+2025-04-15 17:35:44.172 [info] [Info  - 5:35:44 PM] (41829) Setting pythonPath for service "Code": "/run/current-system/sw/bin/python"
+2025-04-15 17:35:44.172 [info] [Info  - 5:35:44 PM] (41829) No include entries specified; assuming /home/imran/Desktop/Code
+2025-04-15 17:35:44.172 [info] [Info  - 5:35:44 PM] (41829) Auto-excluding **/node_modules
+2025-04-15 17:35:44.172 [info] [Info  - 5:35:44 PM] (41829) Auto-excluding **/__pycache__
+2025-04-15 17:35:44.173 [info] [Info  - 5:35:44 PM] (41829) Auto-excluding **/.*
+2025-04-15 17:35:44.202 [info] [Info  - 5:35:44 PM] (41829) Assuming Python version 3.12.8.final.0
+2025-04-15 17:35:44.268 [info] [Info  - 5:35:44 PM] (41829) Found 16 source files
+2025-04-15 17:35:44.751 [info] [Info  - 5:35:44 PM] (41829) BG: Priority queue background worker(2) root directory: file:///home/imran/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist
+2025-04-15 17:35:44.752 [info] [Info  - 5:35:44 PM] (41829) BG: Priority queue background worker(2) started
+2025-04-15 17:35:48.420 [info] [Info  - 5:35:48 PM] (41829) BG: Indexer background runner(3) root directory: file:///home/imran/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist (index)
+2025-04-15 17:35:48.420 [info] [Info  - 5:35:48 PM] (41829) BG: Indexing(3) started
+2025-04-15 17:35:48.759 [info] [Info  - 5:35:48 PM] (41829) BG: scanned(3) 11 files over 1 exec env
+2025-04-15 17:35:48.914 [info] [Info  - 5:35:48 PM] (41829) BG: indexed(3) 11 files over 1 exec env
+2025-04-15 17:35:48.928 [info] [Info  - 5:35:48 PM] (41829) BG: Indexing finished(3).

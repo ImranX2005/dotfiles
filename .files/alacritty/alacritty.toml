@@ -1,0 +1,52 @@
+[env]
+TERM = "xterm-256color"
+
+[window]
+startup_mode = "Maximized"
+  
+
+
+
+
+
+#decorations = "Buttonless"
+option_as_alt = "Both"
+
+[font]
+#normal.family = "Source Code Pro Black "
+size = 20
+
+
+[colors.primary]
+background = "#0d0d1a"  # dark blue-black
+foreground = "#f8f8f2"  # light text
+
+[colors.normal]
+black   = "#1e1e2e"
+red     = "#ff5c57"
+green   = "#5af78e"
+yellow  = "#f3f99d"
+blue    = "#57c7ff"
+magenta = "#ff6ac1"
+cyan    = "#9aedfe"
+white   = "#f1f1f0"
+
+[colors.bright]
+black   = "#686868"
+red     = "#ff5c57"
+green   = "#5af78e"
+yellow  = "#f3f99d"
+blue    = "#57c7ff"
+magenta = "#ff6ac1"
+cyan    = "#9aedfe"
+white   = "#ffffff"
+
+[colors.cursor]
+text   = "#000000"
+cursor = "#ff9933"  # orange, like Goku’s gi
+
+[colors.selection]
+text       = "#000000"
+background = "#57c7ff"
+
+
