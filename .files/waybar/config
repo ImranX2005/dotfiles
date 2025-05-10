@@ -2,8 +2,8 @@
   "layer": "top",
   "position": "top",
   "modules-left": ["hyprland/workspaces"],
-  "modules-center": [],
-  "modules-right": ["custom/time", "pulseaudio"],
+  "modules-center": ["custom/time",],
+  "modules-right": ["pulseaudio"],
 
   "hyprland/workspaces": {
     "format": "{name}",
@@ -20,7 +20,7 @@
     "format": "{icon} {volume}%",
     "format-muted": " muted",
     "on-click": "pavucontrol",
-    "scroll-step": 5,
+    "scroll-step": 10,
     "format-icons": {
       "default": ["", "", ""]
     }

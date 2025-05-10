@@ -7,7 +7,7 @@
         "folders": [],
         "emptyWindows": [
             {
-                "backupFolder": "1746588014616"
+                "backupFolder": "1746758045916"
             }
         ]
     },
@@ -15,18 +15,19 @@
     "profileAssociations": {
         "workspaces": {},
         "emptyWindows": {
-            "1746588014616": "__default__profile__"
+            "1746588014616": "__default__profile__",
+            "1746758045916": "__default__profile__"
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/imran/.config/Code - OSS/Backups/1746588014616",
+            "backupPath": "/home/imran/.config/Code - OSS/Backups/1746758045916",
             "uiState": {
                 "mode": 1,
                 "x": 4,
-                "y": 4,
+                "y": 37,
                 "width": 1394,
-                "height": 1432
+                "height": 1399
             }
         },
         "openedWindows": []
